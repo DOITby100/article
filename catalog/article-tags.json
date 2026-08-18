@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "articles": {
+    "022": {
+      "primary_category": "long-term-health",
+      "dimensions": [
+        "structure",
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "foundation",
+        "movement",
+        "load",
+        "recovery",
+        "review"
+      ],
+      "body_regions": [
+        "core-trunk",
+        "pelvis-hip",
+        "whole-body"
+      ],
+      "movement_tasks": [
+        "sit-to-stand",
+        "walking",
+        "running",
+        "stairs",
+        "carry"
+      ],
+      "capacities": [
+        "strength",
+        "stability",
+        "coordination",
+        "recovery-capacity"
+      ]
+    },
+    "023": {
+      "primary_category": "evidence-myths",
+      "dimensions": [
+        "structure",
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "breathing",
+        "foundation",
+        "movement",
+        "load",
+        "recovery",
+        "review"
+      ],
+      "body_regions": [
+        "ribcage-spine",
+        "core-trunk",
+        "pelvis-hip",
+        "whole-body"
+      ],
+      "movement_tasks": [
+        "standing",
+        "single-leg",
+        "push",
+        "rotation",
+        "carry"
+      ],
+      "capacities": [
+        "strength",
+        "stability",
+        "balance",
+        "coordination",
+        "recovery-capacity"
+      ]
+    }
+  }
+}

@@ -1,0 +1,6 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 健康与使用边界
+    url: https://github.com/shixi-11/beyond100/blob/main/docs/health-boundary.md
+    about: 本仓库不提供个体医疗诊断或治疗建议
+

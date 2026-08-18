@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "primary_categories": {
+    "method-judgment": "方法与判断",
+    "body-regions": "身体区域",
+    "movement-patterns": "动作模式",
+    "physical-capacities": "运动能力",
+    "load-recovery": "负荷与恢复",
+    "long-term-health": "生活功能与长期健康",
+    "evidence-myths": "证据与常见误区"
+  },
+  "dimensions": {
+    "structure": "结构",
+    "function": "功能",
+    "rhythm": "节律"
+  },
+  "decision_stages": {
+    "red-flags": "红旗",
+    "breathing": "呼吸",
+    "foundation": "地基",
+    "movement": "动作",
+    "load": "负荷",
+    "recovery": "恢复",
+    "review": "复盘"
+  },
+  "body_regions": {
+    "head-neck": "头颈",
+    "shoulder-upper-limb": "肩与上肢",
+    "ribcage-spine": "胸廓与脊柱",
+    "core-trunk": "核心与躯干",
+    "pelvis-hip": "骨盆与髋",
+    "knee": "膝",
+    "foot-ankle": "足踝",
+    "whole-body": "全身联动"
+  },
+  "movement_tasks": {
+    "standing": "站立",
+    "sit-to-stand": "坐起",
+    "walking": "步行",
+    "running": "跑步",
+    "stairs": "上下楼",
+    "single-leg": "单腿支撑",
+    "squat": "深蹲",
+    "hinge": "髋铰链",
+    "push": "推",
+    "pull": "拉",
+    "overhead": "上举",
+    "rotation": "旋转",
+    "carry": "搬提"
+  },
+  "capacities": {
+    "strength": "力量",
+    "speed": "速度",
+    "power": "爆发力",
+    "mobility": "活动度",
+    "stability": "稳定",
+    "balance": "平衡",
+    "coordination": "协调",
+    "proprioception": "本体感觉",
+    "cardiorespiratory": "心肺耐力",
+    "recovery-capacity": "恢复能力"
+  }
+}

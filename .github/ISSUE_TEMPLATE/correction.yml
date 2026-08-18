@@ -1,0 +1,37 @@
+name: 内容勘误
+description: 报告文章、数据、图片、分类或链接问题
+title: "[勘误] "
+labels:
+  - correction
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢你帮助《超越百岁》变得更准确。请勿提交个人病史、检查报告、联系方式或其他隐私信息。
+  - type: input
+    id: file
+    attributes:
+      label: 对应文章或文件
+      placeholder: 文章标题、篇号或仓库路径
+    validations:
+      required: true
+  - type: textarea
+    id: location
+    attributes:
+      label: 具体位置
+      placeholder: 请说明段落、图片、字段或链接位置
+    validations:
+      required: true
+  - type: textarea
+    id: issue
+    attributes:
+      label: 问题与建议
+      placeholder: 目前内容有什么问题？建议如何修改？
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: 可核查依据
+      placeholder: 权威指南、原始研究、官方页面或可复现步骤
+

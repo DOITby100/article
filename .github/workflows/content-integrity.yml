@@ -1,0 +1,25 @@
+name: Public content integrity
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Rebuild deterministic public indexes
+        run: python3 scripts/build_public_catalog.py
+      - name: Verify generated files are current
+        run: |
+          git diff --exit-code -- \
+            catalog/articles.json \
+            catalog/assets-manifest.json \
+            knowledge/README.md \
+            platforms/wechat/articles/README.md
+      - name: Validate public repository
+        run: python3 scripts/validate_public_repo.py
