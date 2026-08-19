@@ -71,6 +71,36 @@
         "coordination",
         "recovery-capacity"
       ]
+    },
+    "024": {
+      "primary_category": "movement-patterns",
+      "dimensions": [
+        "structure",
+        "function"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "breathing",
+        "foundation",
+        "movement",
+        "load",
+        "review"
+      ],
+      "body_regions": [
+        "shoulder-upper-limb",
+        "ribcage-spine",
+        "core-trunk",
+        "pelvis-hip",
+        "whole-body"
+      ],
+      "movement_tasks": [
+        "push"
+      ],
+      "capacities": [
+        "strength",
+        "stability",
+        "coordination"
+      ]
     }
   }
 }

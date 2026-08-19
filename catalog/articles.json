@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 2,
-  "last_content_date": "2026-08-18",
-  "content_revision": "7b6c1b8a7cee9726baa62e27c045a928ab7656dbf68d625e4e367eac571bb809",
+  "article_count": 3,
+  "last_content_date": "2026-08-19",
+  "content_revision": "a5b0fedda70747536952ba6b7cffefa7c086a6ae1263a659e465b82f95de0514",
   "articles": [
     {
       "id": 22,
@@ -115,6 +115,58 @@
           "balance",
           "coordination",
           "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 24,
+      "stable_id": "beyond100-024",
+      "series": "超越百岁",
+      "title": "平板支撑做到塌腰，不如不做",
+      "content_date": "2026-08-19",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20260819_第024篇_平板支撑做到塌腰，不如不做/20260819_第024篇_平板支撑做到塌腰，不如不做.md",
+      "summary_path": "platforms/wechat/articles/20260819_第024篇_平板支撑做到塌腰，不如不做/20260819_第024篇_平板支撑做到塌腰，不如不做_公众号摘要.md",
+      "summary": "塌腰不等于核心失活，但位置持续下沉、呼吸消失，说明当前平板可能已超过控制能力。学会观察骨盆、推地与呼吸，并用降阶和短组重建稳定控制，比盯着秒表硬撑更有效、更安全。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20260819_第024篇_平板支撑做到塌腰，不如不做/20260819_第024篇_平板支撑做到塌腰，不如不做_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20260819_第024篇_平板支撑做到塌腰，不如不做/20260819_第024篇_平板支撑做到塌腰，不如不做_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20260819_第024篇_平板支撑做到塌腰，不如不做/20260819_第024篇_平板支撑做到塌腰，不如不做_插图01_对照·控制与塌腰.jpg",
+        "platforms/wechat/articles/20260819_第024篇_平板支撑做到塌腰，不如不做/20260819_第024篇_平板支撑做到塌腰，不如不做_插图02_动作·高位平板.jpg",
+        "platforms/wechat/articles/20260819_第024篇_平板支撑做到塌腰，不如不做/20260819_第024篇_平板支撑做到塌腰，不如不做_插图03_核心概念·跪姿降阶.jpg",
+        "platforms/wechat/articles/20260819_第024篇_平板支撑做到塌腰，不如不做/20260819_第024篇_平板支撑做到塌腰，不如不做_插图04_路径·从降阶到短组.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "movement-patterns",
+        "dimensions": [
+          "structure",
+          "function"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "breathing",
+          "foundation",
+          "movement",
+          "load",
+          "review"
+        ],
+        "body_regions": [
+          "shoulder-upper-limb",
+          "ribcage-spine",
+          "core-trunk",
+          "pelvis-hip",
+          "whole-body"
+        ],
+        "movement_tasks": [
+          "push"
+        ],
+        "capacities": [
+          "strength",
+          "stability",
+          "coordination"
         ]
       }
     }

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "file_count": 14,
-  "content_revision": "7b6c1b8a7cee9726baa62e27c045a928ab7656dbf68d625e4e367eac571bb809",
+  "file_count": 22,
+  "content_revision": "a5b0fedda70747536952ba6b7cffefa7c086a6ae1263a659e465b82f95de0514",
   "files": [
     {
       "relative_path": "platforms/wechat/articles/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的.md",
@@ -72,6 +72,46 @@
       "relative_path": "platforms/wechat/articles/20260818_第023篇_为什么瑜伽老师都强调“收腹”？因为腹横肌是你的天然腰带/20260818_第023篇_为什么瑜伽老师都强调“收腹”？因为腹横肌是你的天然腰带_插图03_行动路径·从自然呼吸到任务支撑.jpg",
       "size_bytes": 850634,
       "sha256": "e3fa322648dc80cd433eb88724bad297f17fd52b82784b97b45c797e47fb224c"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260819_第024篇_平板支撑做到塌腰，不如不做/20260819_第024篇_平板支撑做到塌腰，不如不做.md",
+      "size_bytes": 9301,
+      "sha256": "50156c26c22228075e12727e561b88631dea491fce994c84f55df46b90130581"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260819_第024篇_平板支撑做到塌腰，不如不做/20260819_第024篇_平板支撑做到塌腰，不如不做_公众号摘要.md",
+      "size_bytes": 244,
+      "sha256": "5dc029d5717d357ed12af5f3172d73a93037711840516e4ff1ee0769a79096f1"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260819_第024篇_平板支撑做到塌腰，不如不做/20260819_第024篇_平板支撑做到塌腰，不如不做_封面_16比9.jpg",
+      "size_bytes": 954612,
+      "sha256": "01c11bc98383c93a20bf216bc66417e1cd0d3083f0a7993945f4abb70016abad"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260819_第024篇_平板支撑做到塌腰，不如不做/20260819_第024篇_平板支撑做到塌腰，不如不做_封面_235比100.jpg",
+      "size_bytes": 1245055,
+      "sha256": "3d645aceee38cdcff63f9ad60199a0b964519a6eaf6588d19030152d2a13573a"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260819_第024篇_平板支撑做到塌腰，不如不做/20260819_第024篇_平板支撑做到塌腰，不如不做_插图01_对照·控制与塌腰.jpg",
+      "size_bytes": 893573,
+      "sha256": "79e6405b1d30d862f34d7fe6f315adf1cdfe3660d67089314be6fe5073749efe"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260819_第024篇_平板支撑做到塌腰，不如不做/20260819_第024篇_平板支撑做到塌腰，不如不做_插图02_动作·高位平板.jpg",
+      "size_bytes": 1187185,
+      "sha256": "eef73bc8f023c54fbd36b6e84641f2855992d541c6592ad8f716fddb03182131"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260819_第024篇_平板支撑做到塌腰，不如不做/20260819_第024篇_平板支撑做到塌腰，不如不做_插图03_核心概念·跪姿降阶.jpg",
+      "size_bytes": 1221910,
+      "sha256": "0da75c2d417a5bb8d7a14e1b706f20b5c0cc4e8bfb4c511bed77fd35af29a100"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260819_第024篇_平板支撑做到塌腰，不如不做/20260819_第024篇_平板支撑做到塌腰，不如不做_插图04_路径·从降阶到短组.jpg",
+      "size_bytes": 991170,
+      "sha256": "c487b37171f30fc7c01d510a463a9e5a114d33d3c634e23e68ef43dbe60a0a67"
     }
   ]
 }
