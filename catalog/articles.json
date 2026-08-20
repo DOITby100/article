@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 3,
-  "last_content_date": "2026-08-19",
-  "content_revision": "a5b0fedda70747536952ba6b7cffefa7c086a6ae1263a659e465b82f95de0514",
+  "article_count": 4,
+  "last_content_date": "2026-08-20",
+  "content_revision": "1d1dc2ae0e9b88b509c1cd162c00a66401bca59834caeb7c704e3a9260fe68d4",
   "articles": [
     {
       "id": 22,
@@ -167,6 +167,61 @@
           "strength",
           "stability",
           "coordination"
+        ]
+      }
+    },
+    {
+      "id": 25,
+      "stable_id": "beyond100-025",
+      "series": "超越百岁",
+      "title": "为什么运动时要“收核心”？这不是玄学，是物理学",
+      "content_date": "2026-08-20",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20260820_第025篇_为什么运动时要“收核心”？这不是玄学，是物理学/20260820_第025篇_为什么运动时要“收核心”？这不是玄学，是物理学.md",
+      "summary_path": "platforms/wechat/articles/20260820_第025篇_为什么运动时要“收核心”？这不是玄学，是物理学/20260820_第025篇_为什么运动时要“收核心”？这不是玄学，是物理学_公众号摘要.md",
+      "summary": "“收核心”不是把肚子锁死，而是按负荷方向、距离与速度调节躯干刚度。最大力绷紧未必等于更好控制；读懂动作路径、呼吸和恢复这三类反馈，你才能找到够用不过量的支撑档位。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20260820_第025篇_为什么运动时要“收核心”？这不是玄学，是物理学/20260820_第025篇_为什么运动时要“收核心”？这不是玄学，是物理学_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20260820_第025篇_为什么运动时要“收核心”？这不是玄学，是物理学/20260820_第025篇_为什么运动时要“收核心”？这不是玄学，是物理学_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20260820_第025篇_为什么运动时要“收核心”？这不是玄学，是物理学/20260820_第025篇_为什么运动时要“收核心”？这不是玄学，是物理学_插图01_物理机制·距离改变力矩.jpg",
+        "platforms/wechat/articles/20260820_第025篇_为什么运动时要“收核心”？这不是玄学，是物理学/20260820_第025篇_为什么运动时要“收核心”？这不是玄学，是物理学_插图02_核心概念·够用与过量.jpg",
+        "platforms/wechat/articles/20260820_第025篇_为什么运动时要“收核心”？这不是玄学，是物理学/20260820_第025篇_为什么运动时要“收核心”？这不是玄学，是物理学_插图03_行动练习·单侧提重.jpg",
+        "platforms/wechat/articles/20260820_第025篇_为什么运动时要“收核心”？这不是玄学，是物理学/20260820_第025篇_为什么运动时要“收核心”？这不是玄学，是物理学_插图04_进阶路径·负荷距离与行走.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "evidence-myths",
+        "dimensions": [
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "breathing",
+          "foundation",
+          "movement",
+          "load",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "ribcage-spine",
+          "core-trunk",
+          "pelvis-hip",
+          "whole-body"
+        ],
+        "movement_tasks": [
+          "standing",
+          "walking",
+          "carry"
+        ],
+        "capacities": [
+          "strength",
+          "stability",
+          "coordination",
+          "recovery-capacity"
         ]
       }
     }

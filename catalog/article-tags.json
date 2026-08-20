@@ -101,6 +101,39 @@
         "stability",
         "coordination"
       ]
+    },
+    "025": {
+      "primary_category": "evidence-myths",
+      "dimensions": [
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "breathing",
+        "foundation",
+        "movement",
+        "load",
+        "recovery",
+        "review"
+      ],
+      "body_regions": [
+        "ribcage-spine",
+        "core-trunk",
+        "pelvis-hip",
+        "whole-body"
+      ],
+      "movement_tasks": [
+        "standing",
+        "walking",
+        "carry"
+      ],
+      "capacities": [
+        "strength",
+        "stability",
+        "coordination",
+        "recovery-capacity"
+      ]
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "file_count": 22,
-  "content_revision": "a5b0fedda70747536952ba6b7cffefa7c086a6ae1263a659e465b82f95de0514",
+  "file_count": 30,
+  "content_revision": "1d1dc2ae0e9b88b509c1cd162c00a66401bca59834caeb7c704e3a9260fe68d4",
   "files": [
     {
       "relative_path": "platforms/wechat/articles/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的.md",
@@ -112,6 +112,46 @@
       "relative_path": "platforms/wechat/articles/20260819_第024篇_平板支撑做到塌腰，不如不做/20260819_第024篇_平板支撑做到塌腰，不如不做_插图04_路径·从降阶到短组.jpg",
       "size_bytes": 991170,
       "sha256": "c487b37171f30fc7c01d510a463a9e5a114d33d3c634e23e68ef43dbe60a0a67"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260820_第025篇_为什么运动时要“收核心”？这不是玄学，是物理学/20260820_第025篇_为什么运动时要“收核心”？这不是玄学，是物理学.md",
+      "size_bytes": 9474,
+      "sha256": "e8967f98527ff91d59fa81e21733210eea2f0eb9a8d236f9d3804e4cdb2beb3e"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260820_第025篇_为什么运动时要“收核心”？这不是玄学，是物理学/20260820_第025篇_为什么运动时要“收核心”？这不是玄学，是物理学_公众号摘要.md",
+      "size_bytes": 244,
+      "sha256": "08aac818e8d1e942e6da73e55474acecdc7367d3e5273dd665220b01fe3a543d"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260820_第025篇_为什么运动时要“收核心”？这不是玄学，是物理学/20260820_第025篇_为什么运动时要“收核心”？这不是玄学，是物理学_封面_16比9.jpg",
+      "size_bytes": 1254689,
+      "sha256": "33d6eae61f95ea9991aae71f8f09a792b4b9abbcad2ca3bbd5315c2f15f557b8"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260820_第025篇_为什么运动时要“收核心”？这不是玄学，是物理学/20260820_第025篇_为什么运动时要“收核心”？这不是玄学，是物理学_封面_235比100.jpg",
+      "size_bytes": 1459008,
+      "sha256": "588a2b757d7deefa2abb3fa4f848ed64cb1602037baf0aaa9a3eed616879da59"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260820_第025篇_为什么运动时要“收核心”？这不是玄学，是物理学/20260820_第025篇_为什么运动时要“收核心”？这不是玄学，是物理学_插图01_物理机制·距离改变力矩.jpg",
+      "size_bytes": 738606,
+      "sha256": "bfc293407e38546b8c256a768c17f1b7217fe51e34d57e814769fe87410103fb"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260820_第025篇_为什么运动时要“收核心”？这不是玄学，是物理学/20260820_第025篇_为什么运动时要“收核心”？这不是玄学，是物理学_插图02_核心概念·够用与过量.jpg",
+      "size_bytes": 1001292,
+      "sha256": "4e271562085a13bdb53be708c3a45b01abee091a3710195822b1f096e8dac165"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260820_第025篇_为什么运动时要“收核心”？这不是玄学，是物理学/20260820_第025篇_为什么运动时要“收核心”？这不是玄学，是物理学_插图03_行动练习·单侧提重.jpg",
+      "size_bytes": 1076447,
+      "sha256": "4f5f9c5f31944933e45cc375dd9e1588e17fc42d25586edcff3037caece3e244"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260820_第025篇_为什么运动时要“收核心”？这不是玄学，是物理学/20260820_第025篇_为什么运动时要“收核心”？这不是玄学，是物理学_插图04_进阶路径·负荷距离与行走.jpg",
+      "size_bytes": 810987,
+      "sha256": "da9c09df6c004398344e51d49194e19170fc0d0fe5ede79a1ff22ee5e10ece56"
     }
   ]
 }
