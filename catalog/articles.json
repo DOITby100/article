@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 4,
-  "last_content_date": "2026-08-20",
-  "content_revision": "1d1dc2ae0e9b88b509c1cd162c00a66401bca59834caeb7c704e3a9260fe68d4",
+  "article_count": 5,
+  "last_content_date": "2026-08-21",
+  "content_revision": "a1a27f1e6ed891740d4b8220b822f5d7a6dec42b4e96a634dbe095dbc6985d89",
   "articles": [
     {
       "id": 22,
@@ -219,6 +219,56 @@
         ],
         "capacities": [
           "strength",
+          "stability",
+          "coordination",
+          "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 26,
+      "stable_id": "beyond100-026",
+      "series": "超越百岁",
+      "title": "你的“将军肚”，可能是膈肌不会工作了",
+      "content_date": "2026-08-21",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20260821_第026篇_你的“将军肚”，可能是膈肌不会工作了/20260821_第026篇_你的“将军肚”，可能是膈肌不会工作了.md",
+      "summary_path": "platforms/wechat/articles/20260821_第026篇_你的“将军肚”，可能是膈肌不会工作了/20260821_第026篇_你的“将军肚”，可能是膈肌不会工作了_公众号摘要.md",
+      "summary": "肚子向前突出，不等于膈肌无力，更不能只凭外形判断。先区分长期稳定的腰围变化与随进食、久坐、呼吸改变的动态腹胀，再用同条件观察和低风险练习找到更合适的评估路径。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20260821_第026篇_你的“将军肚”，可能是膈肌不会工作了/20260821_第026篇_你的“将军肚”，可能是膈肌不会工作了_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20260821_第026篇_你的“将军肚”，可能是膈肌不会工作了/20260821_第026篇_你的“将军肚”，可能是膈肌不会工作了_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20260821_第026篇_你的“将军肚”，可能是膈肌不会工作了/20260821_第026篇_你的“将军肚”，可能是膈肌不会工作了_插图01_核心概念·稳定腰围与动态腹胀.jpg",
+        "platforms/wechat/articles/20260821_第026篇_你的“将军肚”，可能是膈肌不会工作了/20260821_第026篇_你的“将军肚”，可能是膈肌不会工作了_插图02_呼吸机制·胸廓膈肌与腹壁协同.jpg",
+        "platforms/wechat/articles/20260821_第026篇_你的“将军肚”，可能是膈肌不会工作了/20260821_第026篇_你的“将军肚”，可能是膈肌不会工作了_插图03_同人观察·三天条件对照.jpg",
+        "platforms/wechat/articles/20260821_第026篇_你的“将军肚”，可能是膈肌不会工作了/20260821_第026篇_你的“将军肚”，可能是膈肌不会工作了_插图04_行动路径·毛巾呼吸与后坐进阶.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "evidence-myths",
+        "dimensions": [
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "breathing",
+          "foundation",
+          "movement",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "ribcage-spine",
+          "core-trunk",
+          "whole-body"
+        ],
+        "movement_tasks": [
+          "standing"
+        ],
+        "capacities": [
           "stability",
           "coordination",
           "recovery-capacity"

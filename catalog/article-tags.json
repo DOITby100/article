@@ -134,6 +134,34 @@
         "coordination",
         "recovery-capacity"
       ]
+    },
+    "026": {
+      "primary_category": "evidence-myths",
+      "dimensions": [
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "breathing",
+        "foundation",
+        "movement",
+        "recovery",
+        "review"
+      ],
+      "body_regions": [
+        "ribcage-spine",
+        "core-trunk",
+        "whole-body"
+      ],
+      "movement_tasks": [
+        "standing"
+      ],
+      "capacities": [
+        "stability",
+        "coordination",
+        "recovery-capacity"
+      ]
     }
   }
 }

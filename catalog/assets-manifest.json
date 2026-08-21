@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "file_count": 30,
-  "content_revision": "1d1dc2ae0e9b88b509c1cd162c00a66401bca59834caeb7c704e3a9260fe68d4",
+  "file_count": 38,
+  "content_revision": "a1a27f1e6ed891740d4b8220b822f5d7a6dec42b4e96a634dbe095dbc6985d89",
   "files": [
     {
       "relative_path": "platforms/wechat/articles/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的.md",
@@ -115,8 +115,8 @@
     },
     {
       "relative_path": "platforms/wechat/articles/20260820_第025篇_为什么运动时要“收核心”？这不是玄学，是物理学/20260820_第025篇_为什么运动时要“收核心”？这不是玄学，是物理学.md",
-      "size_bytes": 9474,
-      "sha256": "e8967f98527ff91d59fa81e21733210eea2f0eb9a8d236f9d3804e4cdb2beb3e"
+      "size_bytes": 8849,
+      "sha256": "02184804deebc7a11580c54db2550082b833541c0179e781c47b750cb071880b"
     },
     {
       "relative_path": "platforms/wechat/articles/20260820_第025篇_为什么运动时要“收核心”？这不是玄学，是物理学/20260820_第025篇_为什么运动时要“收核心”？这不是玄学，是物理学_公众号摘要.md",
@@ -152,6 +152,46 @@
       "relative_path": "platforms/wechat/articles/20260820_第025篇_为什么运动时要“收核心”？这不是玄学，是物理学/20260820_第025篇_为什么运动时要“收核心”？这不是玄学，是物理学_插图04_进阶路径·负荷距离与行走.jpg",
       "size_bytes": 810987,
       "sha256": "da9c09df6c004398344e51d49194e19170fc0d0fe5ede79a1ff22ee5e10ece56"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260821_第026篇_你的“将军肚”，可能是膈肌不会工作了/20260821_第026篇_你的“将军肚”，可能是膈肌不会工作了.md",
+      "size_bytes": 6926,
+      "sha256": "7136a8fd5bbdcea75b9d677eefe66c55440077f2da77e18f6362b52961b920f4"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260821_第026篇_你的“将军肚”，可能是膈肌不会工作了/20260821_第026篇_你的“将军肚”，可能是膈肌不会工作了_公众号摘要.md",
+      "size_bytes": 238,
+      "sha256": "b3590ca386d7509021e736c1fc559a5ae96b22e8b3dc5b7ba98cb290ebae220f"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260821_第026篇_你的“将军肚”，可能是膈肌不会工作了/20260821_第026篇_你的“将军肚”，可能是膈肌不会工作了_封面_16比9.jpg",
+      "size_bytes": 1672513,
+      "sha256": "6274351b323920a4ea10fe50eb4ab6e8ed3531e8aecdc25f9240be9a61fc5de1"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260821_第026篇_你的“将军肚”，可能是膈肌不会工作了/20260821_第026篇_你的“将军肚”，可能是膈肌不会工作了_封面_235比100.jpg",
+      "size_bytes": 2202099,
+      "sha256": "80141689890caa294a7840c272bd3de2acbd4cec89b9078588e9a668eb75cce0"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260821_第026篇_你的“将军肚”，可能是膈肌不会工作了/20260821_第026篇_你的“将军肚”，可能是膈肌不会工作了_插图01_核心概念·稳定腰围与动态腹胀.jpg",
+      "size_bytes": 1699712,
+      "sha256": "182c3bbf8825b1aa905967a200b9a730c23e4524cf5813eb98be5c508546285f"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260821_第026篇_你的“将军肚”，可能是膈肌不会工作了/20260821_第026篇_你的“将军肚”，可能是膈肌不会工作了_插图02_呼吸机制·胸廓膈肌与腹壁协同.jpg",
+      "size_bytes": 1519806,
+      "sha256": "bd8856a7b53a7b4dff42ff18cbd31e108598a3341222b2df1f3125c0233a2171"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260821_第026篇_你的“将军肚”，可能是膈肌不会工作了/20260821_第026篇_你的“将军肚”，可能是膈肌不会工作了_插图03_同人观察·三天条件对照.jpg",
+      "size_bytes": 961708,
+      "sha256": "f5ac660cb60ab97092da20a570364a4282b189e964e445c1e6de1c6c449b383d"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260821_第026篇_你的“将军肚”，可能是膈肌不会工作了/20260821_第026篇_你的“将军肚”，可能是膈肌不会工作了_插图04_行动路径·毛巾呼吸与后坐进阶.jpg",
+      "size_bytes": 1029572,
+      "sha256": "509d52891464a9b58f24a0edd8db79e5749d6f028dcdc7a107af5a8909a9b2de"
     }
   ]
 }
