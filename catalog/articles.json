@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 5,
-  "last_content_date": "2026-08-21",
-  "content_revision": "a1a27f1e6ed891740d4b8220b822f5d7a6dec42b4e96a634dbe095dbc6985d89",
+  "article_count": 6,
+  "last_content_date": "2026-08-22",
+  "content_revision": "e2c621b2579b01ff66dd4081d015c6f686539acdd67f829cb9e8b706be955369",
   "articles": [
     {
       "id": 22,
@@ -271,6 +271,50 @@
         "capacities": [
           "stability",
           "coordination",
+          "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 27,
+      "stable_id": "beyond100-027",
+      "series": "超越百岁",
+      "title": "为什么有人一紧张就胃疼？因为你的膈肌和情绪相连",
+      "content_date": "2026-08-22",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20260822_第027篇_为什么有人一紧张就胃疼？因为你的膈肌和情绪相连/20260822_第027篇_为什么有人一紧张就胃疼？因为你的膈肌和情绪相连.md",
+      "summary_path": "platforms/wechat/articles/20260822_第027篇_为什么有人一紧张就胃疼？因为你的膈肌和情绪相连/20260822_第027篇_为什么有人一紧张就胃疼？因为你的膈肌和情绪相连_公众号摘要.md",
+      "summary": "紧张时胃疼，不等于情绪直接伤胃，也不等于膈肌出了故障。真正值得观察的是压力、脑—肠信号、呼吸与症状如何互相反馈；看懂事件前中后的顺序，才能判断先调节、先记录，还是及时就医。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20260822_第027篇_为什么有人一紧张就胃疼？因为你的膈肌和情绪相连/20260822_第027篇_为什么有人一紧张就胃疼？因为你的膈肌和情绪相连_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20260822_第027篇_为什么有人一紧张就胃疼？因为你的膈肌和情绪相连/20260822_第027篇_为什么有人一紧张就胃疼？因为你的膈肌和情绪相连_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20260822_第027篇_为什么有人一紧张就胃疼？因为你的膈肌和情绪相连/20260822_第027篇_为什么有人一紧张就胃疼？因为你的膈肌和情绪相连_插图01_系统机制·压力进入脑肠回路.jpg",
+        "platforms/wechat/articles/20260822_第027篇_为什么有人一紧张就胃疼？因为你的膈肌和情绪相连/20260822_第027篇_为什么有人一紧张就胃疼？因为你的膈肌和情绪相连_插图02_核心概念·膈肌是调节入口，不是病因开关.jpg",
+        "platforms/wechat/articles/20260822_第027篇_为什么有人一紧张就胃疼？因为你的膈肌和情绪相连/20260822_第027篇_为什么有人一紧张就胃疼？因为你的膈肌和情绪相连_插图03_同人对照·事件前中后的条件变化.jpg",
+        "platforms/wechat/articles/20260822_第027篇_为什么有人一紧张就胃疼？因为你的膈肌和情绪相连/20260822_第027篇_为什么有人一紧张就胃疼？因为你的膈肌和情绪相连_插图04_行动路径·支撑、慢呼气与条件记录.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "evidence-myths",
+        "dimensions": [
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "breathing",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "ribcage-spine",
+          "core-trunk",
+          "whole-body"
+        ],
+        "movement_tasks": [],
+        "capacities": [
           "recovery-capacity"
         ]
       }

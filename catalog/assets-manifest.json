@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "file_count": 38,
-  "content_revision": "a1a27f1e6ed891740d4b8220b822f5d7a6dec42b4e96a634dbe095dbc6985d89",
+  "file_count": 46,
+  "content_revision": "e2c621b2579b01ff66dd4081d015c6f686539acdd67f829cb9e8b706be955369",
   "files": [
     {
       "relative_path": "platforms/wechat/articles/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的.md",
@@ -192,6 +192,46 @@
       "relative_path": "platforms/wechat/articles/20260821_第026篇_你的“将军肚”，可能是膈肌不会工作了/20260821_第026篇_你的“将军肚”，可能是膈肌不会工作了_插图04_行动路径·毛巾呼吸与后坐进阶.jpg",
       "size_bytes": 1029572,
       "sha256": "509d52891464a9b58f24a0edd8db79e5749d6f028dcdc7a107af5a8909a9b2de"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260822_第027篇_为什么有人一紧张就胃疼？因为你的膈肌和情绪相连/20260822_第027篇_为什么有人一紧张就胃疼？因为你的膈肌和情绪相连.md",
+      "size_bytes": 8599,
+      "sha256": "5fd0dd9742776d2a31607a1a664d4f199f76045a78d96e521ff5b6985441f9bd"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260822_第027篇_为什么有人一紧张就胃疼？因为你的膈肌和情绪相连/20260822_第027篇_为什么有人一紧张就胃疼？因为你的膈肌和情绪相连_公众号摘要.md",
+      "size_bytes": 259,
+      "sha256": "267f17f19318e736eea494602dccfd38bf45d20c8e50f893a4e6a775d816005a"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260822_第027篇_为什么有人一紧张就胃疼？因为你的膈肌和情绪相连/20260822_第027篇_为什么有人一紧张就胃疼？因为你的膈肌和情绪相连_封面_16比9.jpg",
+      "size_bytes": 946612,
+      "sha256": "77d8604bf16b675918032bbe8f420516ee8bb761a7b85fd81c4791a412c62c68"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260822_第027篇_为什么有人一紧张就胃疼？因为你的膈肌和情绪相连/20260822_第027篇_为什么有人一紧张就胃疼？因为你的膈肌和情绪相连_封面_235比100.jpg",
+      "size_bytes": 1152260,
+      "sha256": "bcd8c9f24ddf12b480afa6f1e2455a14b9af9acddc02681c152136c34e9b77fc"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260822_第027篇_为什么有人一紧张就胃疼？因为你的膈肌和情绪相连/20260822_第027篇_为什么有人一紧张就胃疼？因为你的膈肌和情绪相连_插图01_系统机制·压力进入脑肠回路.jpg",
+      "size_bytes": 899359,
+      "sha256": "701072efc82b6c7ce6352ce99e5528dcf7cbf2dac83e230278e0d87a85b9558e"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260822_第027篇_为什么有人一紧张就胃疼？因为你的膈肌和情绪相连/20260822_第027篇_为什么有人一紧张就胃疼？因为你的膈肌和情绪相连_插图02_核心概念·膈肌是调节入口，不是病因开关.jpg",
+      "size_bytes": 854402,
+      "sha256": "c8195a3db38fdc3e9d59fdc571e067a2fd54f950e16121007a6d7fb2482ba69e"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260822_第027篇_为什么有人一紧张就胃疼？因为你的膈肌和情绪相连/20260822_第027篇_为什么有人一紧张就胃疼？因为你的膈肌和情绪相连_插图03_同人对照·事件前中后的条件变化.jpg",
+      "size_bytes": 675644,
+      "sha256": "a10f2336b3d01cf5ac7904575f28e1bbc81ffe3d247f1053ae3c29e425f5cb9b"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260822_第027篇_为什么有人一紧张就胃疼？因为你的膈肌和情绪相连/20260822_第027篇_为什么有人一紧张就胃疼？因为你的膈肌和情绪相连_插图04_行动路径·支撑、慢呼气与条件记录.jpg",
+      "size_bytes": 686855,
+      "sha256": "f96941a0b2a8cb7b859c8f13814ef726cef488dad69dd1750eb5cef8a0863210"
     }
   ]
 }
