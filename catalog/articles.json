@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 6,
-  "last_content_date": "2026-08-22",
-  "content_revision": "e2c621b2579b01ff66dd4081d015c6f686539acdd67f829cb9e8b706be955369",
+  "article_count": 7,
+  "last_content_date": "2026-08-23",
+  "content_revision": "3a5263db249d50f81963a03d01eaa22f4d607e665421de90eb82ee264dd8c2a1",
   "articles": [
     {
       "id": 22,
@@ -285,7 +285,7 @@
       "platform": "wechat",
       "article_path": "platforms/wechat/articles/20260822_第027篇_为什么有人一紧张就胃疼？因为你的膈肌和情绪相连/20260822_第027篇_为什么有人一紧张就胃疼？因为你的膈肌和情绪相连.md",
       "summary_path": "platforms/wechat/articles/20260822_第027篇_为什么有人一紧张就胃疼？因为你的膈肌和情绪相连/20260822_第027篇_为什么有人一紧张就胃疼？因为你的膈肌和情绪相连_公众号摘要.md",
-      "summary": "紧张时胃疼，不等于情绪直接伤胃，也不等于膈肌出了故障。真正值得观察的是压力、脑—肠信号、呼吸与症状如何互相反馈；看懂事件前中后的顺序，才能判断先调节、先记录，还是及时就医。",
+      "summary": "紧张时胃疼，不是只能硬扛。把急促、屏住的呼吸重新变得舒服可控，有机会减弱警觉、上腹绷紧与疼痛互相放大的循环；用六轮慢呼气后的前后变化，判断这条入口对你是否有效、何时值得继续用。",
       "covers": {
         "16比9": "platforms/wechat/articles/20260822_第027篇_为什么有人一紧张就胃疼？因为你的膈肌和情绪相连/20260822_第027篇_为什么有人一紧张就胃疼？因为你的膈肌和情绪相连_封面_16比9.jpg",
         "235比100": "platforms/wechat/articles/20260822_第027篇_为什么有人一紧张就胃疼？因为你的膈肌和情绪相连/20260822_第027篇_为什么有人一紧张就胃疼？因为你的膈肌和情绪相连_封面_235比100.jpg"
@@ -315,6 +315,61 @@
         ],
         "movement_tasks": [],
         "capacities": [
+          "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 28,
+      "stable_id": "beyond100-028",
+      "series": "超越百岁",
+      "title": "跑步膝不是“跑”出来的，是“跑错”出来的",
+      "content_date": "2026-08-23",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20260823_第028篇_跑步膝不是“跑”出来的，是“跑错”出来的/20260823_第028篇_跑步膝不是“跑”出来的，是“跑错”出来的.md",
+      "summary_path": "platforms/wechat/articles/20260823_第028篇_跑步膝不是“跑”出来的，是“跑错”出来的/20260823_第028篇_跑步膝不是“跑”出来的，是“跑错”出来的_公众号摘要.md",
+      "summary": "一跑就膝疼，不等于某个姿势角度错了，也不能把“跑步膝”当成一个诊断。先比较同一人在距离、速度、坡度和疲劳变化下的反应，再用跑走交替、基础力量和次日反馈，判断该减哪种负荷、何时才能进阶。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20260823_第028篇_跑步膝不是“跑”出来的，是“跑错”出来的/20260823_第028篇_跑步膝不是“跑”出来的，是“跑错”出来的_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20260823_第028篇_跑步膝不是“跑”出来的，是“跑错”出来的/20260823_第028篇_跑步膝不是“跑”出来的，是“跑错”出来的_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20260823_第028篇_跑步膝不是“跑”出来的，是“跑错”出来的/20260823_第028篇_跑步膝不是“跑”出来的，是“跑错”出来的_插图01_核心概念·跑步膝不是一个诊断.jpg",
+        "platforms/wechat/articles/20260823_第028篇_跑步膝不是“跑”出来的，是“跑错”出来的/20260823_第028篇_跑步膝不是“跑”出来的，是“跑错”出来的_插图02_系统机制·任务、承载与反馈.jpg",
+        "platforms/wechat/articles/20260823_第028篇_跑步膝不是“跑”出来的，是“跑错”出来的/20260823_第028篇_跑步膝不是“跑”出来的，是“跑错”出来的_插图03_同人对照·跑前、跑中与次日.jpg",
+        "platforms/wechat/articles/20260823_第028篇_跑步膝不是“跑”出来的，是“跑错”出来的/20260823_第028篇_跑步膝不是“跑”出来的，是“跑错”出来的_插图04_行动路径·跑走交替、力量与次日反馈.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "load-recovery",
+        "dimensions": [
+          "structure",
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "foundation",
+          "movement",
+          "load",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "pelvis-hip",
+          "knee",
+          "foot-ankle",
+          "whole-body"
+        ],
+        "movement_tasks": [
+          "sit-to-stand",
+          "walking",
+          "running",
+          "stairs"
+        ],
+        "capacities": [
+          "strength",
+          "coordination",
           "recovery-capacity"
         ]
       }

@@ -184,6 +184,39 @@
       "capacities": [
         "recovery-capacity"
       ]
+    },
+    "028": {
+      "primary_category": "load-recovery",
+      "dimensions": [
+        "structure",
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "foundation",
+        "movement",
+        "load",
+        "recovery",
+        "review"
+      ],
+      "body_regions": [
+        "pelvis-hip",
+        "knee",
+        "foot-ankle",
+        "whole-body"
+      ],
+      "movement_tasks": [
+        "sit-to-stand",
+        "walking",
+        "running",
+        "stairs"
+      ],
+      "capacities": [
+        "strength",
+        "coordination",
+        "recovery-capacity"
+      ]
     }
   }
 }

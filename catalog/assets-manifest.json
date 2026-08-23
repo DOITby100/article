@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "file_count": 46,
-  "content_revision": "e2c621b2579b01ff66dd4081d015c6f686539acdd67f829cb9e8b706be955369",
+  "file_count": 54,
+  "content_revision": "3a5263db249d50f81963a03d01eaa22f4d607e665421de90eb82ee264dd8c2a1",
   "files": [
     {
       "relative_path": "platforms/wechat/articles/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的.md",
@@ -195,13 +195,13 @@
     },
     {
       "relative_path": "platforms/wechat/articles/20260822_第027篇_为什么有人一紧张就胃疼？因为你的膈肌和情绪相连/20260822_第027篇_为什么有人一紧张就胃疼？因为你的膈肌和情绪相连.md",
-      "size_bytes": 8599,
-      "sha256": "5fd0dd9742776d2a31607a1a664d4f199f76045a78d96e521ff5b6985441f9bd"
+      "size_bytes": 8106,
+      "sha256": "39c526301d5642dfeb8effa86b287610db5623df9350f5c4683ebe157b896dad"
     },
     {
       "relative_path": "platforms/wechat/articles/20260822_第027篇_为什么有人一紧张就胃疼？因为你的膈肌和情绪相连/20260822_第027篇_为什么有人一紧张就胃疼？因为你的膈肌和情绪相连_公众号摘要.md",
-      "size_bytes": 259,
-      "sha256": "267f17f19318e736eea494602dccfd38bf45d20c8e50f893a4e6a775d816005a"
+      "size_bytes": 265,
+      "sha256": "2fbc3d784e2b188d8e2bb249448f30fc3563527d30e5356a10d9a9d823b54c71"
     },
     {
       "relative_path": "platforms/wechat/articles/20260822_第027篇_为什么有人一紧张就胃疼？因为你的膈肌和情绪相连/20260822_第027篇_为什么有人一紧张就胃疼？因为你的膈肌和情绪相连_封面_16比9.jpg",
@@ -232,6 +232,46 @@
       "relative_path": "platforms/wechat/articles/20260822_第027篇_为什么有人一紧张就胃疼？因为你的膈肌和情绪相连/20260822_第027篇_为什么有人一紧张就胃疼？因为你的膈肌和情绪相连_插图04_行动路径·支撑、慢呼气与条件记录.jpg",
       "size_bytes": 686855,
       "sha256": "f96941a0b2a8cb7b859c8f13814ef726cef488dad69dd1750eb5cef8a0863210"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260823_第028篇_跑步膝不是“跑”出来的，是“跑错”出来的/20260823_第028篇_跑步膝不是“跑”出来的，是“跑错”出来的.md",
+      "size_bytes": 7901,
+      "sha256": "02727dca19b41322340ecae5d32001f2741dbc400c1c4d2c2ae7c3e98ca910ea"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260823_第028篇_跑步膝不是“跑”出来的，是“跑错”出来的/20260823_第028篇_跑步膝不是“跑”出来的，是“跑错”出来的_公众号摘要.md",
+      "size_bytes": 277,
+      "sha256": "8b40ce8ddd68a65af1d83d3a7b86db7a23f0683b200d19858c40f7335e225b51"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260823_第028篇_跑步膝不是“跑”出来的，是“跑错”出来的/20260823_第028篇_跑步膝不是“跑”出来的，是“跑错”出来的_封面_16比9.jpg",
+      "size_bytes": 1693685,
+      "sha256": "8b2a2d02887a91d488adbb668e6b863f2b8c1eac0abd71c81c752a461cd05945"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260823_第028篇_跑步膝不是“跑”出来的，是“跑错”出来的/20260823_第028篇_跑步膝不是“跑”出来的，是“跑错”出来的_封面_235比100.jpg",
+      "size_bytes": 2144203,
+      "sha256": "369eef1bdb242319b80c66e293f7196206442c41f1ed3c05065bb4050d7774d7"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260823_第028篇_跑步膝不是“跑”出来的，是“跑错”出来的/20260823_第028篇_跑步膝不是“跑”出来的，是“跑错”出来的_插图01_核心概念·跑步膝不是一个诊断.jpg",
+      "size_bytes": 1173537,
+      "sha256": "824257c9be6217ca031e1ef3b06cc2bee1ffa4e1a01a06a5760fea61d5242163"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260823_第028篇_跑步膝不是“跑”出来的，是“跑错”出来的/20260823_第028篇_跑步膝不是“跑”出来的，是“跑错”出来的_插图02_系统机制·任务、承载与反馈.jpg",
+      "size_bytes": 1381385,
+      "sha256": "d8a9328dc3ad45ee4a49101807f5c1650ad94d8347baff8f5c9a984ae1290200"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260823_第028篇_跑步膝不是“跑”出来的，是“跑错”出来的/20260823_第028篇_跑步膝不是“跑”出来的，是“跑错”出来的_插图03_同人对照·跑前、跑中与次日.jpg",
+      "size_bytes": 816457,
+      "sha256": "2d3d81ebe3e6a8922de6b0da1014fa46c63275a346bc67e09a8ff4c960de0224"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260823_第028篇_跑步膝不是“跑”出来的，是“跑错”出来的/20260823_第028篇_跑步膝不是“跑”出来的，是“跑错”出来的_插图04_行动路径·跑走交替、力量与次日反馈.jpg",
+      "size_bytes": 940832,
+      "sha256": "3c307580d128a55d5d346709e6001157eb1481bedf566f92b989b86b6e40e634"
     }
   ]
 }
