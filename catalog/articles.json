@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 7,
-  "last_content_date": "2026-08-23",
-  "content_revision": "3a5263db249d50f81963a03d01eaa22f4d607e665421de90eb82ee264dd8c2a1",
+  "article_count": 8,
+  "last_content_date": "2026-08-24",
+  "content_revision": "d23acb35f475f90c9545e8ac5574929f03cbf22ca654a1940bb88b7bcda21b60",
   "articles": [
     {
       "id": 22,
@@ -329,7 +329,7 @@
       "platform": "wechat",
       "article_path": "platforms/wechat/articles/20260823_第028篇_跑步膝不是“跑”出来的，是“跑错”出来的/20260823_第028篇_跑步膝不是“跑”出来的，是“跑错”出来的.md",
       "summary_path": "platforms/wechat/articles/20260823_第028篇_跑步膝不是“跑”出来的，是“跑错”出来的/20260823_第028篇_跑步膝不是“跑”出来的，是“跑错”出来的_公众号摘要.md",
-      "summary": "一跑就膝疼，不等于某个姿势角度错了，也不能把“跑步膝”当成一个诊断。先比较同一人在距离、速度、坡度和疲劳变化下的反应，再用跑走交替、基础力量和次日反馈，判断该减哪种负荷、何时才能进阶。",
+      "summary": "一跑就膝疼，不等于膝内扣或某个角度必须被纠正。真正值得补的是髋部承载：从触墙、三点支撑到背包硬拉，逐步练会髋铰链，让臀部和大腿后侧接住负荷，再把这份能力带回跑步。",
       "covers": {
         "16比9": "platforms/wechat/articles/20260823_第028篇_跑步膝不是“跑”出来的，是“跑错”出来的/20260823_第028篇_跑步膝不是“跑”出来的，是“跑错”出来的_封面_16比9.jpg",
         "235比100": "platforms/wechat/articles/20260823_第028篇_跑步膝不是“跑”出来的，是“跑错”出来的/20260823_第028篇_跑步膝不是“跑”出来的，是“跑错”出来的_封面_235比100.jpg"
@@ -337,8 +337,8 @@
       "illustrations": [
         "platforms/wechat/articles/20260823_第028篇_跑步膝不是“跑”出来的，是“跑错”出来的/20260823_第028篇_跑步膝不是“跑”出来的，是“跑错”出来的_插图01_核心概念·跑步膝不是一个诊断.jpg",
         "platforms/wechat/articles/20260823_第028篇_跑步膝不是“跑”出来的，是“跑错”出来的/20260823_第028篇_跑步膝不是“跑”出来的，是“跑错”出来的_插图02_系统机制·任务、承载与反馈.jpg",
-        "platforms/wechat/articles/20260823_第028篇_跑步膝不是“跑”出来的，是“跑错”出来的/20260823_第028篇_跑步膝不是“跑”出来的，是“跑错”出来的_插图03_同人对照·跑前、跑中与次日.jpg",
-        "platforms/wechat/articles/20260823_第028篇_跑步膝不是“跑”出来的，是“跑错”出来的/20260823_第028篇_跑步膝不是“跑”出来的，是“跑错”出来的_插图04_行动路径·跑走交替、力量与次日反馈.jpg"
+        "platforms/wechat/articles/20260823_第028篇_跑步膝不是“跑”出来的，是“跑错”出来的/20260823_第028篇_跑步膝不是“跑”出来的，是“跑错”出来的_插图03_机制判断·髋铰链把负荷交给髋.jpg",
+        "platforms/wechat/articles/20260823_第028篇_跑步膝不是“跑”出来的，是“跑错”出来的/20260823_第028篇_跑步膝不是“跑”出来的，是“跑错”出来的_插图04_行动路径·髋铰链三步进阶.jpg"
       ],
       "taxonomy": {
         "primary_category": "load-recovery",
@@ -369,6 +369,60 @@
         ],
         "capacities": [
           "strength",
+          "coordination",
+          "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 29,
+      "stable_id": "beyond100-029",
+      "series": "超越百岁",
+      "title": "网球肘？你可能根本没打过网球",
+      "content_date": "2026-08-24",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20260824_第029篇_网球肘？你可能根本没打过网球/20260824_第029篇_网球肘？你可能根本没打过网球.md",
+      "summary_path": "platforms/wechat/articles/20260824_第029篇_网球肘？你可能根本没打过网球/20260824_第029篇_网球肘？你可能根本没打过网球_公众号摘要.md",
+      "summary": "“网球肘”不等于打球造成，疼在肘也不代表任务只发生在肘。先看桡骨旋前旋后，再重建拇、食、中指的握力入口和整条上肢承载，才能知道该练哪里、怎样进阶，以及何时需要评估。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20260824_第029篇_网球肘？你可能根本没打过网球/20260824_第029篇_网球肘？你可能根本没打过网球_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20260824_第029篇_网球肘？你可能根本没打过网球/20260824_第029篇_网球肘？你可能根本没打过网球_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20260824_第029篇_网球肘？你可能根本没打过网球/20260824_第029篇_网球肘？你可能根本没打过网球_插图01_上肢旋转链.jpg",
+        "platforms/wechat/articles/20260824_第029篇_网球肘？你可能根本没打过网球/20260824_第029篇_网球肘？你可能根本没打过网球_插图02_桡骨旋转核心概念.jpg",
+        "platforms/wechat/articles/20260824_第029篇_网球肘？你可能根本没打过网球/20260824_第029篇_网球肘？你可能根本没打过网球_插图03_旋前旋后正确对照.jpg",
+        "platforms/wechat/articles/20260824_第029篇_网球肘？你可能根本没打过网球/20260824_第029篇_网球肘？你可能根本没打过网球_插图04_三指握力练习.jpg",
+        "platforms/wechat/articles/20260824_第029篇_网球肘？你可能根本没打过网球/20260824_第029篇_网球肘？你可能根本没打过网球_插图05_整链承载路径.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "evidence-myths",
+        "dimensions": [
+          "structure",
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "foundation",
+          "movement",
+          "load",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "shoulder-upper-limb",
+          "whole-body"
+        ],
+        "movement_tasks": [
+          "rotation",
+          "carry"
+        ],
+        "capacities": [
+          "strength",
+          "mobility",
+          "stability",
           "coordination",
           "recovery-capacity"
         ]
