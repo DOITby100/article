@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 8,
-  "last_content_date": "2026-08-24",
-  "content_revision": "d23acb35f475f90c9545e8ac5574929f03cbf22ca654a1940bb88b7bcda21b60",
+  "article_count": 9,
+  "last_content_date": "2026-08-26",
+  "content_revision": "409536ab135d07953027077fe25b43913eb17b6030aca623ba05a04b1ba4fccd",
   "articles": [
     {
       "id": 22,
@@ -418,6 +418,56 @@
         "movement_tasks": [
           "rotation",
           "carry"
+        ],
+        "capacities": [
+          "strength",
+          "mobility",
+          "stability",
+          "coordination",
+          "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 30,
+      "stable_id": "beyond100-030",
+      "series": "超越百岁",
+      "title": "肩袖损伤：为什么医生说“不用手术”，你却一直疼？",
+      "content_date": "2026-08-26",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20260826_第030篇_肩袖损伤：为什么医生说“不用手术”，你却一直疼？/20260826_第030篇_肩袖损伤：为什么医生说“不用手术”，你却一直疼？.md",
+      "summary_path": "platforms/wechat/articles/20260826_第030篇_肩袖损伤：为什么医生说“不用手术”，你却一直疼？/20260826_第030篇_肩袖损伤：为什么医生说“不用手术”，你却一直疼？_公众号摘要.md",
+      "summary": "“不用手术”只说明当前治疗路径，不等于肩袖损伤会自行不疼。把影像变化、疼痛趋势、力量功能和康复反应分开追踪，才能判断方案是否真正推进，以及何时需要复诊并重新讨论下一步选择。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20260826_第030篇_肩袖损伤：为什么医生说“不用手术”，你却一直疼？/20260826_第030篇_肩袖损伤：为什么医生说“不用手术”，你却一直疼？_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20260826_第030篇_肩袖损伤：为什么医生说“不用手术”，你却一直疼？/20260826_第030篇_肩袖损伤：为什么医生说“不用手术”，你却一直疼？_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20260826_第030篇_肩袖损伤：为什么医生说“不用手术”，你却一直疼？/20260826_第030篇_肩袖损伤：为什么医生说“不用手术”，你却一直疼？_插图01_三条判断线核心概念.jpg",
+        "platforms/wechat/articles/20260826_第030篇_肩袖损伤：为什么医生说“不用手术”，你却一直疼？/20260826_第030篇_肩袖损伤：为什么医生说“不用手术”，你却一直疼？_插图02_肩袖协同机制.jpg",
+        "platforms/wechat/articles/20260826_第030篇_肩袖损伤：为什么医生说“不用手术”，你却一直疼？/20260826_第030篇_肩袖损伤：为什么医生说“不用手术”，你却一直疼？_插图03_非手术管理行动路径.jpg",
+        "platforms/wechat/articles/20260826_第030篇_肩袖损伤：为什么医生说“不用手术”，你却一直疼？/20260826_第030篇_肩袖损伤：为什么医生说“不用手术”，你却一直疼？_插图04_复查信号对照.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "method-judgment",
+        "dimensions": [
+          "structure",
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "foundation",
+          "load",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "shoulder-upper-limb"
+        ],
+        "movement_tasks": [
+          "overhead"
         ],
         "capacities": [
           "strength",
