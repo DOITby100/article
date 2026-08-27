@@ -276,6 +276,38 @@
         "coordination",
         "recovery-capacity"
       ]
+    },
+    "031": {
+      "primary_category": "evidence-myths",
+      "dimensions": [
+        "structure",
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "foundation",
+        "movement",
+        "load",
+        "recovery",
+        "review"
+      ],
+      "body_regions": [
+        "ribcage-spine",
+        "core-trunk",
+        "whole-body"
+      ],
+      "movement_tasks": [
+        "sit-to-stand",
+        "walking",
+        "hinge"
+      ],
+      "capacities": [
+        "strength",
+        "stability",
+        "coordination",
+        "recovery-capacity"
+      ]
     }
   }
 }
