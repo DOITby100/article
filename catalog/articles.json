@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 10,
-  "last_content_date": "2026-08-27",
-  "content_revision": "bb584719083f891888bba4df56cb927bfa71596cb161610e84733bbd1f144ff6",
+  "article_count": 11,
+  "last_content_date": "2026-08-28",
+  "content_revision": "4a45e40be7c1e805a6d3dfbd2927c9290dae70a02da181d2e8f43c5c9614b845",
   "articles": [
     {
       "id": 22,
@@ -488,7 +488,7 @@
       "platform": "wechat",
       "article_path": "platforms/wechat/articles/20260827_第031篇_腰椎间盘突出≠腰痛，90% 的人都理解错了/20260827_第031篇_腰椎间盘突出≠腰痛，90% 的人都理解错了.md",
       "summary_path": "platforms/wechat/articles/20260827_第031篇_腰椎间盘突出≠腰痛，90% 的人都理解错了/20260827_第031篇_腰椎间盘突出≠腰痛，90% 的人都理解错了_公众号摘要.md",
-      "summary": "影像上的突出是一条结构线索，不是腰痛来源的单独判决。把症状分布、神经功能和真实任务变化对齐后，才能判断影像是否重要，并在安全门内重建坐站、髋铰链与步行能力。",
+      "summary": "影像上的突出是一条结构线索，不是腰痛来源的单独判决。把症状分布、神经功能和真实任务变化对齐后，才能判断影像是否重要，并在安全门内重建脊柱分节、髋铰链与步行能力。",
       "covers": {
         "16比9": "platforms/wechat/articles/20260827_第031篇_腰椎间盘突出≠腰痛，90% 的人都理解错了/20260827_第031篇_腰椎间盘突出≠腰痛，90% 的人都理解错了_封面_16比9.jpg",
         "235比100": "platforms/wechat/articles/20260827_第031篇_腰椎间盘突出≠腰痛，90% 的人都理解错了/20260827_第031篇_腰椎间盘突出≠腰痛，90% 的人都理解错了_封面_235比100.jpg"
@@ -527,6 +527,58 @@
         ],
         "capacities": [
           "strength",
+          "stability",
+          "coordination",
+          "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 32,
+      "stable_id": "beyond100-032",
+      "series": "超越百岁",
+      "title": "足底筋膜炎：为什么早上第一步最疼？",
+      "content_date": "2026-08-28",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20260828_第032篇_足底筋膜炎：为什么早上第一步最疼？/20260828_第032篇_足底筋膜炎：为什么早上第一步最疼？.md",
+      "summary_path": "platforms/wechat/articles/20260828_第032篇_足底筋膜炎：为什么早上第一步最疼？/20260828_第032篇_足底筋膜炎：为什么早上第一步最疼？_公众号摘要.md",
+      "summary": "晨起第一步痛，不只是足底筋膜“睡紧了”，而是足踝从静止切换到承重时暂时接不住负荷。先降低第一步的突变，再用拉伸、提踵和短步行恢复承载，才能判断这条路径是否适合你。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20260828_第032篇_足底筋膜炎：为什么早上第一步最疼？/20260828_第032篇_足底筋膜炎：为什么早上第一步最疼？_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20260828_第032篇_足底筋膜炎：为什么早上第一步最疼？/20260828_第032篇_足底筋膜炎：为什么早上第一步最疼？_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20260828_第032篇_足底筋膜炎：为什么早上第一步最疼？/20260828_第032篇_足底筋膜炎：为什么早上第一步最疼？_插图01_核心概念·静止到承重的任务转换.jpg",
+        "platforms/wechat/articles/20260828_第032篇_足底筋膜炎：为什么早上第一步最疼？/20260828_第032篇_足底筋膜炎：为什么早上第一步最疼？_插图02_足趾足弓小腿承重链.jpg",
+        "platforms/wechat/articles/20260828_第032篇_足底筋膜炎：为什么早上第一步最疼？/20260828_第032篇_足底筋膜炎：为什么早上第一步最疼？_插图03_动作·足底牵伸与小腿双角度活动.jpg",
+        "platforms/wechat/articles/20260828_第032篇_足底筋膜炎：为什么早上第一步最疼？/20260828_第032篇_足底筋膜炎：为什么早上第一步最疼？_插图04_总结·起床前准备到三分钟步行.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "load-recovery",
+        "dimensions": [
+          "structure",
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "foundation",
+          "movement",
+          "load",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "foot-ankle"
+        ],
+        "movement_tasks": [
+          "standing",
+          "walking"
+        ],
+        "capacities": [
+          "strength",
+          "mobility",
           "stability",
           "coordination",
           "recovery-capacity"

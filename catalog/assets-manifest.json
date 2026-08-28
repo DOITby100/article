@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "file_count": 80,
-  "content_revision": "bb584719083f891888bba4df56cb927bfa71596cb161610e84733bbd1f144ff6",
+  "file_count": 88,
+  "content_revision": "4a45e40be7c1e805a6d3dfbd2927c9290dae70a02da181d2e8f43c5c9614b845",
   "files": [
     {
       "relative_path": "platforms/wechat/articles/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的.md",
@@ -360,13 +360,13 @@
     },
     {
       "relative_path": "platforms/wechat/articles/20260827_第031篇_腰椎间盘突出≠腰痛，90% 的人都理解错了/20260827_第031篇_腰椎间盘突出≠腰痛，90% 的人都理解错了.md",
-      "size_bytes": 7938,
-      "sha256": "2da1d3c0ae071959c9746f30178386ce69adb3bedd1d52373007daa011fb34da"
+      "size_bytes": 8125,
+      "sha256": "56a364589fe00e1aad770ebeeef5f6be643ec1334f6610586cb2a99dc57d4b41"
     },
     {
       "relative_path": "platforms/wechat/articles/20260827_第031篇_腰椎间盘突出≠腰痛，90% 的人都理解错了/20260827_第031篇_腰椎间盘突出≠腰痛，90% 的人都理解错了_公众号摘要.md",
-      "size_bytes": 235,
-      "sha256": "c9ad8897340c7df9154bdf540ab786065be414b3c876931b076c3124cc977ec9"
+      "size_bytes": 241,
+      "sha256": "ad1c29b778802b83d3d6ab117930ac8c0c6f5dd9abb1ecd979b906bdcbdc698f"
     },
     {
       "relative_path": "platforms/wechat/articles/20260827_第031篇_腰椎间盘突出≠腰痛，90% 的人都理解错了/20260827_第031篇_腰椎间盘突出≠腰痛，90% 的人都理解错了_封面_16比9.jpg",
@@ -395,13 +395,53 @@
     },
     {
       "relative_path": "platforms/wechat/articles/20260827_第031篇_腰椎间盘突出≠腰痛，90% 的人都理解错了/20260827_第031篇_腰椎间盘突出≠腰痛，90% 的人都理解错了_插图04_动作·扶桌坐站与墙前髋铰链.jpg",
-      "size_bytes": 586636,
-      "sha256": "9b7960d651e3b617a5f561c13ec6cfc5fc43ad178cfd9f36e9320c7ec2b3808d"
+      "size_bytes": 1372612,
+      "sha256": "40d7f013e7aaaff33a77e9dc4a8e57fb35fee6fbcc5fae3b4bbb606cac09b152"
     },
     {
       "relative_path": "platforms/wechat/articles/20260827_第031篇_腰椎间盘突出≠腰痛，90% 的人都理解错了/20260827_第031篇_腰椎间盘突出≠腰痛，90% 的人都理解错了_插图05_分段步行进阶路径.jpg",
       "size_bytes": 598589,
       "sha256": "1dba7b87d87af576660d93a591704fd030ae1489c6f9bc57a6b307876c8d1ff2"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260828_第032篇_足底筋膜炎：为什么早上第一步最疼？/20260828_第032篇_足底筋膜炎：为什么早上第一步最疼？.md",
+      "size_bytes": 8442,
+      "sha256": "705d33b82dad885ac7bd8b0174ece874a5834c1c30eb189a64e97a8cecb098bd"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260828_第032篇_足底筋膜炎：为什么早上第一步最疼？/20260828_第032篇_足底筋膜炎：为什么早上第一步最疼？_公众号摘要.md",
+      "size_bytes": 244,
+      "sha256": "77eb462df2f2477b4391a127bfa747ebecec26248eb8ba7923f78ee743a7460b"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260828_第032篇_足底筋膜炎：为什么早上第一步最疼？/20260828_第032篇_足底筋膜炎：为什么早上第一步最疼？_封面_16比9.jpg",
+      "size_bytes": 1381815,
+      "sha256": "af37e42338ad65fe8da3ee6ea044cee1f94251ac4294d9b8d691d84d09f58810"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260828_第032篇_足底筋膜炎：为什么早上第一步最疼？/20260828_第032篇_足底筋膜炎：为什么早上第一步最疼？_封面_235比100.jpg",
+      "size_bytes": 7949951,
+      "sha256": "f01fd6b42feb9182a37dc55aef331234eb95d56f7f5e04e08b41c2d0d10dfbda"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260828_第032篇_足底筋膜炎：为什么早上第一步最疼？/20260828_第032篇_足底筋膜炎：为什么早上第一步最疼？_插图01_核心概念·静止到承重的任务转换.jpg",
+      "size_bytes": 807588,
+      "sha256": "081ef868f60638421d02da0f9ab13e490a7916b7b36d990fe97b7e963d36666f"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260828_第032篇_足底筋膜炎：为什么早上第一步最疼？/20260828_第032篇_足底筋膜炎：为什么早上第一步最疼？_插图02_足趾足弓小腿承重链.jpg",
+      "size_bytes": 1299117,
+      "sha256": "6f86baf10b9ec8976b1216fabb4597d8a5346bf7872c5b8743e516bffce20511"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260828_第032篇_足底筋膜炎：为什么早上第一步最疼？/20260828_第032篇_足底筋膜炎：为什么早上第一步最疼？_插图03_动作·足底牵伸与小腿双角度活动.jpg",
+      "size_bytes": 1316356,
+      "sha256": "cc42982b277c60486147c7b9c7448ba81f30cc3dbb9887c868707b4d598e99f3"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260828_第032篇_足底筋膜炎：为什么早上第一步最疼？/20260828_第032篇_足底筋膜炎：为什么早上第一步最疼？_插图04_总结·起床前准备到三分钟步行.jpg",
+      "size_bytes": 867795,
+      "sha256": "c140430f830e1ac122e703982f15ab0377350818fb30135915e22ecfe90b995c"
     }
   ]
 }

@@ -308,6 +308,36 @@
         "coordination",
         "recovery-capacity"
       ]
+    },
+    "032": {
+      "primary_category": "load-recovery",
+      "dimensions": [
+        "structure",
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "foundation",
+        "movement",
+        "load",
+        "recovery",
+        "review"
+      ],
+      "body_regions": [
+        "foot-ankle"
+      ],
+      "movement_tasks": [
+        "standing",
+        "walking"
+      ],
+      "capacities": [
+        "strength",
+        "mobility",
+        "stability",
+        "coordination",
+        "recovery-capacity"
+      ]
     }
   }
 }
