@@ -338,6 +338,37 @@
         "coordination",
         "recovery-capacity"
       ]
+    },
+    "033": {
+      "primary_category": "method-judgment",
+      "dimensions": [
+        "structure",
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "foundation",
+        "movement",
+        "load",
+        "recovery",
+        "review"
+      ],
+      "body_regions": [
+        "knee"
+      ],
+      "movement_tasks": [
+        "sit-to-stand",
+        "walking",
+        "stairs"
+      ],
+      "capacities": [
+        "strength",
+        "mobility",
+        "stability",
+        "coordination",
+        "recovery-capacity"
+      ]
     }
   }
 }

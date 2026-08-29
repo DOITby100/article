@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 11,
-  "last_content_date": "2026-08-28",
-  "content_revision": "e316d5c0f06216b460ba578dc2700f53ddc7a06fde5b5efbbb278fd78010363b",
+  "article_count": 12,
+  "last_content_date": "2026-08-29",
+  "content_revision": "60b19ecc20f429bd183effe38c05ac34b6d8a91b682e19ae7313c6998e6f94ba",
   "articles": [
     {
       "id": 22,
@@ -575,6 +575,58 @@
         "movement_tasks": [
           "standing",
           "walking"
+        ],
+        "capacities": [
+          "strength",
+          "mobility",
+          "stability",
+          "coordination",
+          "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 33,
+      "stable_id": "beyond100-033",
+      "series": "超越百岁",
+      "title": "半月板损伤后，你真的需要手术吗？",
+      "content_date": "2026-08-29",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20260829_第033篇_半月板损伤后，你真的需要手术吗？/20260829_第033篇_半月板损伤后，你真的需要手术吗？.md",
+      "summary_path": "platforms/wechat/articles/20260829_第033篇_半月板损伤后，你真的需要手术吗？/20260829_第033篇_半月板损伤后，你真的需要手术吗？_公众号摘要.md",
+      "summary": "半月板撕裂出现在 MRI 上，不等于治疗路径已经确定。真正决定先康复、尽快转诊还是重新讨论手术的，是撕裂是否移位卡锁、能否保留、功能受限程度与规范康复后的变化；理清这些变量，才能避免该等时太急、该转诊时又拖延。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20260829_第033篇_半月板损伤后，你真的需要手术吗？/20260829_第033篇_半月板损伤后，你真的需要手术吗？_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20260829_第033篇_半月板损伤后，你真的需要手术吗？/20260829_第033篇_半月板损伤后，你真的需要手术吗？_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20260829_第033篇_半月板损伤后，你真的需要手术吗？/20260829_第033篇_半月板损伤后，你真的需要手术吗？_插图01_核心概念·血供位置不是手术开关.jpg",
+        "platforms/wechat/articles/20260829_第033篇_半月板损伤后，你真的需要手术吗？/20260829_第033篇_半月板损伤后，你真的需要手术吗？_插图02_路径·三道分流门.jpg",
+        "platforms/wechat/articles/20260829_第033篇_半月板损伤后，你真的需要手术吗？/20260829_第033篇_半月板损伤后，你真的需要手术吗？_插图03_动作·从关节活动到真实任务.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "method-judgment",
+        "dimensions": [
+          "structure",
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "foundation",
+          "movement",
+          "load",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "knee"
+        ],
+        "movement_tasks": [
+          "sit-to-stand",
+          "walking",
+          "stairs"
         ],
         "capacities": [
           "strength",
