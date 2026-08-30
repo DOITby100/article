@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "file_count": 95,
-  "content_revision": "60b19ecc20f429bd183effe38c05ac34b6d8a91b682e19ae7313c6998e6f94ba",
+  "file_count": 103,
+  "content_revision": "75ea9267ef7c955939e4716a0c1c4d169536590a802a2ce2823be81d80cef937",
   "files": [
     {
       "relative_path": "platforms/wechat/articles/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的.md",
@@ -445,8 +445,8 @@
     },
     {
       "relative_path": "platforms/wechat/articles/20260829_第033篇_半月板损伤后，你真的需要手术吗？/20260829_第033篇_半月板损伤后，你真的需要手术吗？.md",
-      "size_bytes": 9689,
-      "sha256": "7e442a7baff1d7bcd19f3c55b1dac3aa16aefb1acb5941033a2aac2f3817f860"
+      "size_bytes": 10719,
+      "sha256": "4babfd2d89de93fd88f9edd12fe30c4157459fb0185b95b9b5332f4fcf455b5c"
     },
     {
       "relative_path": "platforms/wechat/articles/20260829_第033篇_半月板损伤后，你真的需要手术吗？/20260829_第033篇_半月板损伤后，你真的需要手术吗？_公众号摘要.md",
@@ -465,8 +465,8 @@
     },
     {
       "relative_path": "platforms/wechat/articles/20260829_第033篇_半月板损伤后，你真的需要手术吗？/20260829_第033篇_半月板损伤后，你真的需要手术吗？_插图01_核心概念·血供位置不是手术开关.jpg",
-      "size_bytes": 1080742,
-      "sha256": "80dda8e5638958f22b0fd91a8dc42468bea2b1ddaa210901d3cc2a99116c26fc"
+      "size_bytes": 1547965,
+      "sha256": "3bd5218e5cb893956ca76246ad2a1acb5b568dc1a4c0f100f8080a44107db663"
     },
     {
       "relative_path": "platforms/wechat/articles/20260829_第033篇_半月板损伤后，你真的需要手术吗？/20260829_第033篇_半月板损伤后，你真的需要手术吗？_插图02_路径·三道分流门.jpg",
@@ -477,6 +477,46 @@
       "relative_path": "platforms/wechat/articles/20260829_第033篇_半月板损伤后，你真的需要手术吗？/20260829_第033篇_半月板损伤后，你真的需要手术吗？_插图03_动作·从关节活动到真实任务.jpg",
       "size_bytes": 1086080,
       "sha256": "eb9ba84072a4ac4e161958490e0935c9b94fbd9a768655f577fccf0f6081cae9"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260830_第034篇_前交叉韧带重建术后，康复比手术更重要/20260830_第034篇_前交叉韧带重建术后，康复比手术更重要.md",
+      "size_bytes": 8562,
+      "sha256": "83160fbd5eede32cbcd121304061762e4e892b69d507ee9a69f75ed8916da76d"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260830_第034篇_前交叉韧带重建术后，康复比手术更重要/20260830_第034篇_前交叉韧带重建术后，康复比手术更重要_公众号摘要.md",
+      "size_bytes": 283,
+      "sha256": "342b53e99501540ff1973ab2e0316fdcb6f40ed7ee1326de2bff13f082971fb6"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260830_第034篇_前交叉韧带重建术后，康复比手术更重要/20260830_第034篇_前交叉韧带重建术后，康复比手术更重要_封面_16比9.jpg",
+      "size_bytes": 1681638,
+      "sha256": "6a35ae17446bded8c80fb18e0a8353b89e5985ec6a8a352291b4fe30692b5de2"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260830_第034篇_前交叉韧带重建术后，康复比手术更重要/20260830_第034篇_前交叉韧带重建术后，康复比手术更重要_封面_235比100.jpg",
+      "size_bytes": 2165582,
+      "sha256": "48bea6bedda929602332849afb35cb487d60d9328f4e4383e97a435d8a532456"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260830_第034篇_前交叉韧带重建术后，康复比手术更重要/20260830_第034篇_前交叉韧带重建术后，康复比手术更重要_插图01_核心概念·结构修复不等于能力恢复.jpg",
+      "size_bytes": 1234197,
+      "sha256": "1c2e70d0705a018f7be2ac2bcb77ee6aa6be387d40e592d40525e022c3dab058"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260830_第034篇_前交叉韧带重建术后，康复比手术更重要/20260830_第034篇_前交叉韧带重建术后，康复比手术更重要_插图02_机制·康复进阶的四道能力门.jpg",
+      "size_bytes": 851163,
+      "sha256": "2901d1035ea2c929a87230d16760b6e7ec4d0ca207fa1d397064ed0200df3103"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260830_第034篇_前交叉韧带重建术后，康复比手术更重要/20260830_第034篇_前交叉韧带重建术后，康复比手术更重要_插图03_动作·从伸膝发力到下楼减速.jpg",
+      "size_bytes": 1366521,
+      "sha256": "1dd07d0b74dd4e0965806dd7e00d3fe2509a9a80ffa7ac48808517d52981868d"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260830_第034篇_前交叉韧带重建术后，康复比手术更重要/20260830_第034篇_前交叉韧带重建术后，康复比手术更重要_插图04_总结·回归运动的多维仪表盘.jpg",
+      "size_bytes": 883846,
+      "sha256": "811812bda4203717f052ca1e05ea2f5ffd0e9c69d765a971e368e8630ce896b2"
     }
   ]
 }

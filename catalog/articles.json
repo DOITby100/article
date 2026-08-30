@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 12,
-  "last_content_date": "2026-08-29",
-  "content_revision": "60b19ecc20f429bd183effe38c05ac34b6d8a91b682e19ae7313c6998e6f94ba",
+  "article_count": 13,
+  "last_content_date": "2026-08-30",
+  "content_revision": "75ea9267ef7c955939e4716a0c1c4d169536590a802a2ce2823be81d80cef937",
   "articles": [
     {
       "id": 22,
@@ -630,6 +630,61 @@
         ],
         "capacities": [
           "strength",
+          "mobility",
+          "stability",
+          "coordination",
+          "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 34,
+      "stable_id": "beyond100-034",
+      "series": "超越百岁",
+      "title": "前交叉韧带重建术后，康复比手术更重要",
+      "content_date": "2026-08-30",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20260830_第034篇_前交叉韧带重建术后，康复比手术更重要/20260830_第034篇_前交叉韧带重建术后，康复比手术更重要.md",
+      "summary_path": "platforms/wechat/articles/20260830_第034篇_前交叉韧带重建术后，康复比手术更重要/20260830_第034篇_前交叉韧带重建术后，康复比手术更重要_公众号摘要.md",
+      "summary": "重建手术把韧带接回稳定结构，却不会自动恢复伸膝、肌力、减速能力与回归运动的信心。康复要同时尊重愈合时间和功能标准；按关节反应、力量、动作质量与心理准备逐级推进，才能把手术成果变成真实能力。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20260830_第034篇_前交叉韧带重建术后，康复比手术更重要/20260830_第034篇_前交叉韧带重建术后，康复比手术更重要_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20260830_第034篇_前交叉韧带重建术后，康复比手术更重要/20260830_第034篇_前交叉韧带重建术后，康复比手术更重要_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20260830_第034篇_前交叉韧带重建术后，康复比手术更重要/20260830_第034篇_前交叉韧带重建术后，康复比手术更重要_插图01_核心概念·结构修复不等于能力恢复.jpg",
+        "platforms/wechat/articles/20260830_第034篇_前交叉韧带重建术后，康复比手术更重要/20260830_第034篇_前交叉韧带重建术后，康复比手术更重要_插图02_机制·康复进阶的四道能力门.jpg",
+        "platforms/wechat/articles/20260830_第034篇_前交叉韧带重建术后，康复比手术更重要/20260830_第034篇_前交叉韧带重建术后，康复比手术更重要_插图03_动作·从伸膝发力到下楼减速.jpg",
+        "platforms/wechat/articles/20260830_第034篇_前交叉韧带重建术后，康复比手术更重要/20260830_第034篇_前交叉韧带重建术后，康复比手术更重要_插图04_总结·回归运动的多维仪表盘.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "load-recovery",
+        "dimensions": [
+          "structure",
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "foundation",
+          "movement",
+          "load",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "knee"
+        ],
+        "movement_tasks": [
+          "sit-to-stand",
+          "running",
+          "stairs",
+          "single-leg"
+        ],
+        "capacities": [
+          "strength",
+          "power",
           "mobility",
           "stability",
           "coordination",
