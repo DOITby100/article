@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 13,
-  "last_content_date": "2026-08-30",
-  "content_revision": "75ea9267ef7c955939e4716a0c1c4d169536590a802a2ce2823be81d80cef937",
+  "article_count": 14,
+  "last_content_date": "2026-08-31",
+  "content_revision": "4da0fec293497fdc6f2e82d87a52956adef70555891574191c71d3f62fcbeae1",
   "articles": [
     {
       "id": 22,
@@ -687,6 +687,56 @@
           "power",
           "mobility",
           "stability",
+          "coordination",
+          "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 35,
+      "stable_id": "beyond100-035",
+      "series": "超越百岁",
+      "title": "腕管综合征：为什么你的手指总是麻？",
+      "content_date": "2026-08-31",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20260831_第035篇_腕管综合征：为什么你的手指总是麻？/20260831_第035篇_腕管综合征：为什么你的手指总是麻？.md",
+      "summary_path": "platforms/wechat/articles/20260831_第035篇_腕管综合征：为什么你的手指总是麻？/20260831_第035篇_腕管综合征：为什么你的手指总是麻？_公众号摘要.md",
+      "summary": "手指发麻不等于腕管综合征，屏幕时长也不是病因尺子。先看起病速度、感觉分布、力量变化与任务负荷，再由专业评估分清来源；确诊并获准后，才进入腕位管理、低刺激滑动和分级任务恢复。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20260831_第035篇_腕管综合征：为什么你的手指总是麻？/20260831_第035篇_腕管综合征：为什么你的手指总是麻？_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20260831_第035篇_腕管综合征：为什么你的手指总是麻？/20260831_第035篇_腕管综合征：为什么你的手指总是麻？_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20260831_第035篇_腕管综合征：为什么你的手指总是麻？/20260831_第035篇_腕管综合征：为什么你的手指总是麻？_插图01_核心概念·手麻来源不是一条路.jpg",
+        "platforms/wechat/articles/20260831_第035篇_腕管综合征：为什么你的手指总是麻？/20260831_第035篇_腕管综合征：为什么你的手指总是麻？_插图02_机制·正中神经感觉分布.jpg",
+        "platforms/wechat/articles/20260831_第035篇_腕管综合征：为什么你的手指总是麻？/20260831_第035篇_腕管综合征：为什么你的手指总是麻？_插图03_对照·腕管负荷的三个变量.jpg",
+        "platforms/wechat/articles/20260831_第035篇_腕管综合征：为什么你的手指总是麻？/20260831_第035篇_腕管综合征：为什么你的手指总是麻？_插图04_动作·许可后的三步恢复.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "evidence-myths",
+        "dimensions": [
+          "structure",
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "foundation",
+          "movement",
+          "load",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "shoulder-upper-limb"
+        ],
+        "movement_tasks": [
+          "carry"
+        ],
+        "capacities": [
+          "strength",
+          "mobility",
           "coordination",
           "recovery-capacity"
         ]
