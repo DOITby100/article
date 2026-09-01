@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 14,
-  "last_content_date": "2026-08-31",
-  "content_revision": "4da0fec293497fdc6f2e82d87a52956adef70555891574191c71d3f62fcbeae1",
+  "article_count": 15,
+  "last_content_date": "2026-09-01",
+  "content_revision": "3789303e08ec6d0270090eda744b9333056bf8b6dd875ef0cd8d473fccb0ae01",
   "articles": [
     {
       "id": 22,
@@ -737,6 +737,62 @@
         "capacities": [
           "strength",
           "mobility",
+          "coordination",
+          "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 36,
+      "stable_id": "beyond100-036",
+      "series": "超越百岁",
+      "title": "髂腰肌综合征：你的“腰痛”可能在髋前",
+      "content_date": "2026-09-01",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20260901_第036篇_髂腰肌综合征：你的“腰痛”可能在髋前/20260901_第036篇_髂腰肌综合征：你的“腰痛”可能在髋前.md",
+      "summary_path": "platforms/wechat/articles/20260901_第036篇_髂腰肌综合征：你的“腰痛”可能在髋前/20260901_第036篇_髂腰肌综合征：你的“腰痛”可能在髋前_公众号摘要.md",
+      "summary": "髋前或腹股沟深处的不适，不等于“髂腰肌综合征”，抬腿痛和单项测试也不能替你确诊。先用位置、触发任务与次日反应缩小范围，排除警报后再从降负荷、脚跟滑动和低幅抬脚逐步恢复。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20260901_第036篇_髂腰肌综合征：你的“腰痛”可能在髋前/20260901_第036篇_髂腰肌综合征：你的“腰痛”可能在髋前_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20260901_第036篇_髂腰肌综合征：你的“腰痛”可能在髋前/20260901_第036篇_髂腰肌综合征：你的“腰痛”可能在髋前_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20260901_第036篇_髂腰肌综合征：你的“腰痛”可能在髋前/20260901_第036篇_髂腰肌综合征：你的“腰痛”可能在髋前_插图01_核心概念·髋前痛不等于单一组织.jpg",
+        "platforms/wechat/articles/20260901_第036篇_髂腰肌综合征：你的“腰痛”可能在髋前/20260901_第036篇_髂腰肌综合征：你的“腰痛”可能在髋前_插图02_机制·髂腰肌从腰骨盆走向髋前.jpg",
+        "platforms/wechat/articles/20260901_第036篇_髂腰肌综合征：你的“腰痛”可能在髋前/20260901_第036篇_髂腰肌综合征：你的“腰痛”可能在髋前_插图03_对照·同一症状要经过多方向排查.jpg",
+        "platforms/wechat/articles/20260901_第036篇_髂腰肌综合征：你的“腰痛”可能在髋前/20260901_第036篇_髂腰肌综合征：你的“腰痛”可能在髋前_插图04_动作·降刺激后逐步恢复抬腿任务.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "method-judgment",
+        "dimensions": [
+          "structure",
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "foundation",
+          "movement",
+          "load",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "ribcage-spine",
+          "pelvis-hip",
+          "whole-body"
+        ],
+        "movement_tasks": [
+          "sit-to-stand",
+          "walking",
+          "stairs",
+          "single-leg"
+        ],
+        "capacities": [
+          "strength",
+          "mobility",
+          "stability",
           "coordination",
           "recovery-capacity"
         ]
