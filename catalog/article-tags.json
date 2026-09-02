@@ -464,6 +464,39 @@
         "coordination",
         "recovery-capacity"
       ]
+    },
+    "037": {
+      "primary_category": "load-recovery",
+      "dimensions": [
+        "structure",
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "foundation",
+        "movement",
+        "load",
+        "recovery",
+        "review"
+      ],
+      "body_regions": [
+        "ribcage-spine",
+        "pelvis-hip",
+        "whole-body"
+      ],
+      "movement_tasks": [
+        "standing",
+        "sit-to-stand",
+        "walking"
+      ],
+      "capacities": [
+        "strength",
+        "mobility",
+        "stability",
+        "coordination",
+        "recovery-capacity"
+      ]
     }
   }
 }
