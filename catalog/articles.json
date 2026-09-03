@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 16,
-  "last_content_date": "2026-09-02",
-  "content_revision": "24e418aad070796aed9303f7be779ae8b0d1308d64cc7f1fe813e4995841e40f",
+  "article_count": 17,
+  "last_content_date": "2026-09-03",
+  "content_revision": "e6704f8b7abefa19d577ab8e97aafa10737d1fd19d19c323cc141de445061a61",
   "articles": [
     {
       "id": 22,
@@ -849,6 +849,53 @@
           "mobility",
           "stability",
           "coordination",
+          "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 38,
+      "stable_id": "beyond100-038",
+      "series": "超越百岁",
+      "title": "肩峰下撞击综合征：为什么你一抬手就疼？",
+      "content_date": "2026-09-03",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20260903_第038篇_肩峰下撞击综合征：为什么你一抬手就疼？/20260903_第038篇_肩峰下撞击综合征：为什么你一抬手就疼？.md",
+      "summary_path": "platforms/wechat/articles/20260903_第038篇_肩峰下撞击综合征：为什么你一抬手就疼？/20260903_第038篇_肩峰下撞击综合征：为什么你一抬手就疼？_公众号摘要.md",
+      "summary": "抬臂时的夹痛，不能直接证明肌腱被骨头夹住。肩周组织的敏感程度与动作所需负荷，共同影响这次抬手；留意取物距离、连续次数和次日反应，才更容易找到可调整的条件，把使用能力逐步带回生活。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20260903_第038篇_肩峰下撞击综合征：为什么你一抬手就疼？/20260903_第038篇_肩峰下撞击综合征：为什么你一抬手就疼？_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20260903_第038篇_肩峰下撞击综合征：为什么你一抬手就疼？/20260903_第038篇_肩峰下撞击综合征：为什么你一抬手就疼？_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20260903_第038篇_肩峰下撞击综合征：为什么你一抬手就疼？/20260903_第038篇_肩峰下撞击综合征：为什么你一抬手就疼？_插图01_肩峰下结构机制.jpg",
+        "platforms/wechat/articles/20260903_第038篇_肩峰下撞击综合征：为什么你一抬手就疼？/20260903_第038篇_肩峰下撞击综合征：为什么你一抬手就疼？_插图02_近身与伸远对照.jpg",
+        "platforms/wechat/articles/20260903_第038篇_肩峰下撞击综合征：为什么你一抬手就疼？/20260903_第038篇_肩峰下撞击综合征：为什么你一抬手就疼？_插图03_低位到抬臂练习.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "evidence-myths",
+        "dimensions": [
+          "structure",
+          "function"
+        ],
+        "decision_stages": [
+          "movement",
+          "load",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "shoulder-upper-limb"
+        ],
+        "movement_tasks": [
+          "overhead",
+          "push",
+          "carry"
+        ],
+        "capacities": [
+          "strength",
+          "mobility",
           "recovery-capacity"
         ]
       }

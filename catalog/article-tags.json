@@ -497,6 +497,32 @@
         "coordination",
         "recovery-capacity"
       ]
+    },
+    "038": {
+      "primary_category": "evidence-myths",
+      "dimensions": [
+        "structure",
+        "function"
+      ],
+      "decision_stages": [
+        "movement",
+        "load",
+        "recovery",
+        "review"
+      ],
+      "body_regions": [
+        "shoulder-upper-limb"
+      ],
+      "movement_tasks": [
+        "overhead",
+        "push",
+        "carry"
+      ],
+      "capacities": [
+        "strength",
+        "mobility",
+        "recovery-capacity"
+      ]
     }
   }
 }
