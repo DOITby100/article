@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 17,
-  "last_content_date": "2026-09-03",
-  "content_revision": "e6704f8b7abefa19d577ab8e97aafa10737d1fd19d19c323cc141de445061a61",
+  "article_count": 18,
+  "last_content_date": "2026-09-04",
+  "content_revision": "35cac071273db3139acbc69d6b300592082060eee31e0ab7d1b6dd02452b88d1",
   "articles": [
     {
       "id": 22,
@@ -896,6 +896,54 @@
         "capacities": [
           "strength",
           "mobility",
+          "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 39,
+      "stable_id": "beyond100-039",
+      "series": "超越百岁",
+      "title": "跟腱炎：为什么休息了还是不好？",
+      "content_date": "2026-09-04",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20260904_第039篇_跟腱炎：为什么休息了还是不好？/20260904_第039篇_跟腱炎：为什么休息了还是不好？.md",
+      "summary_path": "platforms/wechat/articles/20260904_第039篇_跟腱炎：为什么休息了还是不好？/20260904_第039篇_跟腱炎：为什么休息了还是不好？_公众号摘要.md",
+      "summary": "跟腱休息后不疼，不代表已经能接住原来的跑跳负荷。恢复需要结合疼痛位置调整练习幅度，让力量与快速受力能力逐步跟上。看练习后的走路和次日反应，才能更有依据地安排下一次运动。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20260904_第039篇_跟腱炎：为什么休息了还是不好？/20260904_第039篇_跟腱炎：为什么休息了还是不好？_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20260904_第039篇_跟腱炎：为什么休息了还是不好？/20260904_第039篇_跟腱炎：为什么休息了还是不好？_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20260904_第039篇_跟腱炎：为什么休息了还是不好？/20260904_第039篇_跟腱炎：为什么休息了还是不好？_插图01_跟腱传力结构.jpg",
+        "platforms/wechat/articles/20260904_第039篇_跟腱炎：为什么休息了还是不好？/20260904_第039篇_跟腱炎：为什么休息了还是不好？_插图02_地面与台阶幅度对照.jpg",
+        "platforms/wechat/articles/20260904_第039篇_跟腱炎：为什么休息了还是不好？/20260904_第039篇_跟腱炎：为什么休息了还是不好？_插图03_坐姿与站姿抬跟练习.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "load-recovery",
+        "dimensions": [
+          "structure",
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "load",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "foot-ankle"
+        ],
+        "movement_tasks": [
+          "standing",
+          "walking",
+          "running"
+        ],
+        "capacities": [
+          "strength",
+          "speed",
           "recovery-capacity"
         ]
       }

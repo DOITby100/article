@@ -523,6 +523,33 @@
         "mobility",
         "recovery-capacity"
       ]
+    },
+    "039": {
+      "primary_category": "load-recovery",
+      "dimensions": [
+        "structure",
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "load",
+        "recovery",
+        "review"
+      ],
+      "body_regions": [
+        "foot-ankle"
+      ],
+      "movement_tasks": [
+        "standing",
+        "walking",
+        "running"
+      ],
+      "capacities": [
+        "strength",
+        "speed",
+        "recovery-capacity"
+      ]
     }
   }
 }

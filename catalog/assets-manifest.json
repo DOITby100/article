@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "file_count": 134,
-  "content_revision": "e6704f8b7abefa19d577ab8e97aafa10737d1fd19d19c323cc141de445061a61",
+  "file_count": 141,
+  "content_revision": "35cac071273db3139acbc69d6b300592082060eee31e0ab7d1b6dd02452b88d1",
   "files": [
     {
       "relative_path": "platforms/wechat/articles/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的.md",
@@ -672,6 +672,41 @@
       "relative_path": "platforms/wechat/articles/20260903_第038篇_肩峰下撞击综合征：为什么你一抬手就疼？/20260903_第038篇_肩峰下撞击综合征：为什么你一抬手就疼？_插图03_低位到抬臂练习.jpg",
       "size_bytes": 1082593,
       "sha256": "aa9f08eaefc2f475c65d2388eb80a589caafb612e5a22a0cb380707061fb6e1b"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260904_第039篇_跟腱炎：为什么休息了还是不好？/20260904_第039篇_跟腱炎：为什么休息了还是不好？.md",
+      "size_bytes": 8292,
+      "sha256": "4ca2e1a09919109f77c0661279edca645637047d0d7b4ff447991218a5bd19d4"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260904_第039篇_跟腱炎：为什么休息了还是不好？/20260904_第039篇_跟腱炎：为什么休息了还是不好？_公众号摘要.md",
+      "size_bytes": 253,
+      "sha256": "f977d909b36b9488c04bc7f2ef11dd5e1df685c2b954c6e2a8e42d8684ed429d"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260904_第039篇_跟腱炎：为什么休息了还是不好？/20260904_第039篇_跟腱炎：为什么休息了还是不好？_封面_16比9.jpg",
+      "size_bytes": 1609251,
+      "sha256": "e49ffa6f2088f25805af96f13e1fe20e27b6effb214ca2601332d634ccdd1f43"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260904_第039篇_跟腱炎：为什么休息了还是不好？/20260904_第039篇_跟腱炎：为什么休息了还是不好？_封面_235比100.jpg",
+      "size_bytes": 1950618,
+      "sha256": "790a17df77fc61abc35c09038144f8125d2fb51f751b35f2cadd65bc1874ced2"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260904_第039篇_跟腱炎：为什么休息了还是不好？/20260904_第039篇_跟腱炎：为什么休息了还是不好？_插图01_跟腱传力结构.jpg",
+      "size_bytes": 1269392,
+      "sha256": "90e4c8d0296b86cfb6d7c078e32220e4243b6bf2cb460434bef6e5c54facd8ec"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260904_第039篇_跟腱炎：为什么休息了还是不好？/20260904_第039篇_跟腱炎：为什么休息了还是不好？_插图02_地面与台阶幅度对照.jpg",
+      "size_bytes": 762914,
+      "sha256": "6cd7cfece2f6eb839e9b6b89fb54f1ec97fb67cd24aae1773e5c98f0e52ac67f"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260904_第039篇_跟腱炎：为什么休息了还是不好？/20260904_第039篇_跟腱炎：为什么休息了还是不好？_插图03_坐姿与站姿抬跟练习.jpg",
+      "size_bytes": 1021738,
+      "sha256": "92c582287bb1a77bd7a2cf32010180faf225fbc9915dd55f93e4b04f7bae4157"
     }
   ]
 }
