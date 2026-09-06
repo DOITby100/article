@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "file_count": 141,
-  "content_revision": "35cac071273db3139acbc69d6b300592082060eee31e0ab7d1b6dd02452b88d1",
+  "file_count": 149,
+  "content_revision": "4eb5af7230196e3069d6884bc5a8c85cd2fb9ff33cce65126f833796b3656752",
   "files": [
     {
       "relative_path": "platforms/wechat/articles/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的.md",
@@ -675,13 +675,13 @@
     },
     {
       "relative_path": "platforms/wechat/articles/20260904_第039篇_跟腱炎：为什么休息了还是不好？/20260904_第039篇_跟腱炎：为什么休息了还是不好？.md",
-      "size_bytes": 8292,
-      "sha256": "4ca2e1a09919109f77c0661279edca645637047d0d7b4ff447991218a5bd19d4"
+      "size_bytes": 7858,
+      "sha256": "250826f64475c362cd124e9e242ddd83abbdd5fe520cac00de92efab95b174c8"
     },
     {
       "relative_path": "platforms/wechat/articles/20260904_第039篇_跟腱炎：为什么休息了还是不好？/20260904_第039篇_跟腱炎：为什么休息了还是不好？_公众号摘要.md",
-      "size_bytes": 253,
-      "sha256": "f977d909b36b9488c04bc7f2ef11dd5e1df685c2b954c6e2a8e42d8684ed429d"
+      "size_bytes": 295,
+      "sha256": "88934db472846847423061d03a136cb397de6bc3b4c7c3b1fbb04fc2292dfbc1"
     },
     {
       "relative_path": "platforms/wechat/articles/20260904_第039篇_跟腱炎：为什么休息了还是不好？/20260904_第039篇_跟腱炎：为什么休息了还是不好？_封面_16比9.jpg",
@@ -707,6 +707,46 @@
       "relative_path": "platforms/wechat/articles/20260904_第039篇_跟腱炎：为什么休息了还是不好？/20260904_第039篇_跟腱炎：为什么休息了还是不好？_插图03_坐姿与站姿抬跟练习.jpg",
       "size_bytes": 1021738,
       "sha256": "92c582287bb1a77bd7a2cf32010180faf225fbc9915dd55f93e4b04f7bae4157"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260906_第040篇_髌骨软化症：为什么你上下楼梯膝盖疼？/20260906_第040篇_髌骨软化症：为什么你上下楼梯膝盖疼？.md",
+      "size_bytes": 8239,
+      "sha256": "8dd123d3185dacbaef33630dab25e7050c5eff11d9f6be9bf4480dfb16a9223d"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260906_第040篇_髌骨软化症：为什么你上下楼梯膝盖疼？/20260906_第040篇_髌骨软化症：为什么你上下楼梯膝盖疼？_公众号摘要.md",
+      "size_bytes": 295,
+      "sha256": "7e8fc8946c814326806f753abd7d3e104490776eb7de7354043c23bea17d9f29"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260906_第040篇_髌骨软化症：为什么你上下楼梯膝盖疼？/20260906_第040篇_髌骨软化症：为什么你上下楼梯膝盖疼？_封面_16比9.jpg",
+      "size_bytes": 1280959,
+      "sha256": "e6e96ed7bb8572683b7eedc929da0114a29a07db4ecd1ff822b4095ed2056531"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260906_第040篇_髌骨软化症：为什么你上下楼梯膝盖疼？/20260906_第040篇_髌骨软化症：为什么你上下楼梯膝盖疼？_封面_235比100.jpg",
+      "size_bytes": 1690433,
+      "sha256": "39a58ca276d8c3bdfffaa23490f0ee802d5151df9c87f624e8a8e6db5a31bde1"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260906_第040篇_髌骨软化症：为什么你上下楼梯膝盖疼？/20260906_第040篇_髌骨软化症：为什么你上下楼梯膝盖疼？_插图01_髌骨与髌股关节结构.jpg",
+      "size_bytes": 1376574,
+      "sha256": "4f741a5fe4b5b187484e5d0e2deed9dbb440559506c20d6f3882e10dde09c680"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260906_第040篇_髌骨软化症：为什么你上下楼梯膝盖疼？/20260906_第040篇_髌骨软化症：为什么你上下楼梯膝盖疼？_插图02_平地与上下楼负荷对照.jpg",
+      "size_bytes": 954600,
+      "sha256": "b54b3214485be807fd3008781f776fcc379ada1fad24fd6847d2865f0c05595a"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260906_第040篇_髌骨软化症：为什么你上下楼梯膝盖疼？/20260906_第040篇_髌骨软化症：为什么你上下楼梯膝盖疼？_插图03_结构疼痛功能三者概念.jpg",
+      "size_bytes": 1414822,
+      "sha256": "7e0883d418bb7cdcb8b237f9336de989f6b002c87ae340ff0b5924e5a3a2cc8a"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260906_第040篇_髌骨软化症：为什么你上下楼梯膝盖疼？/20260906_第040篇_髌骨软化症：为什么你上下楼梯膝盖疼？_插图04_楼梯任务观察行动卡.jpg",
+      "size_bytes": 940611,
+      "sha256": "ee8d8949e9b41aa742a50daa3d325eda00798b08a4289b4defcfe241510a5dce"
     }
   ]
 }

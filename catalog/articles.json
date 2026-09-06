@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 18,
-  "last_content_date": "2026-09-04",
-  "content_revision": "35cac071273db3139acbc69d6b300592082060eee31e0ab7d1b6dd02452b88d1",
+  "article_count": 19,
+  "last_content_date": "2026-09-06",
+  "content_revision": "4eb5af7230196e3069d6884bc5a8c85cd2fb9ff33cce65126f833796b3656752",
   "articles": [
     {
       "id": 22,
@@ -910,7 +910,7 @@
       "platform": "wechat",
       "article_path": "platforms/wechat/articles/20260904_第039篇_跟腱炎：为什么休息了还是不好？/20260904_第039篇_跟腱炎：为什么休息了还是不好？.md",
       "summary_path": "platforms/wechat/articles/20260904_第039篇_跟腱炎：为什么休息了还是不好？/20260904_第039篇_跟腱炎：为什么休息了还是不好？_公众号摘要.md",
-      "summary": "跟腱休息后不疼，不代表已经能接住原来的跑跳负荷。恢复需要结合疼痛位置调整练习幅度，让力量与快速受力能力逐步跟上。看练习后的走路和次日反应，才能更有依据地安排下一次运动。",
+      "summary": "休息后跟腱疼痛减轻，只说明当下刺激减少，不等于走跑跳所需的传力、反复承重和储能回弹能力已经恢复。完成必要评估后，应从可耐受负荷起步，每次只增加重量、幅度、速度或次数中的一项，并比较当时与次日反应。",
       "covers": {
         "16比9": "platforms/wechat/articles/20260904_第039篇_跟腱炎：为什么休息了还是不好？/20260904_第039篇_跟腱炎：为什么休息了还是不好？_封面_16比9.jpg",
         "235比100": "platforms/wechat/articles/20260904_第039篇_跟腱炎：为什么休息了还是不好？/20260904_第039篇_跟腱炎：为什么休息了还是不好？_封面_235比100.jpg"
@@ -944,6 +944,54 @@
         "capacities": [
           "strength",
           "speed",
+          "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 40,
+      "stable_id": "beyond100-040",
+      "series": "超越百岁",
+      "title": "髌骨软化症：为什么你上下楼梯膝盖疼？",
+      "content_date": "2026-09-06",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20260906_第040篇_髌骨软化症：为什么你上下楼梯膝盖疼？/20260906_第040篇_髌骨软化症：为什么你上下楼梯膝盖疼？.md",
+      "summary_path": "platforms/wechat/articles/20260906_第040篇_髌骨软化症：为什么你上下楼梯膝盖疼？/20260906_第040篇_髌骨软化症：为什么你上下楼梯膝盖疼？_公众号摘要.md",
+      "summary": "上下楼膝盖疼，不等于髌骨软骨正在被“磨软”。真正需要看的是弯膝承重任务如何改变髌股关节负荷，以及结构、疼痛与功能为何不一一对应。文章给出真实楼梯任务的观察方向，并说明稳定期如何恢复力量与使用能力。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20260906_第040篇_髌骨软化症：为什么你上下楼梯膝盖疼？/20260906_第040篇_髌骨软化症：为什么你上下楼梯膝盖疼？_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20260906_第040篇_髌骨软化症：为什么你上下楼梯膝盖疼？/20260906_第040篇_髌骨软化症：为什么你上下楼梯膝盖疼？_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20260906_第040篇_髌骨软化症：为什么你上下楼梯膝盖疼？/20260906_第040篇_髌骨软化症：为什么你上下楼梯膝盖疼？_插图01_髌骨与髌股关节结构.jpg",
+        "platforms/wechat/articles/20260906_第040篇_髌骨软化症：为什么你上下楼梯膝盖疼？/20260906_第040篇_髌骨软化症：为什么你上下楼梯膝盖疼？_插图02_平地与上下楼负荷对照.jpg",
+        "platforms/wechat/articles/20260906_第040篇_髌骨软化症：为什么你上下楼梯膝盖疼？/20260906_第040篇_髌骨软化症：为什么你上下楼梯膝盖疼？_插图03_结构疼痛功能三者概念.jpg",
+        "platforms/wechat/articles/20260906_第040篇_髌骨软化症：为什么你上下楼梯膝盖疼？/20260906_第040篇_髌骨软化症：为什么你上下楼梯膝盖疼？_插图04_楼梯任务观察行动卡.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "evidence-myths",
+        "dimensions": [
+          "structure",
+          "function"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "movement",
+          "load",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "knee"
+        ],
+        "movement_tasks": [
+          "walking",
+          "stairs"
+        ],
+        "capacities": [
+          "strength",
+          "stability",
           "recovery-capacity"
         ]
       }
