@@ -576,6 +576,35 @@
         "stability",
         "recovery-capacity"
       ]
+    },
+    "041": {
+      "primary_category": "method-judgment",
+      "dimensions": [
+        "structure",
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "movement",
+        "load",
+        "recovery",
+        "review"
+      ],
+      "body_regions": [
+        "shoulder-upper-limb",
+        "ribcage-spine"
+      ],
+      "movement_tasks": [
+        "overhead",
+        "carry"
+      ],
+      "capacities": [
+        "strength",
+        "mobility",
+        "stability",
+        "recovery-capacity"
+      ]
     }
   }
 }

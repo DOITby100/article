@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 19,
-  "last_content_date": "2026-09-06",
-  "content_revision": "4eb5af7230196e3069d6884bc5a8c85cd2fb9ff33cce65126f833796b3656752",
+  "article_count": 20,
+  "last_content_date": "2026-09-07",
+  "content_revision": "c247b3ab520fdeb996b905120f419b69f24a2b6147153fafddd528545eeab792",
   "articles": [
     {
       "id": 22,
@@ -808,7 +808,7 @@
       "platform": "wechat",
       "article_path": "platforms/wechat/articles/20260902_第037篇_梨状肌综合征：屁股痛到腿麻，不一定是腰椎问题/20260902_第037篇_梨状肌综合征：屁股痛到腿麻，不一定是腰椎问题.md",
       "summary_path": "platforms/wechat/articles/20260902_第037篇_梨状肌综合征：屁股痛到腿麻，不一定是腰椎问题/20260902_第037篇_梨状肌综合征：屁股痛到腿麻，不一定是腰椎问题_公众号摘要.md",
-      "summary": "梨状肌综合征并不只是“一块肌肉夹住神经”，更要看深臀区这条动态通道如何承受坐压、髋部动作和走路负荷。医学边界明确后，用同一座位或同一路程复测症状方向与恢复时间，才能判断功能耐受是否改善。",
+      "summary": "屁股痛到腿麻，不能只凭疼点判断来自梨状肌、腰椎还是髋周组织。先看坐姿与步态在躲哪种负荷，再核对症状路线、腰与髋的诱发反应，以及感觉、力量和反射；三组线索互相对应，才有更可靠的来源判断。",
       "covers": {
         "16比9": "platforms/wechat/articles/20260902_第037篇_梨状肌综合征：屁股痛到腿麻，不一定是腰椎问题/20260902_第037篇_梨状肌综合征：屁股痛到腿麻，不一定是腰椎问题_封面_16比9.jpg",
         "235比100": "platforms/wechat/articles/20260902_第037篇_梨状肌综合征：屁股痛到腿麻，不一定是腰椎问题/20260902_第037篇_梨状肌综合征：屁股痛到腿麻，不一定是腰椎问题_封面_235比100.jpg"
@@ -863,7 +863,7 @@
       "platform": "wechat",
       "article_path": "platforms/wechat/articles/20260903_第038篇_肩峰下撞击综合征：为什么你一抬手就疼？/20260903_第038篇_肩峰下撞击综合征：为什么你一抬手就疼？.md",
       "summary_path": "platforms/wechat/articles/20260903_第038篇_肩峰下撞击综合征：为什么你一抬手就疼？/20260903_第038篇_肩峰下撞击综合征：为什么你一抬手就疼？_公众号摘要.md",
-      "summary": "抬臂时的夹痛，不能直接证明肌腱被骨头夹住。肩周组织的敏感程度与动作所需负荷，共同影响这次抬手；留意取物距离、连续次数和次日反应，才更容易找到可调整的条件，把使用能力逐步带回生活。",
+      "summary": "“肩周炎”通常指关节囊逐渐发炎、增厚和挛缩形成的冻结肩，并非所有抬手疼。肩峰下疼痛有另一条成因链：组织承受能力下降后，任务要求反复超量；沿着负荷缺口恢复，才能把抬手能力带回生活。",
       "covers": {
         "16比9": "platforms/wechat/articles/20260903_第038篇_肩峰下撞击综合征：为什么你一抬手就疼？/20260903_第038篇_肩峰下撞击综合征：为什么你一抬手就疼？_封面_16比9.jpg",
         "235比100": "platforms/wechat/articles/20260903_第038篇_肩峰下撞击综合征：为什么你一抬手就疼？/20260903_第038篇_肩峰下撞击综合征：为什么你一抬手就疼？_封面_235比100.jpg"
@@ -991,6 +991,57 @@
         ],
         "capacities": [
           "strength",
+          "stability",
+          "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 41,
+      "stable_id": "beyond100-041",
+      "series": "超越百岁",
+      "title": "胸廓出口综合征：为什么你的手臂又麻又无力？",
+      "content_date": "2026-09-07",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20260907_第041篇_胸廓出口综合征：为什么你的手臂又麻又无力？/20260907_第041篇_胸廓出口综合征：为什么你的手臂又麻又无力？.md",
+      "summary_path": "platforms/wechat/articles/20260907_第041篇_胸廓出口综合征：为什么你的手臂又麻又无力？/20260907_第041篇_胸廓出口综合征：为什么你的手臂又麻又无力？_公众号摘要.md",
+      "summary": "手臂麻木无力不只可能来自神经，突然肿胀、发青或手部苍白冰凉还提示血管风险。本文讲清胸廓出口里的结构与成因，帮你分清急诊、尽早面诊和评估后恢复能力的顺序。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20260907_第041篇_胸廓出口综合征：为什么你的手臂又麻又无力？/20260907_第041篇_胸廓出口综合征：为什么你的手臂又麻又无力？_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20260907_第041篇_胸廓出口综合征：为什么你的手臂又麻又无力？/20260907_第041篇_胸廓出口综合征：为什么你的手臂又麻又无力？_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20260907_第041篇_胸廓出口综合征：为什么你的手臂又麻又无力？/20260907_第041篇_胸廓出口综合征：为什么你的手臂又麻又无力？_插图01_胸廓出口三段结构.jpg",
+        "platforms/wechat/articles/20260907_第041篇_胸廓出口综合征：为什么你的手臂又麻又无力？/20260907_第041篇_胸廓出口综合征：为什么你的手臂又麻又无力？_插图02_神经静脉动脉信号对照.jpg",
+        "platforms/wechat/articles/20260907_第041篇_胸廓出口综合征：为什么你的手臂又麻又无力？/20260907_第041篇_胸廓出口综合征：为什么你的手臂又麻又无力？_插图03_诊断证据汇合概念.jpg",
+        "platforms/wechat/articles/20260907_第041篇_胸廓出口综合征：为什么你的手臂又麻又无力？/20260907_第041篇_胸廓出口综合征：为什么你的手臂又麻又无力？_插图04_任务症状恢复行动卡.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "method-judgment",
+        "dimensions": [
+          "structure",
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "movement",
+          "load",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "shoulder-upper-limb",
+          "ribcage-spine"
+        ],
+        "movement_tasks": [
+          "overhead",
+          "carry"
+        ],
+        "capacities": [
+          "strength",
+          "mobility",
           "stability",
           "recovery-capacity"
         ]
