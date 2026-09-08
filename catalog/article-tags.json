@@ -605,6 +605,38 @@
         "stability",
         "recovery-capacity"
       ]
+    },
+    "042": {
+      "primary_category": "evidence-myths",
+      "dimensions": [
+        "structure",
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "movement",
+        "load",
+        "recovery",
+        "review"
+      ],
+      "body_regions": [
+        "pelvis-hip"
+      ],
+      "movement_tasks": [
+        "sit-to-stand",
+        "walking",
+        "stairs",
+        "single-leg",
+        "rotation"
+      ],
+      "capacities": [
+        "strength",
+        "mobility",
+        "stability",
+        "coordination",
+        "recovery-capacity"
+      ]
     }
   }
 }

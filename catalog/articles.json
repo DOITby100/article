@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 20,
-  "last_content_date": "2026-09-07",
-  "content_revision": "c247b3ab520fdeb996b905120f419b69f24a2b6147153fafddd528545eeab792",
+  "article_count": 21,
+  "last_content_date": "2026-09-08",
+  "content_revision": "642bbac72b64bcb239a9530afe72bb26b6410beae14b006541a6cc250381ba91",
   "articles": [
     {
       "id": 22,
@@ -1043,6 +1043,60 @@
           "strength",
           "mobility",
           "stability",
+          "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 42,
+      "stable_id": "beyond100-042",
+      "series": "超越百岁",
+      "title": "弹响髋：为什么你的髋关节总是“咔咔”响？",
+      "content_date": "2026-09-08",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20260908_第042篇_弹响髋：为什么你的髋关节总是“咔咔”响？/20260908_第042篇_弹响髋：为什么你的髋关节总是“咔咔”响？.md",
+      "summary_path": "platforms/wechat/articles/20260908_第042篇_弹响髋：为什么你的髋关节总是“咔咔”响？/20260908_第042篇_弹响髋：为什么你的髋关节总是“咔咔”响？_公众号摘要.md",
+      "summary": "髋关节“咔咔”响，不等于关节正在磨坏，也不能只凭位置给髂腰肌或髂胫束定罪。真正要看的是疼痛、卡锁与动作能力有没有变化；分清这些线索，才能决定继续观察、调整训练还是尽早评估。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20260908_第042篇_弹响髋：为什么你的髋关节总是“咔咔”响？/20260908_第042篇_弹响髋：为什么你的髋关节总是“咔咔”响？_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20260908_第042篇_弹响髋：为什么你的髋关节总是“咔咔”响？/20260908_第042篇_弹响髋：为什么你的髋关节总是“咔咔”响？_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20260908_第042篇_弹响髋：为什么你的髋关节总是“咔咔”响？/20260908_第042篇_弹响髋：为什么你的髋关节总是“咔咔”响？_插图01_髋部弹响三条路径.jpg",
+        "platforms/wechat/articles/20260908_第042篇_弹响髋：为什么你的髋关节总是“咔咔”响？/20260908_第042篇_弹响髋：为什么你的髋关节总是“咔咔”响？_插图02_三处弹响线索对照.jpg",
+        "platforms/wechat/articles/20260908_第042篇_弹响髋：为什么你的髋关节总是“咔咔”响？/20260908_第042篇_弹响髋：为什么你的髋关节总是“咔咔”响？_插图03_弹响核心判断分流.jpg",
+        "platforms/wechat/articles/20260908_第042篇_弹响髋：为什么你的髋关节总是“咔咔”响？/20260908_第042篇_弹响髋：为什么你的髋关节总是“咔咔”响？_插图04_任务复测行动卡.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "evidence-myths",
+        "dimensions": [
+          "structure",
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "movement",
+          "load",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "pelvis-hip"
+        ],
+        "movement_tasks": [
+          "sit-to-stand",
+          "walking",
+          "stairs",
+          "single-leg",
+          "rotation"
+        ],
+        "capacities": [
+          "strength",
+          "mobility",
+          "stability",
+          "coordination",
           "recovery-capacity"
         ]
       }
