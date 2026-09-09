@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 21,
-  "last_content_date": "2026-09-08",
-  "content_revision": "642bbac72b64bcb239a9530afe72bb26b6410beae14b006541a6cc250381ba91",
+  "article_count": 22,
+  "last_content_date": "2026-09-09",
+  "content_revision": "a626ad1ead5ffbc06922cfdd725e60bafc47c25652a396946a0df4ee91060d64",
   "articles": [
     {
       "id": 22,
@@ -1097,6 +1097,51 @@
           "mobility",
           "stability",
           "coordination",
+          "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 43,
+      "stable_id": "beyond100-043",
+      "series": "超越百岁",
+      "title": "为什么你越练越累？因为你不懂“恢复预算”",
+      "content_date": "2026-09-09",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20260909_第043篇_为什么你越练越累？因为你不懂“恢复预算”/20260909_第043篇_为什么你越练越累？因为你不懂“恢复预算”.md",
+      "summary_path": "platforms/wechat/articles/20260909_第043篇_为什么你越练越累？因为你不懂“恢复预算”/20260909_第043篇_为什么你越练越累？因为你不懂“恢复预算”_公众号摘要.md",
+      "summary": "越练越累，不一定是意志力不够，也不能一律归因于训练；关键要看支出是否持续超过恢复。学会从同一任务、日常精力和下一次训练读信号，再按力竭距离、总量与组间密度逐项校准。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20260909_第043篇_为什么你越练越累？因为你不懂“恢复预算”/20260909_第043篇_为什么你越练越累？因为你不懂“恢复预算”_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20260909_第043篇_为什么你越练越累？因为你不懂“恢复预算”/20260909_第043篇_为什么你越练越累？因为你不懂“恢复预算”_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20260909_第043篇_为什么你越练越累？因为你不懂“恢复预算”/20260909_第043篇_为什么你越练越累？因为你不懂“恢复预算”_插图01_恢复预算核心概念.jpg",
+        "platforms/wechat/articles/20260909_第043篇_为什么你越练越累？因为你不懂“恢复预算”/20260909_第043篇_为什么你越练越累？因为你不懂“恢复预算”_插图02_连续疲劳机制链.jpg",
+        "platforms/wechat/articles/20260909_第043篇_为什么你越练越累？因为你不懂“恢复预算”/20260909_第043篇_为什么你越练越累？因为你不懂“恢复预算”_插图03_训练校准行动.jpg",
+        "platforms/wechat/articles/20260909_第043篇_为什么你越练越累？因为你不懂“恢复预算”/20260909_第043篇_为什么你越练越累？因为你不懂“恢复预算”_插图04_疲劳分流对照.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "load-recovery",
+        "dimensions": [
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "load",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "whole-body"
+        ],
+        "movement_tasks": [
+          "squat"
+        ],
+        "capacities": [
+          "strength",
           "recovery-capacity"
         ]
       }
