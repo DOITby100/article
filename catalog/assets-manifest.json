@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "file_count": 173,
-  "content_revision": "a626ad1ead5ffbc06922cfdd725e60bafc47c25652a396946a0df4ee91060d64",
+  "file_count": 182,
+  "content_revision": "27bc9f20dbd95c7111ef9e808bf98ef3d0462ada4623437baeff19955d233e4b",
   "files": [
     {
       "relative_path": "platforms/wechat/articles/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的.md",
@@ -640,8 +640,8 @@
     },
     {
       "relative_path": "platforms/wechat/articles/20260903_第038篇_肩峰下撞击综合征：为什么你一抬手就疼？/20260903_第038篇_肩峰下撞击综合征：为什么你一抬手就疼？.md",
-      "size_bytes": 9346,
-      "sha256": "f73350a20110297d6850a52379522aafe725cc4f58e0a66037d677377fb6b391"
+      "size_bytes": 9526,
+      "sha256": "ad70eaca1db752d89a2c02b3658695e3267c51555154ada9d3411fb687f65ac4"
     },
     {
       "relative_path": "platforms/wechat/articles/20260903_第038篇_肩峰下撞击综合征：为什么你一抬手就疼？/20260903_第038篇_肩峰下撞击综合征：为什么你一抬手就疼？_公众号摘要.md",
@@ -664,12 +664,17 @@
       "sha256": "df57b48d6929c84539a362e9e6f9bb2f11e90cb49a7de7ea84efa9bdfe79f4cb"
     },
     {
-      "relative_path": "platforms/wechat/articles/20260903_第038篇_肩峰下撞击综合征：为什么你一抬手就疼？/20260903_第038篇_肩峰下撞击综合征：为什么你一抬手就疼？_插图02_近身与伸远对照.jpg",
+      "relative_path": "platforms/wechat/articles/20260903_第038篇_肩峰下撞击综合征：为什么你一抬手就疼？/20260903_第038篇_肩峰下撞击综合征：为什么你一抬手就疼？_插图02_正常抬手结构协同.jpg",
+      "size_bytes": 1772484,
+      "sha256": "8ef4d78aa32061dae1255d8f7b65bd2553b75edfd4663fbf7981f340257937a9"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260903_第038篇_肩峰下撞击综合征：为什么你一抬手就疼？/20260903_第038篇_肩峰下撞击综合征：为什么你一抬手就疼？_插图03_近身与伸远对照.jpg",
       "size_bytes": 1219455,
       "sha256": "c7831a4b313b20b85e2c2bf0dddc2625730398e22f89c0e6fc0bed157adcbc10"
     },
     {
-      "relative_path": "platforms/wechat/articles/20260903_第038篇_肩峰下撞击综合征：为什么你一抬手就疼？/20260903_第038篇_肩峰下撞击综合征：为什么你一抬手就疼？_插图03_低位到抬臂练习.jpg",
+      "relative_path": "platforms/wechat/articles/20260903_第038篇_肩峰下撞击综合征：为什么你一抬手就疼？/20260903_第038篇_肩峰下撞击综合征：为什么你一抬手就疼？_插图04_低位到抬臂练习.jpg",
       "size_bytes": 1077332,
       "sha256": "3efbfc3679175b3e9648183d4de79164ed856d86935eade4794f6b990d6338a2"
     },
@@ -867,6 +872,46 @@
       "relative_path": "platforms/wechat/articles/20260909_第043篇_为什么你越练越累？因为你不懂“恢复预算”/20260909_第043篇_为什么你越练越累？因为你不懂“恢复预算”_插图04_疲劳分流对照.jpg",
       "size_bytes": 1385905,
       "sha256": "494a599df885c55ceda6078713a01e1f3713468a8dac0ee6cf6db5dcad41b4d1"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260910_第044篇_训练不是越狠越好，而是越“对”越好/20260910_第044篇_训练不是越狠越好，而是越“对”越好.md",
+      "size_bytes": 7848,
+      "sha256": "9e9f69d8906148f51824b9ce7eabec7e986d7ddf6a07790c92939ca163962d64"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260910_第044篇_训练不是越狠越好，而是越“对”越好/20260910_第044篇_训练不是越狠越好，而是越“对”越好_公众号摘要.md",
+      "size_bytes": 244,
+      "sha256": "dc9968e4a5c870e86cf3f543f91c91972a74e732d993c8d8e44fc7e054cdce1b"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260910_第044篇_训练不是越狠越好，而是越“对”越好/20260910_第044篇_训练不是越狠越好，而是越“对”越好_封面_16比9.jpg",
+      "size_bytes": 8155877,
+      "sha256": "98409bd5073279d209d61f2cd0b53d99411f9b7e904a2b750ff500cdba458308"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260910_第044篇_训练不是越狠越好，而是越“对”越好/20260910_第044篇_训练不是越狠越好，而是越“对”越好_封面_235比100.jpg",
+      "size_bytes": 4210144,
+      "sha256": "414e2c95bd518813cdefd340e43d0a0dde4dd1667b478cc9847e8e5e250883ff"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260910_第044篇_训练不是越狠越好，而是越“对”越好/20260910_第044篇_训练不是越狠越好，而是越“对”越好_插图01_训练匹配核心概念.jpg",
+      "size_bytes": 6028884,
+      "sha256": "5088fc7c3c3ba8410a1dfefdd35c99aa5dec2d5210c8c6f97cd072c513b7fed2"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260910_第044篇_训练不是越狠越好，而是越“对”越好/20260910_第044篇_训练不是越狠越好，而是越“对”越好_插图02_狠与对的判断对照.jpg",
+      "size_bytes": 4676416,
+      "sha256": "611905c833171b41c04f3d303d66f57ffbea1e8fa639b7b63181c3ff3f9bc8d6"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260910_第044篇_训练不是越狠越好，而是越“对”越好/20260910_第044篇_训练不是越狠越好，而是越“对”越好_插图03_三个目标动作.jpg",
+      "size_bytes": 4419621,
+      "sha256": "8ab8179eb73b01fe78ec9b2449608160c2685626f663da535ae66435809d01d7"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260910_第044篇_训练不是越狠越好，而是越“对”越好/20260910_第044篇_训练不是越狠越好，而是越“对”越好_插图04_目标反馈路径.jpg",
+      "size_bytes": 6233151,
+      "sha256": "c1e603cf40953027e458ca7b79340e4ac4daddb292041bebd4436d39fca454bf"
     }
   ]
 }

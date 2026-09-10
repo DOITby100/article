@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 22,
-  "last_content_date": "2026-09-09",
-  "content_revision": "a626ad1ead5ffbc06922cfdd725e60bafc47c25652a396946a0df4ee91060d64",
+  "article_count": 23,
+  "last_content_date": "2026-09-10",
+  "content_revision": "27bc9f20dbd95c7111ef9e808bf98ef3d0462ada4623437baeff19955d233e4b",
   "articles": [
     {
       "id": 22,
@@ -870,8 +870,9 @@
       },
       "illustrations": [
         "platforms/wechat/articles/20260903_第038篇_肩峰下撞击综合征：为什么你一抬手就疼？/20260903_第038篇_肩峰下撞击综合征：为什么你一抬手就疼？_插图01_肩峰下结构机制.jpg",
-        "platforms/wechat/articles/20260903_第038篇_肩峰下撞击综合征：为什么你一抬手就疼？/20260903_第038篇_肩峰下撞击综合征：为什么你一抬手就疼？_插图02_近身与伸远对照.jpg",
-        "platforms/wechat/articles/20260903_第038篇_肩峰下撞击综合征：为什么你一抬手就疼？/20260903_第038篇_肩峰下撞击综合征：为什么你一抬手就疼？_插图03_低位到抬臂练习.jpg"
+        "platforms/wechat/articles/20260903_第038篇_肩峰下撞击综合征：为什么你一抬手就疼？/20260903_第038篇_肩峰下撞击综合征：为什么你一抬手就疼？_插图02_正常抬手结构协同.jpg",
+        "platforms/wechat/articles/20260903_第038篇_肩峰下撞击综合征：为什么你一抬手就疼？/20260903_第038篇_肩峰下撞击综合征：为什么你一抬手就疼？_插图03_近身与伸远对照.jpg",
+        "platforms/wechat/articles/20260903_第038篇_肩峰下撞击综合征：为什么你一抬手就疼？/20260903_第038篇_肩峰下撞击综合征：为什么你一抬手就疼？_插图04_低位到抬臂练习.jpg"
       ],
       "taxonomy": {
         "primary_category": "evidence-myths",
@@ -1143,6 +1144,55 @@
         "capacities": [
           "strength",
           "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 44,
+      "stable_id": "beyond100-044",
+      "series": "超越百岁",
+      "title": "训练不是越狠越好，而是越“对”越好",
+      "content_date": "2026-09-10",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20260910_第044篇_训练不是越狠越好，而是越“对”越好/20260910_第044篇_训练不是越狠越好，而是越“对”越好.md",
+      "summary_path": "platforms/wechat/articles/20260910_第044篇_训练不是越狠越好，而是越“对”越好/20260910_第044篇_训练不是越狠越好，而是越“对”越好_公众号摘要.md",
+      "summary": "训练效果不由酸痛、出汗或力竭证明，而取决于刺激是否对准目标任务和当前能力。把目标改写成具体动作，再用同一任务检查进步，才能知道重量、次数与方法有没有用在正确方向。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20260910_第044篇_训练不是越狠越好，而是越“对”越好/20260910_第044篇_训练不是越狠越好，而是越“对”越好_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20260910_第044篇_训练不是越狠越好，而是越“对”越好/20260910_第044篇_训练不是越狠越好，而是越“对”越好_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20260910_第044篇_训练不是越狠越好，而是越“对”越好/20260910_第044篇_训练不是越狠越好，而是越“对”越好_插图01_训练匹配核心概念.jpg",
+        "platforms/wechat/articles/20260910_第044篇_训练不是越狠越好，而是越“对”越好/20260910_第044篇_训练不是越狠越好，而是越“对”越好_插图02_狠与对的判断对照.jpg",
+        "platforms/wechat/articles/20260910_第044篇_训练不是越狠越好，而是越“对”越好/20260910_第044篇_训练不是越狠越好，而是越“对”越好_插图03_三个目标动作.jpg",
+        "platforms/wechat/articles/20260910_第044篇_训练不是越狠越好，而是越“对”越好/20260910_第044篇_训练不是越狠越好，而是越“对”越好_插图04_目标反馈路径.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "method-judgment",
+        "dimensions": [
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "movement",
+          "load",
+          "review"
+        ],
+        "body_regions": [
+          "whole-body"
+        ],
+        "movement_tasks": [
+          "sit-to-stand",
+          "walking",
+          "stairs",
+          "push",
+          "carry"
+        ],
+        "capacities": [
+          "strength",
+          "stability",
+          "coordination"
         ]
       }
     }

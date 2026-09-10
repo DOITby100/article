@@ -660,6 +660,33 @@
         "strength",
         "recovery-capacity"
       ]
+    },
+    "044": {
+      "primary_category": "method-judgment",
+      "dimensions": [
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "movement",
+        "load",
+        "review"
+      ],
+      "body_regions": [
+        "whole-body"
+      ],
+      "movement_tasks": [
+        "sit-to-stand",
+        "walking",
+        "stairs",
+        "push",
+        "carry"
+      ],
+      "capacities": [
+        "strength",
+        "stability",
+        "coordination"
+      ]
     }
   }
 }
