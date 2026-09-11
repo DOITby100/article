@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 23,
-  "last_content_date": "2026-09-10",
-  "content_revision": "27bc9f20dbd95c7111ef9e808bf98ef3d0462ada4623437baeff19955d233e4b",
+  "article_count": 24,
+  "last_content_date": "2026-09-11",
+  "content_revision": "5f63ef96be5410c73fde4195ea4f8049f49f0db039c139ef61ca729e31fef80b",
   "articles": [
     {
       "id": 22,
@@ -1193,6 +1193,53 @@
           "strength",
           "stability",
           "coordination"
+        ]
+      }
+    },
+    {
+      "id": 45,
+      "stable_id": "beyond100-045",
+      "series": "超越百岁",
+      "title": "为什么专业运动员要“周期化训练”？因为身体不是机器",
+      "content_date": "2026-09-11",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20260911_第045篇_为什么专业运动员要“周期化训练”？因为身体不是机器/20260911_第045篇_为什么专业运动员要“周期化训练”？因为身体不是机器.md",
+      "summary_path": "platforms/wechat/articles/20260911_第045篇_为什么专业运动员要“周期化训练”？因为身体不是机器/20260911_第045篇_为什么专业运动员要“周期化训练”？因为身体不是机器_公众号摘要.md",
+      "summary": "周期化不是把每天练得不同，而是让每一阶段只解决一个主要问题。运动员靠它把力量、专项转换与减量对准比赛日期；普通人也能借目标、负荷、反馈三步，让计划随身体反应修正，而不是照抄职业课表。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20260911_第045篇_为什么专业运动员要“周期化训练”？因为身体不是机器/20260911_第045篇_为什么专业运动员要“周期化训练”？因为身体不是机器_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20260911_第045篇_为什么专业运动员要“周期化训练”？因为身体不是机器/20260911_第045篇_为什么专业运动员要“周期化训练”？因为身体不是机器_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20260911_第045篇_为什么专业运动员要“周期化训练”？因为身体不是机器/20260911_第045篇_为什么专业运动员要“周期化训练”？因为身体不是机器_插图01_周期化核心概念.jpg",
+        "platforms/wechat/articles/20260911_第045篇_为什么专业运动员要“周期化训练”？因为身体不是机器/20260911_第045篇_为什么专业运动员要“周期化训练”？因为身体不是机器_插图02_三种安排时间尺度对照.jpg",
+        "platforms/wechat/articles/20260911_第045篇_为什么专业运动员要“周期化训练”？因为身体不是机器/20260911_第045篇_为什么专业运动员要“周期化训练”？因为身体不是机器_插图03_提包动作三阶段.jpg",
+        "platforms/wechat/articles/20260911_第045篇_为什么专业运动员要“周期化训练”？因为身体不是机器/20260911_第045篇_为什么专业运动员要“周期化训练”？因为身体不是机器_插图04_计划与反馈闭环路径.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "load-recovery",
+        "dimensions": [
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "load",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "whole-body"
+        ],
+        "movement_tasks": [
+          "hinge",
+          "carry"
+        ],
+        "capacities": [
+          "strength",
+          "speed",
+          "cardiorespiratory",
+          "recovery-capacity"
         ]
       }
     }

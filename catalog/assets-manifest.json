@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "file_count": 182,
-  "content_revision": "27bc9f20dbd95c7111ef9e808bf98ef3d0462ada4623437baeff19955d233e4b",
+  "file_count": 190,
+  "content_revision": "5f63ef96be5410c73fde4195ea4f8049f49f0db039c139ef61ca729e31fef80b",
   "files": [
     {
       "relative_path": "platforms/wechat/articles/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的.md",
@@ -912,6 +912,46 @@
       "relative_path": "platforms/wechat/articles/20260910_第044篇_训练不是越狠越好，而是越“对”越好/20260910_第044篇_训练不是越狠越好，而是越“对”越好_插图04_目标反馈路径.jpg",
       "size_bytes": 6233151,
       "sha256": "c1e603cf40953027e458ca7b79340e4ac4daddb292041bebd4436d39fca454bf"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260911_第045篇_为什么专业运动员要“周期化训练”？因为身体不是机器/20260911_第045篇_为什么专业运动员要“周期化训练”？因为身体不是机器.md",
+      "size_bytes": 8091,
+      "sha256": "ee021fe133ed4e252a3feac3902c18f889e5b3cbfa2b0efcc18edecb03f8115c"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260911_第045篇_为什么专业运动员要“周期化训练”？因为身体不是机器/20260911_第045篇_为什么专业运动员要“周期化训练”？因为身体不是机器_公众号摘要.md",
+      "size_bytes": 274,
+      "sha256": "3f26f4292fd69abc9d7503597f45268d144d5943cee623c9a5c4810c20fed8cd"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260911_第045篇_为什么专业运动员要“周期化训练”？因为身体不是机器/20260911_第045篇_为什么专业运动员要“周期化训练”？因为身体不是机器_封面_16比9.jpg",
+      "size_bytes": 1778043,
+      "sha256": "815d9c0a32dbf46b18954bb529de1e6edf62bf4d155c1af50d9ace4ccf69d6dc"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260911_第045篇_为什么专业运动员要“周期化训练”？因为身体不是机器/20260911_第045篇_为什么专业运动员要“周期化训练”？因为身体不是机器_封面_235比100.jpg",
+      "size_bytes": 2275291,
+      "sha256": "9644b5d515a2bd381275d759b6f74c60c45809962a444477d09968252dfc6081"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260911_第045篇_为什么专业运动员要“周期化训练”？因为身体不是机器/20260911_第045篇_为什么专业运动员要“周期化训练”？因为身体不是机器_插图01_周期化核心概念.jpg",
+      "size_bytes": 1044125,
+      "sha256": "3e44865aaa6aca2150c9f296ad8dba8c058b1970d15ab5f96a3ee5a42b181cf2"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260911_第045篇_为什么专业运动员要“周期化训练”？因为身体不是机器/20260911_第045篇_为什么专业运动员要“周期化训练”？因为身体不是机器_插图02_三种安排时间尺度对照.jpg",
+      "size_bytes": 1045667,
+      "sha256": "1872005c4c0f50873c43330605bc639f589a69905897c9208911127271283664"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260911_第045篇_为什么专业运动员要“周期化训练”？因为身体不是机器/20260911_第045篇_为什么专业运动员要“周期化训练”？因为身体不是机器_插图03_提包动作三阶段.jpg",
+      "size_bytes": 1133349,
+      "sha256": "b10b27867b4754bdfe82e40cfbd47e4794eb086423750b9e4e8327f398dd7bec"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260911_第045篇_为什么专业运动员要“周期化训练”？因为身体不是机器/20260911_第045篇_为什么专业运动员要“周期化训练”？因为身体不是机器_插图04_计划与反馈闭环路径.jpg",
+      "size_bytes": 1630064,
+      "sha256": "4adc35f4b8036fc2e7472eba47b39f82efec1ce8597c0bfe245f65220589f52f"
     }
   ]
 }
