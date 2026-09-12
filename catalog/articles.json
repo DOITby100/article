@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 24,
-  "last_content_date": "2026-09-11",
-  "content_revision": "5f63ef96be5410c73fde4195ea4f8049f49f0db039c139ef61ca729e31fef80b",
+  "article_count": 25,
+  "last_content_date": "2026-09-12",
+  "content_revision": "1c9c542e2aae6f5ff2ad8a3d121324583af7f0378a7fd6594cd6d96a741de664",
   "articles": [
     {
       "id": 22,
@@ -1238,6 +1238,55 @@
         "capacities": [
           "strength",
           "speed",
+          "cardiorespiratory",
+          "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 46,
+      "stable_id": "beyond100-046",
+      "series": "超越百岁",
+      "title": "睡眠不足 8 小时？你的训练效果可能减半",
+      "content_date": "2026-09-12",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20260912_第046篇_睡眠不足 8 小时？你的训练效果可能减半/20260912_第046篇_睡眠不足 8 小时？你的训练效果可能减半.md",
+      "summary_path": "platforms/wechat/articles/20260912_第046篇_睡眠不足 8 小时？你的训练效果可能减半/20260912_第046篇_睡眠不足 8 小时？你的训练效果可能减半_公众号摘要.md",
+      "summary": "睡不满 8 小时，不等于训练效果自动减半；睡眠不足对耐力、力量、动作控制和费力感的影响并不相同。用熟悉任务校准当天剂量，再看第二天恢复，才能决定继续、降级还是先补足睡眠机会。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20260912_第046篇_睡眠不足 8 小时？你的训练效果可能减半/20260912_第046篇_睡眠不足 8 小时？你的训练效果可能减半_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20260912_第046篇_睡眠不足 8 小时？你的训练效果可能减半/20260912_第046篇_睡眠不足 8 小时？你的训练效果可能减半_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20260912_第046篇_睡眠不足 8 小时？你的训练效果可能减半/20260912_第046篇_睡眠不足 8 小时？你的训练效果可能减半_插图01_睡眠误区对照.jpg",
+        "platforms/wechat/articles/20260912_第046篇_睡眠不足 8 小时？你的训练效果可能减半/20260912_第046篇_睡眠不足 8 小时？你的训练效果可能减半_插图02_睡眠与训练适应链.jpg",
+        "platforms/wechat/articles/20260912_第046篇_睡眠不足 8 小时？你的训练效果可能减半/20260912_第046篇_睡眠不足 8 小时？你的训练效果可能减半_插图03_短睡训练日三步行动.jpg",
+        "platforms/wechat/articles/20260912_第046篇_睡眠不足 8 小时？你的训练效果可能减半/20260912_第046篇_睡眠不足 8 小时？你的训练效果可能减半_插图04_睡眠训练反馈路径.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "load-recovery",
+        "dimensions": [
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "load",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "whole-body"
+        ],
+        "movement_tasks": [
+          "sit-to-stand",
+          "walking",
+          "squat"
+        ],
+        "capacities": [
+          "strength",
+          "coordination",
           "cardiorespiratory",
           "recovery-capacity"
         ]

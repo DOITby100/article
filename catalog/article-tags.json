@@ -712,6 +712,33 @@
         "cardiorespiratory",
         "recovery-capacity"
       ]
+    },
+    "046": {
+      "primary_category": "load-recovery",
+      "dimensions": [
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "load",
+        "recovery",
+        "review"
+      ],
+      "body_regions": [
+        "whole-body"
+      ],
+      "movement_tasks": [
+        "sit-to-stand",
+        "walking",
+        "squat"
+      ],
+      "capacities": [
+        "strength",
+        "coordination",
+        "cardiorespiratory",
+        "recovery-capacity"
+      ]
     }
   }
 }

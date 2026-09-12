@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "file_count": 190,
-  "content_revision": "5f63ef96be5410c73fde4195ea4f8049f49f0db039c139ef61ca729e31fef80b",
+  "file_count": 198,
+  "content_revision": "1c9c542e2aae6f5ff2ad8a3d121324583af7f0378a7fd6594cd6d96a741de664",
   "files": [
     {
       "relative_path": "platforms/wechat/articles/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的.md",
@@ -952,6 +952,46 @@
       "relative_path": "platforms/wechat/articles/20260911_第045篇_为什么专业运动员要“周期化训练”？因为身体不是机器/20260911_第045篇_为什么专业运动员要“周期化训练”？因为身体不是机器_插图04_计划与反馈闭环路径.jpg",
       "size_bytes": 1630064,
       "sha256": "4adc35f4b8036fc2e7472eba47b39f82efec1ce8597c0bfe245f65220589f52f"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260912_第046篇_睡眠不足 8 小时？你的训练效果可能减半/20260912_第046篇_睡眠不足 8 小时？你的训练效果可能减半.md",
+      "size_bytes": 8091,
+      "sha256": "9b06c68d87a6b0bac21f4525052b897f49d2e90e923dd215801bc2d08215c039"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260912_第046篇_睡眠不足 8 小时？你的训练效果可能减半/20260912_第046篇_睡眠不足 8 小时？你的训练效果可能减半_公众号摘要.md",
+      "size_bytes": 256,
+      "sha256": "193d3643660870d666be26a3583005075725a079d442f228171ca9c81e7363a8"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260912_第046篇_睡眠不足 8 小时？你的训练效果可能减半/20260912_第046篇_睡眠不足 8 小时？你的训练效果可能减半_封面_16比9.jpg",
+      "size_bytes": 1695369,
+      "sha256": "8cc22efe979a104adbbe78b873aa6cbd0b5c3876b7a05b93ddc67b07a1858a5e"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260912_第046篇_睡眠不足 8 小时？你的训练效果可能减半/20260912_第046篇_睡眠不足 8 小时？你的训练效果可能减半_封面_235比100.jpg",
+      "size_bytes": 2282539,
+      "sha256": "b14bad076f02f151d4d685be59d9599e832983f0ad495ff3a7429a4fd582e2e5"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260912_第046篇_睡眠不足 8 小时？你的训练效果可能减半/20260912_第046篇_睡眠不足 8 小时？你的训练效果可能减半_插图01_睡眠误区对照.jpg",
+      "size_bytes": 1278543,
+      "sha256": "426a71adda3ab3d276a055b148fa4c994044b2783722a7c194f8f98ce96627f2"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260912_第046篇_睡眠不足 8 小时？你的训练效果可能减半/20260912_第046篇_睡眠不足 8 小时？你的训练效果可能减半_插图02_睡眠与训练适应链.jpg",
+      "size_bytes": 1881423,
+      "sha256": "5c5197e2011a6ea65b8a7ae7b65e345d6fec154034ad2633cebd0d5133288298"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260912_第046篇_睡眠不足 8 小时？你的训练效果可能减半/20260912_第046篇_睡眠不足 8 小时？你的训练效果可能减半_插图03_短睡训练日三步行动.jpg",
+      "size_bytes": 1365879,
+      "sha256": "189bb3a5ad2ce9099bdc564b8aa8463745489c0460153c7b9d2a033d9872710d"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260912_第046篇_睡眠不足 8 小时？你的训练效果可能减半/20260912_第046篇_睡眠不足 8 小时？你的训练效果可能减半_插图04_睡眠训练反馈路径.jpg",
+      "size_bytes": 1812704,
+      "sha256": "5f98ccd4c8b3d7364e0e6253495a47a155d2026d7868736108680ec4cb55d471"
     }
   ]
 }
