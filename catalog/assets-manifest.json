@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "file_count": 198,
-  "content_revision": "1c9c542e2aae6f5ff2ad8a3d121324583af7f0378a7fd6594cd6d96a741de664",
+  "file_count": 206,
+  "content_revision": "1074964b43734dedc2dbbf3511f52befd6c0c27a6e8eb39e465fe6c52fbbdd13",
   "files": [
     {
       "relative_path": "platforms/wechat/articles/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的.md",
@@ -992,6 +992,46 @@
       "relative_path": "platforms/wechat/articles/20260912_第046篇_睡眠不足 8 小时？你的训练效果可能减半/20260912_第046篇_睡眠不足 8 小时？你的训练效果可能减半_插图04_睡眠训练反馈路径.jpg",
       "size_bytes": 1812704,
       "sha256": "5f98ccd4c8b3d7364e0e6253495a47a155d2026d7868736108680ec4cb55d471"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260913_第047篇_为什么有人天天练，你一周三次反而进步更快？/20260913_第047篇_为什么有人天天练，你一周三次反而进步更快？.md",
+      "size_bytes": 8273,
+      "sha256": "ce135913d2e58e0b250b3bafe842b4a4aac317a1d06418db659f9277a067a4bf"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260913_第047篇_为什么有人天天练，你一周三次反而进步更快？/20260913_第047篇_为什么有人天天练，你一周三次反而进步更快？_公众号摘要.md",
+      "size_bytes": 262,
+      "sha256": "7be597d19e091acee5417b6c38bca03e01aa3e81e65a948a99bb15f0b8ab9770"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260913_第047篇_为什么有人天天练，你一周三次反而进步更快？/20260913_第047篇_为什么有人天天练，你一周三次反而进步更快？_封面_16比9.jpg",
+      "size_bytes": 1677486,
+      "sha256": "d4604271f5dcb7cb9336b8bd7ca9c7e4afe751ce86a9b5266f7f3ee45bc85f66"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260913_第047篇_为什么有人天天练，你一周三次反而进步更快？/20260913_第047篇_为什么有人天天练，你一周三次反而进步更快？_封面_235比100.jpg",
+      "size_bytes": 2248305,
+      "sha256": "428490f124b7ce693616ce8c5dbba3149ac5c230a0c0097be5dc41aadbbb29e6"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260913_第047篇_为什么有人天天练，你一周三次反而进步更快？/20260913_第047篇_为什么有人天天练，你一周三次反而进步更快？_插图01_频率与有效练习对照.jpg",
+      "size_bytes": 1299602,
+      "sha256": "080dd462f4527fc76d291c2c82824467909117f058af8bf636d852d5ab031688"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260913_第047篇_为什么有人天天练，你一周三次反而进步更快？/20260913_第047篇_为什么有人天天练，你一周三次反而进步更快？_插图02_周总量与频率机制.jpg",
+      "size_bytes": 1470973,
+      "sha256": "75d64456e33c95fdb7d00015bad3a7d92c8b71e54b4668d9b56a7a2cfe884bcd"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260913_第047篇_为什么有人天天练，你一周三次反而进步更快？/20260913_第047篇_为什么有人天天练，你一周三次反而进步更快？_插图03_三道训练判断路径.jpg",
+      "size_bytes": 873975,
+      "sha256": "6f5a96f19f9f9f6f74bea5b4fe4f6e562481891db0796fead378cdefe9ecd1a6"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260913_第047篇_为什么有人天天练，你一周三次反而进步更快？/20260913_第047篇_为什么有人天天练，你一周三次反而进步更快？_插图04_一周三次划船动作.jpg",
+      "size_bytes": 907101,
+      "sha256": "bbef596704c1d52b89745524d21ebf0c15af7692626e0241d1230f93c1a7f2a4"
     }
   ]
 }
