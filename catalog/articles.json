@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 26,
-  "last_content_date": "2026-09-13",
-  "content_revision": "1074964b43734dedc2dbbf3511f52befd6c0c27a6e8eb39e465fe6c52fbbdd13",
+  "article_count": 27,
+  "last_content_date": "2026-09-14",
+  "content_revision": "a8cb51828e694dd54f68bb4bde7cd7b1fc11b4199bbea8ba425528c5e1af9e78",
   "articles": [
     {
       "id": 22,
@@ -1302,7 +1302,7 @@
       "platform": "wechat",
       "article_path": "platforms/wechat/articles/20260913_第047篇_为什么有人天天练，你一周三次反而进步更快？/20260913_第047篇_为什么有人天天练，你一周三次反而进步更快？.md",
       "summary_path": "platforms/wechat/articles/20260913_第047篇_为什么有人天天练，你一周三次反而进步更快？/20260913_第047篇_为什么有人天天练，你一周三次反而进步更快？_公众号摘要.md",
-      "summary": "训练频率不是打卡数量，天天练也不天然胜过一周三次。真正决定进步的，是周总量、动作质量和下一次能否继续递进。用三道质量门，你可以判断每次练习是在产生有效刺激，还是只在重复疲劳。",
+      "summary": "训练频率只回答“练得多勤”，不回答“为什么练”。目标、动作、负荷和反馈没有指向同一结果，练得越勤越可能事倍功半。用三道方向门先把目标瞄准，再决定一周需要重复几次。",
       "covers": {
         "16比9": "platforms/wechat/articles/20260913_第047篇_为什么有人天天练，你一周三次反而进步更快？/20260913_第047篇_为什么有人天天练，你一周三次反而进步更快？_封面_16比9.jpg",
         "235比100": "platforms/wechat/articles/20260913_第047篇_为什么有人天天练，你一周三次反而进步更快？/20260913_第047篇_为什么有人天天练，你一周三次反而进步更快？_封面_235比100.jpg"
@@ -1339,6 +1339,56 @@
           "strength",
           "stability",
           "coordination",
+          "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 48,
+      "stable_id": "beyond100-048",
+      "series": "超越百岁",
+      "title": "拉伸到底有没有用？关键看你“什么时候拉”",
+      "content_date": "2026-09-14",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20260914_第048篇_拉伸到底有没有用？关键看你“什么时候拉”/20260914_第048篇_拉伸到底有没有用？关键看你“什么时候拉”.md",
+      "summary_path": "platforms/wechat/articles/20260914_第048篇_拉伸到底有没有用？关键看你“什么时候拉”/20260914_第048篇_拉伸到底有没有用？关键看你“什么时候拉”_公众号摘要.md",
+      "summary": "拉伸有用与否，不能只看动作本身：运动前要服务下一项任务，运动后别把舒适误当恢复，长期柔韧则要单独训练。文中用同一小腿目标拆解三种时机，并给出可复测、可退阶的安全做法。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20260914_第048篇_拉伸到底有没有用？关键看你“什么时候拉”/20260914_第048篇_拉伸到底有没有用？关键看你“什么时候拉”_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20260914_第048篇_拉伸到底有没有用？关键看你“什么时候拉”/20260914_第048篇_拉伸到底有没有用？关键看你“什么时候拉”_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20260914_第048篇_拉伸到底有没有用？关键看你“什么时候拉”/20260914_第048篇_拉伸到底有没有用？关键看你“什么时候拉”_插图01_概念·三个时间点与三个目标.jpg",
+        "platforms/wechat/articles/20260914_第048篇_拉伸到底有没有用？关键看你“什么时候拉”/20260914_第048篇_拉伸到底有没有用？关键看你“什么时候拉”_插图02_动作·运动前热身顺序.jpg",
+        "platforms/wechat/articles/20260914_第048篇_拉伸到底有没有用？关键看你“什么时候拉”/20260914_第048篇_拉伸到底有没有用？关键看你“什么时候拉”_插图03_对照·练后舒适与恢复分流.jpg",
+        "platforms/wechat/articles/20260914_第048篇_拉伸到底有没有用？关键看你“什么时候拉”/20260914_第048篇_拉伸到底有没有用？关键看你“什么时候拉”_插图04_路径·同一目标三种用法.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "evidence-myths",
+        "dimensions": [
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "movement",
+          "load",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "foot-ankle",
+          "whole-body"
+        ],
+        "movement_tasks": [
+          "running",
+          "stairs",
+          "squat"
+        ],
+        "capacities": [
+          "mobility",
+          "speed",
+          "power",
           "recovery-capacity"
         ]
       }

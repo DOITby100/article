@@ -768,6 +768,34 @@
         "coordination",
         "recovery-capacity"
       ]
+    },
+    "048": {
+      "primary_category": "evidence-myths",
+      "dimensions": [
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "movement",
+        "load",
+        "recovery",
+        "review"
+      ],
+      "body_regions": [
+        "foot-ankle",
+        "whole-body"
+      ],
+      "movement_tasks": [
+        "running",
+        "stairs",
+        "squat"
+      ],
+      "capacities": [
+        "mobility",
+        "speed",
+        "power",
+        "recovery-capacity"
+      ]
     }
   }
 }
