@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 27,
-  "last_content_date": "2026-09-14",
-  "content_revision": "a8cb51828e694dd54f68bb4bde7cd7b1fc11b4199bbea8ba425528c5e1af9e78",
+  "article_count": 28,
+  "last_content_date": "2026-09-15",
+  "content_revision": "4af20066734bffabfe09dbdd0eaa3d7f87e5b24a4e2c9fb7fed36324ae158371",
   "articles": [
     {
       "id": 22,
@@ -1389,6 +1389,54 @@
           "mobility",
           "speed",
           "power",
+          "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 49,
+      "stable_id": "beyond100-049",
+      "series": "超越百岁",
+      "title": "为什么你的力量总是卡在某个重量上不去？",
+      "content_date": "2026-09-15",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20260915_第049篇_为什么你的力量总是卡在某个重量上不去？/20260915_第049篇_为什么你的力量总是卡在某个重量上不去？.md",
+      "summary_path": "platforms/wechat/articles/20260915_第049篇_为什么你的力量总是卡在某个重量上不去？/20260915_第049篇_为什么你的力量总是卡在某个重量上不去？_公众号摘要.md",
+      "summary": "力量卡在同一重量，不一定是肌肉到头，也可能是动作标准、刺激方向与恢复反馈没有对齐。先固定一个主动作，再分别校准负荷、卡点控制和真实任务迁移，才能判断该加重量、补能力，还是先恢复。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20260915_第049篇_为什么你的力量总是卡在某个重量上不去？/20260915_第049篇_为什么你的力量总是卡在某个重量上不去？_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20260915_第049篇_为什么你的力量总是卡在某个重量上不去？/20260915_第049篇_为什么你的力量总是卡在某个重量上不去？_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20260915_第049篇_为什么你的力量总是卡在某个重量上不去？/20260915_第049篇_为什么你的力量总是卡在某个重量上不去？_插图01_力量平台三类核心卡点.jpg",
+        "platforms/wechat/articles/20260915_第049篇_为什么你的力量总是卡在某个重量上不去？/20260915_第049篇_为什么你的力量总是卡在某个重量上不去？_插图02_力量形成机制闭环.jpg",
+        "platforms/wechat/articles/20260915_第049篇_为什么你的力量总是卡在某个重量上不去？/20260915_第049篇_为什么你的力量总是卡在某个重量上不去？_插图03_双哑铃硬拉动作校准.jpg",
+        "platforms/wechat/articles/20260915_第049篇_为什么你的力量总是卡在某个重量上不去？/20260915_第049篇_为什么你的力量总是卡在某个重量上不去？_插图04_行李箱迁移路径.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "load-recovery",
+        "dimensions": [
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "movement",
+          "load",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "pelvis-hip",
+          "whole-body"
+        ],
+        "movement_tasks": [
+          "hinge",
+          "carry"
+        ],
+        "capacities": [
+          "strength",
+          "coordination",
           "recovery-capacity"
         ]
       }

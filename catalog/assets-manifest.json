@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "file_count": 214,
-  "content_revision": "a8cb51828e694dd54f68bb4bde7cd7b1fc11b4199bbea8ba425528c5e1af9e78",
+  "file_count": 222,
+  "content_revision": "4af20066734bffabfe09dbdd0eaa3d7f87e5b24a4e2c9fb7fed36324ae158371",
   "files": [
     {
       "relative_path": "platforms/wechat/articles/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的.md",
@@ -1072,6 +1072,46 @@
       "relative_path": "platforms/wechat/articles/20260914_第048篇_拉伸到底有没有用？关键看你“什么时候拉”/20260914_第048篇_拉伸到底有没有用？关键看你“什么时候拉”_插图04_路径·同一目标三种用法.jpg",
       "size_bytes": 1187515,
       "sha256": "b0f60372fec9b8903109215cc45a3ec3268039547156453d1b8f904b9ba2c237"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260915_第049篇_为什么你的力量总是卡在某个重量上不去？/20260915_第049篇_为什么你的力量总是卡在某个重量上不去？.md",
+      "size_bytes": 7538,
+      "sha256": "f08aeb82ad5d5f0e176a1f7facd50e63223089db0af45b2f08e9745b06e3aa32"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260915_第049篇_为什么你的力量总是卡在某个重量上不去？/20260915_第049篇_为什么你的力量总是卡在某个重量上不去？_公众号摘要.md",
+      "size_bytes": 268,
+      "sha256": "d9af3cd107f3cd8e9c4666f58af9570d55db3d9dc3553b8e74cda9c4c2393927"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260915_第049篇_为什么你的力量总是卡在某个重量上不去？/20260915_第049篇_为什么你的力量总是卡在某个重量上不去？_封面_16比9.jpg",
+      "size_bytes": 1598402,
+      "sha256": "e60c76f8877ce82372be4179984ed4749198e5526e81a1d00830f6508b171c35"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260915_第049篇_为什么你的力量总是卡在某个重量上不去？/20260915_第049篇_为什么你的力量总是卡在某个重量上不去？_封面_235比100.jpg",
+      "size_bytes": 2099679,
+      "sha256": "117b2e90d13b9a5ddbafe00204d2cf701ed1be0fe5729369f76677cfc49fb5f8"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260915_第049篇_为什么你的力量总是卡在某个重量上不去？/20260915_第049篇_为什么你的力量总是卡在某个重量上不去？_插图01_力量平台三类核心卡点.jpg",
+      "size_bytes": 1265797,
+      "sha256": "839b662b11768b4db44b916706cd85c75367cf04d523bca7d05cb084bfb0e71c"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260915_第049篇_为什么你的力量总是卡在某个重量上不去？/20260915_第049篇_为什么你的力量总是卡在某个重量上不去？_插图02_力量形成机制闭环.jpg",
+      "size_bytes": 1461886,
+      "sha256": "6e532345771b455ebe6447afd1cac8f648ce405974d317c0fc2b1c5431d0a472"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260915_第049篇_为什么你的力量总是卡在某个重量上不去？/20260915_第049篇_为什么你的力量总是卡在某个重量上不去？_插图03_双哑铃硬拉动作校准.jpg",
+      "size_bytes": 832803,
+      "sha256": "b0febf06376e7899baad647f8d124d3f5c5e5adf0d84dd0f7ac761d420976749"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260915_第049篇_为什么你的力量总是卡在某个重量上不去？/20260915_第049篇_为什么你的力量总是卡在某个重量上不去？_插图04_行李箱迁移路径.jpg",
+      "size_bytes": 1286207,
+      "sha256": "e478fe2c568f18e39f4f965477f84111b0b3ecbe9817a124f89ccdfcd35e676e"
     }
   ]
 }
