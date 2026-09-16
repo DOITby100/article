@@ -822,6 +822,36 @@
         "coordination",
         "recovery-capacity"
       ]
+    },
+    "050": {
+      "primary_category": "evidence-myths",
+      "dimensions": [
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "movement",
+        "load",
+        "recovery",
+        "review"
+      ],
+      "body_regions": [
+        "pelvis-hip",
+        "knee",
+        "whole-body"
+      ],
+      "movement_tasks": [
+        "sit-to-stand",
+        "walking",
+        "stairs",
+        "squat"
+      ],
+      "capacities": [
+        "strength",
+        "coordination",
+        "recovery-capacity"
+      ]
     }
   }
 }

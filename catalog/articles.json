@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 28,
-  "last_content_date": "2026-09-15",
-  "content_revision": "4af20066734bffabfe09dbdd0eaa3d7f87e5b24a4e2c9fb7fed36324ae158371",
+  "article_count": 29,
+  "last_content_date": "2026-09-16",
+  "content_revision": "0f7edad05f3d4c97366b9a6006717b32b5bab2370ad0a011f0f7aa78443632d0",
   "articles": [
     {
       "id": 22,
@@ -1433,6 +1433,58 @@
         "movement_tasks": [
           "hinge",
           "carry"
+        ],
+        "capacities": [
+          "strength",
+          "coordination",
+          "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 50,
+      "stable_id": "beyond100-050",
+      "series": "超越百岁",
+      "title": "运动后的“酸痛”是好事还是坏事？",
+      "content_date": "2026-09-16",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20260916_第050篇_运动后的“酸痛”是好事还是坏事？/20260916_第050篇_运动后的“酸痛”是好事还是坏事？.md",
+      "summary_path": "platforms/wechat/articles/20260916_第050篇_运动后的“酸痛”是好事还是坏事？/20260916_第050篇_运动后的“酸痛”是好事还是坏事？_公众号摘要.md",
+      "summary": "运动后越酸，不等于练得越有效；一点不酸，也不代表训练没有价值。判断这次酸痛是正常反馈还是需要停下，应同时看出现方式、动作功能和恢复方向，再据此安排轻活动、复测与下一次负荷。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20260916_第050篇_运动后的“酸痛”是好事还是坏事？/20260916_第050篇_运动后的“酸痛”是好事还是坏事？_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20260916_第050篇_运动后的“酸痛”是好事还是坏事？/20260916_第050篇_运动后的“酸痛”是好事还是坏事？_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20260916_第050篇_运动后的“酸痛”是好事还是坏事？/20260916_第050篇_运动后的“酸痛”是好事还是坏事？_插图01_酸痛与训练收益对照.jpg",
+        "platforms/wechat/articles/20260916_第050篇_运动后的“酸痛”是好事还是坏事？/20260916_第050篇_运动后的“酸痛”是好事还是坏事？_插图02_酸痛延迟机制链.jpg",
+        "platforms/wechat/articles/20260916_第050篇_运动后的“酸痛”是好事还是坏事？/20260916_第050篇_运动后的“酸痛”是好事还是坏事？_插图03_三条恢复判断路径.jpg",
+        "platforms/wechat/articles/20260916_第050篇_运动后的“酸痛”是好事还是坏事？/20260916_第050篇_运动后的“酸痛”是好事还是坏事？_插图04_轻活动与椅子起坐练习.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "evidence-myths",
+        "dimensions": [
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "movement",
+          "load",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "pelvis-hip",
+          "knee",
+          "whole-body"
+        ],
+        "movement_tasks": [
+          "sit-to-stand",
+          "walking",
+          "stairs",
+          "squat"
         ],
         "capacities": [
           "strength",
