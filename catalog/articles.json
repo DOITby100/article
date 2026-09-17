@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 29,
-  "last_content_date": "2026-09-16",
-  "content_revision": "0f7edad05f3d4c97366b9a6006717b32b5bab2370ad0a011f0f7aa78443632d0",
+  "article_count": 30,
+  "last_content_date": "2026-09-17",
+  "content_revision": "6e2d09fbf260eeac96cb2eb70d7ba917e61c06003bcded5c5ff2932f67f3f409",
   "articles": [
     {
       "id": 22,
@@ -1253,7 +1253,7 @@
       "platform": "wechat",
       "article_path": "platforms/wechat/articles/20260912_第046篇_睡眠不足 8 小时？你的训练效果可能减半/20260912_第046篇_睡眠不足 8 小时？你的训练效果可能减半.md",
       "summary_path": "platforms/wechat/articles/20260912_第046篇_睡眠不足 8 小时？你的训练效果可能减半/20260912_第046篇_睡眠不足 8 小时？你的训练效果可能减半_公众号摘要.md",
-      "summary": "睡不满 8 小时，不等于训练效果自动减半；睡眠不足对耐力、力量、动作控制和费力感的影响并不相同。用熟悉任务校准当天剂量，再看第二天恢复，才能决定继续、降级还是先补足睡眠机会。",
+      "summary": "缺觉不只让训练更费力，还可能改变激素分泌节律、肌肉蛋白合成与胰岛素敏感性，但不能换算成训练效果减半。先保护睡眠机会，再结合白天清醒、熟悉训练和日常活动的恢复趋势，决定是否加量。",
       "covers": {
         "16比9": "platforms/wechat/articles/20260912_第046篇_睡眠不足 8 小时？你的训练效果可能减半/20260912_第046篇_睡眠不足 8 小时？你的训练效果可能减半_封面_16比9.jpg",
         "235比100": "platforms/wechat/articles/20260912_第046篇_睡眠不足 8 小时？你的训练效果可能减半/20260912_第046篇_睡眠不足 8 小时？你的训练效果可能减半_封面_235比100.jpg"
@@ -1280,14 +1280,12 @@
           "whole-body"
         ],
         "movement_tasks": [
-          "sit-to-stand",
           "walking",
+          "stairs",
           "squat"
         ],
         "capacities": [
           "strength",
-          "coordination",
-          "cardiorespiratory",
           "recovery-capacity"
         ]
       }
@@ -1489,6 +1487,52 @@
         "capacities": [
           "strength",
           "coordination",
+          "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 51,
+      "stable_id": "beyond100-051",
+      "series": "超越百岁",
+      "title": "为什么有人“喝水都胖”？因为你的代谢被练废了",
+      "content_date": "2026-09-17",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20260917_第051篇_为什么有人“喝水都胖”？因为你的代谢被练废了/20260917_第051篇_为什么有人“喝水都胖”？因为你的代谢被练废了.md",
+      "summary_path": "platforms/wechat/articles/20260917_第051篇_为什么有人“喝水都胖”？因为你的代谢被练废了/20260917_第051篇_为什么有人“喝水都胖”？因为你的代谢被练废了_公众号摘要.md",
+      "summary": "喝水后秤上变重，不等于增加脂肪；减重平台也不能证明代谢被练坏。身体变轻、练后食欲与日常活动改变，都可能影响全天收支。分清体重趋势和活动余力，才能把吃饭、走动与力量安排得更可持续。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20260917_第051篇_为什么有人“喝水都胖”？因为你的代谢被练废了/20260917_第051篇_为什么有人“喝水都胖”？因为你的代谢被练废了_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20260917_第051篇_为什么有人“喝水都胖”？因为你的代谢被练废了/20260917_第051篇_为什么有人“喝水都胖”？因为你的代谢被练废了_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20260917_第051篇_为什么有人“喝水都胖”？因为你的代谢被练废了/20260917_第051篇_为什么有人“喝水都胖”？因为你的代谢被练废了_插图01_体重与脂肪概念.jpg",
+        "platforms/wechat/articles/20260917_第051篇_为什么有人“喝水都胖”？因为你的代谢被练废了/20260917_第051篇_为什么有人“喝水都胖”？因为你的代谢被练废了_插图02_全天收支反馈机制.jpg",
+        "platforms/wechat/articles/20260917_第051篇_为什么有人“喝水都胖”？因为你的代谢被练废了/20260917_第051篇_为什么有人“喝水都胖”？因为你的代谢被练废了_插图03_走动与力量动作.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "evidence-myths",
+        "dimensions": [
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "movement",
+          "load",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "whole-body"
+        ],
+        "movement_tasks": [
+          "walking",
+          "push"
+        ],
+        "capacities": [
+          "strength",
           "recovery-capacity"
         ]
       }

@@ -729,14 +729,12 @@
         "whole-body"
       ],
       "movement_tasks": [
-        "sit-to-stand",
         "walking",
+        "stairs",
         "squat"
       ],
       "capacities": [
         "strength",
-        "coordination",
-        "cardiorespiratory",
         "recovery-capacity"
       ]
     },
@@ -850,6 +848,31 @@
       "capacities": [
         "strength",
         "coordination",
+        "recovery-capacity"
+      ]
+    },
+    "051": {
+      "primary_category": "evidence-myths",
+      "dimensions": [
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "movement",
+        "load",
+        "recovery",
+        "review"
+      ],
+      "body_regions": [
+        "whole-body"
+      ],
+      "movement_tasks": [
+        "walking",
+        "push"
+      ],
+      "capacities": [
+        "strength",
         "recovery-capacity"
       ]
     }
