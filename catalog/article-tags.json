@@ -875,6 +875,27 @@
         "strength",
         "recovery-capacity"
       ]
+    },
+    "052": {
+      "primary_category": "evidence-myths",
+      "dimensions": [
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "movement",
+        "load",
+        "review"
+      ],
+      "body_regions": [
+        "whole-body"
+      ],
+      "movement_tasks": [
+        "walking"
+      ],
+      "capacities": [
+        "cardiorespiratory"
+      ]
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "file_count": 237,
-  "content_revision": "6e2d09fbf260eeac96cb2eb70d7ba917e61c06003bcded5c5ff2932f67f3f409",
+  "file_count": 244,
+  "content_revision": "ae091a8446dd65b0accd0a930c03fd4e3e6925cd682638f4544a0bb0918012b4",
   "files": [
     {
       "relative_path": "platforms/wechat/articles/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的.md",
@@ -1187,6 +1187,41 @@
       "relative_path": "platforms/wechat/articles/20260917_第051篇_为什么有人“喝水都胖”？因为你的代谢被练废了/20260917_第051篇_为什么有人“喝水都胖”？因为你的代谢被练废了_插图03_走动与力量动作.jpg",
       "size_bytes": 1271434,
       "sha256": "e8d998f4f7e9902cdd27e0490913addf422db1de9c56b8a6c2714fa871beee5d"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260918_第052篇_有氧运动到底“燃脂”吗？真相可能让你失望/20260918_第052篇_有氧运动到底“燃脂”吗？真相可能让你失望.md",
+      "size_bytes": 8081,
+      "sha256": "60278608f731c28922f148c99660fbdec6e384725d88efce991a1bb7ca495465"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260918_第052篇_有氧运动到底“燃脂”吗？真相可能让你失望/20260918_第052篇_有氧运动到底“燃脂”吗？真相可能让你失望_公众号摘要.md",
+      "size_bytes": 256,
+      "sha256": "d8fdf18c916865dad9fc408e1cfe0274bc94d0502c974a1935c0f34ad8a1cf96"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260918_第052篇_有氧运动到底“燃脂”吗？真相可能让你失望/20260918_第052篇_有氧运动到底“燃脂”吗？真相可能让你失望_封面_16比9.jpg",
+      "size_bytes": 1979402,
+      "sha256": "ac40d01dd51e5d4e899e352625b13aba1ffbdccc039c0e12fe362e6ffea25f07"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260918_第052篇_有氧运动到底“燃脂”吗？真相可能让你失望/20260918_第052篇_有氧运动到底“燃脂”吗？真相可能让你失望_封面_235比100.jpg",
+      "size_bytes": 2789156,
+      "sha256": "bcc88511711cd897c996601e55e99dce53665f801536b9d434790a41881bbfd8"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260918_第052篇_有氧运动到底“燃脂”吗？真相可能让你失望/20260918_第052篇_有氧运动到底“燃脂”吗？真相可能让你失望_插图01_供能分配机制.jpg",
+      "size_bytes": 1384207,
+      "sha256": "6f9495f4e688648c13b9c52cfd2494357a987f847a3e4285127ec4c06c520a5e"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260918_第052篇_有氧运动到底“燃脂”吗？真相可能让你失望/20260918_第052篇_有氧运动到底“燃脂”吗？真相可能让你失望_插图02_燃脂核心概念.jpg",
+      "size_bytes": 2006837,
+      "sha256": "5b12727832d44b7d780038ed81a9ee9ac63ace65983d42d3f4cc21ffa82e906d"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260918_第052篇_有氧运动到底“燃脂”吗？真相可能让你失望/20260918_第052篇_有氧运动到底“燃脂”吗？真相可能让你失望_插图03_两种有氧行动.jpg",
+      "size_bytes": 1498316,
+      "sha256": "fdb6af027749de43cf09ea942390390e1bb2a79544d0c6e79776cf9328002bf8"
     }
   ]
 }

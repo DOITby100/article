@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 30,
-  "last_content_date": "2026-09-17",
-  "content_revision": "6e2d09fbf260eeac96cb2eb70d7ba917e61c06003bcded5c5ff2932f67f3f409",
+  "article_count": 31,
+  "last_content_date": "2026-09-18",
+  "content_revision": "ae091a8446dd65b0accd0a930c03fd4e3e6925cd682638f4544a0bb0918012b4",
   "articles": [
     {
       "id": 22,
@@ -1534,6 +1534,48 @@
         "capacities": [
           "strength",
           "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 52,
+      "stable_id": "beyond100-052",
+      "series": "超越百岁",
+      "title": "有氧运动到底“燃脂”吗？真相可能让你失望",
+      "content_date": "2026-09-18",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20260918_第052篇_有氧运动到底“燃脂”吗？真相可能让你失望/20260918_第052篇_有氧运动到底“燃脂”吗？真相可能让你失望.md",
+      "summary_path": "platforms/wechat/articles/20260918_第052篇_有氧运动到底“燃脂”吗？真相可能让你失望/20260918_第052篇_有氧运动到底“燃脂”吗？真相可能让你失望_公众号摘要.md",
+      "summary": "把运动强度降到“燃脂区”，未必能多减脂。供能比例、实际脂肪消耗与长期体脂变化是不同结果；先用说话能力校准负荷，再安排能稳定完成的有氧时间，比追逐表盘标签更有助于选择训练。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20260918_第052篇_有氧运动到底“燃脂”吗？真相可能让你失望/20260918_第052篇_有氧运动到底“燃脂”吗？真相可能让你失望_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20260918_第052篇_有氧运动到底“燃脂”吗？真相可能让你失望/20260918_第052篇_有氧运动到底“燃脂”吗？真相可能让你失望_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20260918_第052篇_有氧运动到底“燃脂”吗？真相可能让你失望/20260918_第052篇_有氧运动到底“燃脂”吗？真相可能让你失望_插图01_供能分配机制.jpg",
+        "platforms/wechat/articles/20260918_第052篇_有氧运动到底“燃脂”吗？真相可能让你失望/20260918_第052篇_有氧运动到底“燃脂”吗？真相可能让你失望_插图02_燃脂核心概念.jpg",
+        "platforms/wechat/articles/20260918_第052篇_有氧运动到底“燃脂”吗？真相可能让你失望/20260918_第052篇_有氧运动到底“燃脂”吗？真相可能让你失望_插图03_两种有氧行动.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "evidence-myths",
+        "dimensions": [
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "movement",
+          "load",
+          "review"
+        ],
+        "body_regions": [
+          "whole-body"
+        ],
+        "movement_tasks": [
+          "walking"
+        ],
+        "capacities": [
+          "cardiorespiratory"
         ]
       }
     }
