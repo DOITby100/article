@@ -896,6 +896,37 @@
       "capacities": [
         "cardiorespiratory"
       ]
+    },
+    "053": {
+      "primary_category": "physical-capacities",
+      "dimensions": [
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "movement",
+        "load",
+        "recovery",
+        "review"
+      ],
+      "body_regions": [
+        "shoulder-upper-limb",
+        "knee",
+        "foot-ankle",
+        "whole-body"
+      ],
+      "movement_tasks": [
+        "sit-to-stand",
+        "stairs",
+        "single-leg"
+      ],
+      "capacities": [
+        "strength",
+        "stability",
+        "coordination",
+        "recovery-capacity"
+      ]
     }
   }
 }

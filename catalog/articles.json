@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 31,
-  "last_content_date": "2026-09-18",
-  "content_revision": "ae091a8446dd65b0accd0a930c03fd4e3e6925cd682638f4544a0bb0918012b4",
+  "article_count": 32,
+  "last_content_date": "2026-09-19",
+  "content_revision": "d1682225f72e5a91922345568e8ae295be438e9577ee308be8530585eb6a73a2",
   "articles": [
     {
       "id": 22,
@@ -1576,6 +1576,58 @@
         ],
         "capacities": [
           "cardiorespiratory"
+        ]
+      }
+    },
+    {
+      "id": 53,
+      "stable_id": "beyond100-053",
+      "series": "超越百岁",
+      "title": "为什么运动员都在做“离心训练”？因为它能让你更强更抗伤",
+      "content_date": "2026-09-19",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20260919_第053篇_为什么运动员都在做“离心训练”？因为它能让你更强更抗伤/20260919_第053篇_为什么运动员都在做“离心训练”？因为它能让你更强更抗伤.md",
+      "summary_path": "platforms/wechat/articles/20260919_第053篇_为什么运动员都在做“离心训练”？因为它能让你更强更抗伤/20260919_第053篇_为什么运动员都在做“离心训练”？因为它能让你更强更抗伤_公众号摘要.md",
+      "summary": "离心训练不是把所有动作故意放慢，关键是让肌肉在被拉长时仍能控制下降与减速。先找到最常失控的真实任务，再用可恢复的幅度、次数和支撑逐步增加难度，比追求酸痛更能把力量带回下楼、落地和急停。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20260919_第053篇_为什么运动员都在做“离心训练”？因为它能让你更强更抗伤/20260919_第053篇_为什么运动员都在做“离心训练”？因为它能让你更强更抗伤_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20260919_第053篇_为什么运动员都在做“离心训练”？因为它能让你更强更抗伤/20260919_第053篇_为什么运动员都在做“离心训练”？因为它能让你更强更抗伤_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20260919_第053篇_为什么运动员都在做“离心训练”？因为它能让你更强更抗伤/20260919_第053篇_为什么运动员都在做“离心训练”？因为它能让你更强更抗伤_插图01_三种发力对照.jpg",
+        "platforms/wechat/articles/20260919_第053篇_为什么运动员都在做“离心训练”？因为它能让你更强更抗伤/20260919_第053篇_为什么运动员都在做“离心训练”？因为它能让你更强更抗伤_插图02_减速制动机制.jpg",
+        "platforms/wechat/articles/20260919_第053篇_为什么运动员都在做“离心训练”？因为它能让你更强更抗伤/20260919_第053篇_为什么运动员都在做“离心训练”？因为它能让你更强更抗伤_插图03_三个下降动作.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "physical-capacities",
+        "dimensions": [
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "movement",
+          "load",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "shoulder-upper-limb",
+          "knee",
+          "foot-ankle",
+          "whole-body"
+        ],
+        "movement_tasks": [
+          "sit-to-stand",
+          "stairs",
+          "single-leg"
+        ],
+        "capacities": [
+          "strength",
+          "stability",
+          "coordination",
+          "recovery-capacity"
         ]
       }
     }

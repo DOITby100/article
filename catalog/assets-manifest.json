@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "file_count": 244,
-  "content_revision": "ae091a8446dd65b0accd0a930c03fd4e3e6925cd682638f4544a0bb0918012b4",
+  "file_count": 251,
+  "content_revision": "d1682225f72e5a91922345568e8ae295be438e9577ee308be8530585eb6a73a2",
   "files": [
     {
       "relative_path": "platforms/wechat/articles/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的.md",
@@ -1222,6 +1222,41 @@
       "relative_path": "platforms/wechat/articles/20260918_第052篇_有氧运动到底“燃脂”吗？真相可能让你失望/20260918_第052篇_有氧运动到底“燃脂”吗？真相可能让你失望_插图03_两种有氧行动.jpg",
       "size_bytes": 1498316,
       "sha256": "fdb6af027749de43cf09ea942390390e1bb2a79544d0c6e79776cf9328002bf8"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260919_第053篇_为什么运动员都在做“离心训练”？因为它能让你更强更抗伤/20260919_第053篇_为什么运动员都在做“离心训练”？因为它能让你更强更抗伤.md",
+      "size_bytes": 7468,
+      "sha256": "80abdf792bae45faa162e405a0fccc152e3b60f04714aa5530445dbb3648010a"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260919_第053篇_为什么运动员都在做“离心训练”？因为它能让你更强更抗伤/20260919_第053篇_为什么运动员都在做“离心训练”？因为它能让你更强更抗伤_公众号摘要.md",
+      "size_bytes": 277,
+      "sha256": "5d365b36094d30edeee6c9e1b4058af79c900b09937555aa1043c68c8b259faf"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260919_第053篇_为什么运动员都在做“离心训练”？因为它能让你更强更抗伤/20260919_第053篇_为什么运动员都在做“离心训练”？因为它能让你更强更抗伤_封面_16比9.jpg",
+      "size_bytes": 1894060,
+      "sha256": "ee435cee01b2c061716fc03f032b27509c019f0a1ab9fcd6a1b02b23da199ec7"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260919_第053篇_为什么运动员都在做“离心训练”？因为它能让你更强更抗伤/20260919_第053篇_为什么运动员都在做“离心训练”？因为它能让你更强更抗伤_封面_235比100.jpg",
+      "size_bytes": 2785784,
+      "sha256": "801df0c95077226c93ddea9ef75a575f128bd9225232090f2e92a89bf14f7f19"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260919_第053篇_为什么运动员都在做“离心训练”？因为它能让你更强更抗伤/20260919_第053篇_为什么运动员都在做“离心训练”？因为它能让你更强更抗伤_插图01_三种发力对照.jpg",
+      "size_bytes": 1416254,
+      "sha256": "9ca4594b913c01d83e61b0ea14aefb71688321e746516dbf2501760b2db9cbed"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260919_第053篇_为什么运动员都在做“离心训练”？因为它能让你更强更抗伤/20260919_第053篇_为什么运动员都在做“离心训练”？因为它能让你更强更抗伤_插图02_减速制动机制.jpg",
+      "size_bytes": 1434374,
+      "sha256": "e98a1cc9ad36132092da63471f63a895769a97c14ecad1c9c971de019815b51a"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260919_第053篇_为什么运动员都在做“离心训练”？因为它能让你更强更抗伤/20260919_第053篇_为什么运动员都在做“离心训练”？因为它能让你更强更抗伤_插图03_三个下降动作.jpg",
+      "size_bytes": 1986364,
+      "sha256": "fa438900e1300b2c1e707a024e4dc1b41b78280ba0339ea692644dabd576e2bf"
     }
   ]
 }
