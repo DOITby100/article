@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "file_count": 251,
-  "content_revision": "d1682225f72e5a91922345568e8ae295be438e9577ee308be8530585eb6a73a2",
+  "file_count": 258,
+  "content_revision": "19136c193f0a01ca0aa3a3a647a52c6113eb2d863190675ee5db01b29020f094",
   "files": [
     {
       "relative_path": "platforms/wechat/articles/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的.md",
@@ -1115,8 +1115,8 @@
     },
     {
       "relative_path": "platforms/wechat/articles/20260916_第050篇_运动后的“酸痛”是好事还是坏事？/20260916_第050篇_运动后的“酸痛”是好事还是坏事？.md",
-      "size_bytes": 7969,
-      "sha256": "e2d8e8bb1f5347b189be80264e8d737753073608cbe69370818256687c1ce256"
+      "size_bytes": 8121,
+      "sha256": "3faa5420ccfcaa5da6388faf521f959330a6d56c4bf8bcb2fb69a07caa2692ba"
     },
     {
       "relative_path": "platforms/wechat/articles/20260916_第050篇_运动后的“酸痛”是好事还是坏事？/20260916_第050篇_运动后的“酸痛”是好事还是坏事？_公众号摘要.md",
@@ -1257,6 +1257,41 @@
       "relative_path": "platforms/wechat/articles/20260919_第053篇_为什么运动员都在做“离心训练”？因为它能让你更强更抗伤/20260919_第053篇_为什么运动员都在做“离心训练”？因为它能让你更强更抗伤_插图03_三个下降动作.jpg",
       "size_bytes": 1986364,
       "sha256": "fa438900e1300b2c1e707a024e4dc1b41b78280ba0339ea692644dabd576e2bf"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260920_第054篇_间歇训练 vs 持续有氧：哪个更适合你？/20260920_第054篇_间歇训练 vs 持续有氧：哪个更适合你？.md",
+      "size_bytes": 8240,
+      "sha256": "4d68bd997dfd770ba55897750fcf3dbd62c7672326f283bbf503a84189676400"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260920_第054篇_间歇训练 vs 持续有氧：哪个更适合你？/20260920_第054篇_间歇训练 vs 持续有氧：哪个更适合你？_公众号摘要.md",
+      "size_bytes": 277,
+      "sha256": "7492806ffd77608202881ebddd6595f97a1864ef8ecd8b6012e3bd74c55aa52d"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260920_第054篇_间歇训练 vs 持续有氧：哪个更适合你？/20260920_第054篇_间歇训练 vs 持续有氧：哪个更适合你？_封面_16比9.jpg",
+      "size_bytes": 2249157,
+      "sha256": "e75f1d37994a3700f50507eb67492d96ad30abbb7650d9777334d96fa583fa86"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260920_第054篇_间歇训练 vs 持续有氧：哪个更适合你？/20260920_第054篇_间歇训练 vs 持续有氧：哪个更适合你？_封面_235比100.jpg",
+      "size_bytes": 3012252,
+      "sha256": "6e0b802b0f579dc5d04ad02aaa1e2e47d339650bce56a45c8400b2ebf40aa6b5"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260920_第054篇_间歇训练 vs 持续有氧：哪个更适合你？/20260920_第054篇_间歇训练 vs 持续有氧：哪个更适合你？_插图01_两种负荷对照.jpg",
+      "size_bytes": 1358944,
+      "sha256": "331bc92cd796c0c8bd4d334e799b8992c83d8d3cdfcf657a59e518b00f44b229"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260920_第054篇_间歇训练 vs 持续有氧：哪个更适合你？/20260920_第054篇_间歇训练 vs 持续有氧：哪个更适合你？_插图02_四道选择路径.jpg",
+      "size_bytes": 1301343,
+      "sha256": "63ba63ecdee79185b5231fc9431c6f9bba48bb4793ec789cdf78ac472de3afcf"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260920_第054篇_间歇训练 vs 持续有氧：哪个更适合你？/20260920_第054篇_间歇训练 vs 持续有氧：哪个更适合你？_插图03_两类试跑练习.jpg",
+      "size_bytes": 2389595,
+      "sha256": "00f446dd1a5dbcbf758999658b68bc260b80bcda116741e782e12681a48f5c52"
     }
   ]
 }

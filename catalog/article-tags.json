@@ -927,6 +927,33 @@
         "coordination",
         "recovery-capacity"
       ]
+    },
+    "054": {
+      "primary_category": "method-judgment",
+      "dimensions": [
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "foundation",
+        "movement",
+        "load",
+        "recovery",
+        "review"
+      ],
+      "body_regions": [
+        "whole-body"
+      ],
+      "movement_tasks": [
+        "walking",
+        "running",
+        "stairs"
+      ],
+      "capacities": [
+        "cardiorespiratory",
+        "recovery-capacity"
+      ]
     }
   }
 }

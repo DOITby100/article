@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 32,
-  "last_content_date": "2026-09-19",
-  "content_revision": "d1682225f72e5a91922345568e8ae295be438e9577ee308be8530585eb6a73a2",
+  "article_count": 33,
+  "last_content_date": "2026-09-20",
+  "content_revision": "19136c193f0a01ca0aa3a3a647a52c6113eb2d863190675ee5db01b29020f094",
   "articles": [
     {
       "id": 22,
@@ -1627,6 +1627,54 @@
           "strength",
           "stability",
           "coordination",
+          "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 54,
+      "stable_id": "beyond100-054",
+      "series": "超越百岁",
+      "title": "间歇训练 vs 持续有氧：哪个更适合你？",
+      "content_date": "2026-09-20",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20260920_第054篇_间歇训练 vs 持续有氧：哪个更适合你？/20260920_第054篇_间歇训练 vs 持续有氧：哪个更适合你？.md",
+      "summary_path": "platforms/wechat/articles/20260920_第054篇_间歇训练 vs 持续有氧：哪个更适合你？/20260920_第054篇_间歇训练 vs 持续有氧：哪个更适合你？_公众号摘要.md",
+      "summary": "间歇训练并不天然更高效，持续有氧也不是只给基础差的人。真正决定选择的，是目标、动作基础、恢复预算和可重复性；用两类可控试跑比较训练中动作、训练后恢复与后续计划，才能找到适合自己的方式。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20260920_第054篇_间歇训练 vs 持续有氧：哪个更适合你？/20260920_第054篇_间歇训练 vs 持续有氧：哪个更适合你？_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20260920_第054篇_间歇训练 vs 持续有氧：哪个更适合你？/20260920_第054篇_间歇训练 vs 持续有氧：哪个更适合你？_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20260920_第054篇_间歇训练 vs 持续有氧：哪个更适合你？/20260920_第054篇_间歇训练 vs 持续有氧：哪个更适合你？_插图01_两种负荷对照.jpg",
+        "platforms/wechat/articles/20260920_第054篇_间歇训练 vs 持续有氧：哪个更适合你？/20260920_第054篇_间歇训练 vs 持续有氧：哪个更适合你？_插图02_四道选择路径.jpg",
+        "platforms/wechat/articles/20260920_第054篇_间歇训练 vs 持续有氧：哪个更适合你？/20260920_第054篇_间歇训练 vs 持续有氧：哪个更适合你？_插图03_两类试跑练习.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "method-judgment",
+        "dimensions": [
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "foundation",
+          "movement",
+          "load",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "whole-body"
+        ],
+        "movement_tasks": [
+          "walking",
+          "running",
+          "stairs"
+        ],
+        "capacities": [
+          "cardiorespiratory",
           "recovery-capacity"
         ]
       }
