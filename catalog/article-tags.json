@@ -954,6 +954,14 @@
         "cardiorespiratory",
         "recovery-capacity"
       ]
+    },
+    "055": {
+      "primary_category": "evidence-myths",
+      "dimensions": ["function", "rhythm"],
+      "decision_stages": ["red-flags", "foundation", "recovery", "review"],
+      "body_regions": ["whole-body"],
+      "movement_tasks": [],
+      "capacities": ["strength", "recovery-capacity"]
     }
   }
 }

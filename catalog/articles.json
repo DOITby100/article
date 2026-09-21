@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 33,
-  "last_content_date": "2026-09-20",
-  "content_revision": "19136c193f0a01ca0aa3a3a647a52c6113eb2d863190675ee5db01b29020f094",
+  "article_count": 34,
+  "last_content_date": "2026-09-21",
+  "content_revision": "6a7c5886a11b20c0d0de09b47d9f80e8337ccdc6dbf9fef168f05a0d2bd55e39",
   "articles": [
     {
       "id": 22,
@@ -1675,6 +1675,48 @@
         ],
         "capacities": [
           "cardiorespiratory",
+          "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 55,
+      "stable_id": "beyond100-055",
+      "series": "超越百岁",
+      "title": "蛋白质不是越多越好，关键看你“什么时候吃”",
+      "content_date": "2026-09-21",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20260921_第055篇_蛋白质不是越多越好，关键看你“什么时候吃”/20260921_第055篇_蛋白质不是越多越好，关键看你“什么时候吃”.md",
+      "summary_path": "platforms/wechat/articles/20260921_第055篇_蛋白质不是越多越好，关键看你“什么时候吃”/20260921_第055篇_蛋白质不是越多越好，关键看你“什么时候吃”_公众号摘要.md",
+      "summary": "蛋白质不是训练后的倒计时：先把一天总量和最薄弱的一餐补稳，再按自己的训练与消化情况安排前后进食。没有肾病等特殊限制的人，不必追逐神奇窗口；有相关疾病或异常症状，先找医生或营养师。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20260921_第055篇_蛋白质不是越多越好，关键看你“什么时候吃”/20260921_第055篇_蛋白质不是越多越好，关键看你“什么时候吃”_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20260921_第055篇_蛋白质不是越多越好，关键看你“什么时候吃”/20260921_第055篇_蛋白质不是越多越好，关键看你“什么时候吃”_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20260921_第055篇_蛋白质不是越多越好，关键看你“什么时候吃”/20260921_第055篇_蛋白质不是越多越好，关键看你“什么时候吃”_插图01_概念·一天的蛋白分配.jpg",
+        "platforms/wechat/articles/20260921_第055篇_蛋白质不是越多越好，关键看你“什么时候吃”/20260921_第055篇_蛋白质不是越多越好，关键看你“什么时候吃”_插图02_机制·训练前后不靠倒计时.jpg",
+        "platforms/wechat/articles/20260921_第055篇_蛋白质不是越多越好，关键看你“什么时候吃”/20260921_第055篇_蛋白质不是越多越好，关键看你“什么时候吃”_插图03_行动·把薄弱一餐补齐.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "evidence-myths",
+        "dimensions": [
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "foundation",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "whole-body"
+        ],
+        "movement_tasks": [],
+        "capacities": [
+          "strength",
           "recovery-capacity"
         ]
       }
