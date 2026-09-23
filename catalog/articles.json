@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 34,
-  "last_content_date": "2026-09-21",
-  "content_revision": "6a7c5886a11b20c0d0de09b47d9f80e8337ccdc6dbf9fef168f05a0d2bd55e39",
+  "article_count": 35,
+  "last_content_date": "2026-09-23",
+  "content_revision": "7efde298f25011d43bb4b783b49586f24b74212d1301c27054723bf0f1bb6c0f",
   "articles": [
     {
       "id": 22,
@@ -1717,6 +1717,49 @@
         "movement_tasks": [],
         "capacities": [
           "strength",
+          "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 56,
+      "stable_id": "beyond100-056",
+      "series": "超越百岁",
+      "title": "碳水化合物不是敌人，选错了才是",
+      "content_date": "2026-09-23",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20260923_第056篇_碳水化合物不是敌人，选错了才是/20260923_第056篇_碳水化合物不是敌人，选错了才是.md",
+      "summary_path": "platforms/wechat/articles/20260923_第056篇_碳水化合物不是敌人，选错了才是/20260923_第056篇_碳水化合物不是敌人，选错了才是_公众号摘要.md",
+      "summary": "碳水不是越少越好，真正该先看的是来源、加工形态和一餐组合。把甜饮与高频零食换成完整食物，再按当天活动和饱腹、精力反应微调，通常比一刀切更容易长期坚持，也更容易看清身体真正需要什么。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20260923_第056篇_碳水化合物不是敌人，选错了才是/20260923_第056篇_碳水化合物不是敌人，选错了才是_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20260923_第056篇_碳水化合物不是敌人，选错了才是/20260923_第056篇_碳水化合物不是敌人，选错了才是_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20260923_第056篇_碳水化合物不是敌人，选错了才是/20260923_第056篇_碳水化合物不是敌人，选错了才是_插图01_概念·碳水来源与加工形态.jpg",
+        "platforms/wechat/articles/20260923_第056篇_碳水化合物不是敌人，选错了才是/20260923_第056篇_碳水化合物不是敌人，选错了才是_插图02_对照·一餐中的碳水组合.jpg",
+        "platforms/wechat/articles/20260923_第056篇_碳水化合物不是敌人，选错了才是/20260923_第056篇_碳水化合物不是敌人，选错了才是_插图03_行动·碳水与当天任务的安排.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "evidence-myths",
+        "dimensions": [
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "foundation",
+          "load",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "whole-body"
+        ],
+        "movement_tasks": [],
+        "capacities": [
+          "cardiorespiratory",
           "recovery-capacity"
         ]
       }
