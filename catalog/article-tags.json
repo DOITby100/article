@@ -970,6 +970,14 @@
       "body_regions": ["whole-body"],
       "movement_tasks": [],
       "capacities": ["cardiorespiratory", "recovery-capacity"]
+    },
+    "057": {
+      "primary_category": "evidence-myths",
+      "dimensions": ["function", "rhythm"],
+      "decision_stages": ["red-flags", "foundation", "load", "recovery", "review"],
+      "body_regions": ["whole-body"],
+      "movement_tasks": [],
+      "capacities": ["cardiorespiratory", "recovery-capacity"]
     }
   }
 }
