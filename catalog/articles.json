@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 36,
-  "last_content_date": "2026-09-24",
-  "content_revision": "a39770a6f27d82218e14b22f8c74a0c7a1c74a12942a157a3f95ecd5d7dfc8e4",
+  "article_count": 37,
+  "last_content_date": "2026-09-25",
+  "content_revision": "06432daddf223e5a8c0d372b4b956b1756621f7ddbfb47e7b2794c8d75d04a86",
   "articles": [
     {
       "id": 22,
@@ -1803,6 +1803,47 @@
         "movement_tasks": [],
         "capacities": [
           "cardiorespiratory",
+          "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 58,
+      "stable_id": "beyond100-058",
+      "series": "超越百岁",
+      "title": "间歇性禁食：时髦的减肥法，还是科学的代谢优化？",
+      "content_date": "2026-09-25",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20260925_第058篇_间歇性禁食：时髦的减肥法，还是科学的代谢优化？/20260925_第058篇_间歇性禁食：时髦的减肥法，还是科学的代谢优化？.md",
+      "summary_path": "platforms/wechat/articles/20260925_第058篇_间歇性禁食：时髦的减肥法，还是科学的代谢优化？/20260925_第058篇_间歇性禁食：时髦的减肥法，还是科学的代谢优化？_公众号摘要.md",
+      "summary": "间歇性禁食不是骗局，也不是让代谢自动升级的开关；它的主要价值，是用时间边界帮助部分人减少无计划进食。研究显示其长期减重效果大多不优于普通限能，读完你会知道谁不适合、怎样温和试行，并用饥饿、训练、睡眠和体重趋势决定去留。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20260925_第058篇_间歇性禁食：时髦的减肥法，还是科学的代谢优化？/20260925_第058篇_间歇性禁食：时髦的减肥法，还是科学的代谢优化？_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20260925_第058篇_间歇性禁食：时髦的减肥法，还是科学的代谢优化？/20260925_第058篇_间歇性禁食：时髦的减肥法，还是科学的代谢优化？_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20260925_第058篇_间歇性禁食：时髦的减肥法，还是科学的代谢优化？/20260925_第058篇_间歇性禁食：时髦的减肥法，还是科学的代谢优化？_插图01_概念·时钟不是代谢开关.jpg",
+        "platforms/wechat/articles/20260925_第058篇_间歇性禁食：时髦的减肥法，还是科学的代谢优化？/20260925_第058篇_间歇性禁食：时髦的减肥法，还是科学的代谢优化？_插图02_机制·结果由四个变量共同决定.jpg",
+        "platforms/wechat/articles/20260925_第058篇_间歇性禁食：时髦的减肥法，还是科学的代谢优化？/20260925_第058篇_间歇性禁食：时髦的减肥法，还是科学的代谢优化？_插图03_行动·温和调整与一周复核.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "evidence-myths",
+        "dimensions": [
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "foundation",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "whole-body"
+        ],
+        "movement_tasks": [],
+        "capacities": [
           "recovery-capacity"
         ]
       }

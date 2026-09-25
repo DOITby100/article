@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "file_count": 279,
-  "content_revision": "a39770a6f27d82218e14b22f8c74a0c7a1c74a12942a157a3f95ecd5d7dfc8e4",
+  "file_count": 286,
+  "content_revision": "06432daddf223e5a8c0d372b4b956b1756621f7ddbfb47e7b2794c8d75d04a86",
   "files": [
     {
       "relative_path": "platforms/wechat/articles/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的.md",
@@ -1397,6 +1397,41 @@
       "relative_path": "platforms/wechat/articles/20260924_第057篇_为什么你吃得很“健康”，体检报告却一片红？/20260924_第057篇_为什么你吃得很“健康”，体检报告却一片红？_插图03_行动·从报告确认到单变量调整.jpg",
       "size_bytes": 1061063,
       "sha256": "522b9fc8000649b21ea5960a2f84d564e5ca649b3a40b28c960ae05e864e152d"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260925_第058篇_间歇性禁食：时髦的减肥法，还是科学的代谢优化？/20260925_第058篇_间歇性禁食：时髦的减肥法，还是科学的代谢优化？.md",
+      "size_bytes": 7572,
+      "sha256": "aa624fb72a0d9fc617af2100273347a86f0861ad4065f380c3c875642d5d666a"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260925_第058篇_间歇性禁食：时髦的减肥法，还是科学的代谢优化？/20260925_第058篇_间歇性禁食：时髦的减肥法，还是科学的代谢优化？_公众号摘要.md",
+      "size_bytes": 328,
+      "sha256": "4f59b4f6bc8ef40ca81003ea08620ce84d6495dc8647a6c898fe305c80607d6d"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260925_第058篇_间歇性禁食：时髦的减肥法，还是科学的代谢优化？/20260925_第058篇_间歇性禁食：时髦的减肥法，还是科学的代谢优化？_封面_16比9.jpg",
+      "size_bytes": 1462258,
+      "sha256": "e05fa044c4182f67584e15ab28d92510b0fd2104330c8b486b3e3844360b559a"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260925_第058篇_间歇性禁食：时髦的减肥法，还是科学的代谢优化？/20260925_第058篇_间歇性禁食：时髦的减肥法，还是科学的代谢优化？_封面_235比100.jpg",
+      "size_bytes": 2023209,
+      "sha256": "ffa4ada09a18f8c0c79a6690992addeacc3c4c4dcf5726d60dc43c7f55bce227"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260925_第058篇_间歇性禁食：时髦的减肥法，还是科学的代谢优化？/20260925_第058篇_间歇性禁食：时髦的减肥法，还是科学的代谢优化？_插图01_概念·时钟不是代谢开关.jpg",
+      "size_bytes": 971641,
+      "sha256": "d697e4cda296bb03e45f49024f5ed18662df20a171d1db85e5dc26119e97bd75"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260925_第058篇_间歇性禁食：时髦的减肥法，还是科学的代谢优化？/20260925_第058篇_间歇性禁食：时髦的减肥法，还是科学的代谢优化？_插图02_机制·结果由四个变量共同决定.jpg",
+      "size_bytes": 1584413,
+      "sha256": "fd8f0c727423f698e48f112dd8a138b3e705d34e612e083f583178e62de3f4ac"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20260925_第058篇_间歇性禁食：时髦的减肥法，还是科学的代谢优化？/20260925_第058篇_间歇性禁食：时髦的减肥法，还是科学的代谢优化？_插图03_行动·温和调整与一周复核.jpg",
+      "size_bytes": 1016887,
+      "sha256": "67688cc5aecb7f36c3d227f318b1c17266a8da2b03b7e3748e11923dda10a554"
     }
   ]
 }
