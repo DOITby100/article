@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 38,
-  "last_content_date": "2026-09-26",
-  "content_revision": "12db2820af61da0b1d8eb8b96143bced8f3172741e3636c1cb6775dfa8531d60",
+  "article_count": 39,
+  "last_content_date": "2026-09-27",
+  "content_revision": "a032e2f53d881d346476fd3782e605c85d3575112b7f5643a82dbf2f753a3c72",
   "articles": [
     {
       "id": 22,
@@ -1885,6 +1885,52 @@
         ],
         "movement_tasks": [],
         "capacities": [
+          "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 60,
+      "stable_id": "beyond100-060",
+      "series": "超越百岁",
+      "title": "补剂到底要不要吃？这 5 种可能真的有用",
+      "content_date": "2026-09-27",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20260927_第060篇_补剂到底要不要吃？这 5 种可能真的有用/20260927_第060篇_补剂到底要不要吃？这 5 种可能真的有用.md",
+      "summary_path": "platforms/wechat/articles/20260927_第060篇_补剂到底要不要吃？这 5 种可能真的有用/20260927_第060篇_补剂到底要不要吃？这 5 种可能真的有用_公众号摘要.md",
+      "summary": "补剂不是人人都该抄的清单，只有作用路径对上训练任务或已确认的营养缺口，才可能有用。肌酸、蛋白质、咖啡因、维生素D和铁各有边界；先查目标、状态、用药和风险，再决定是否需要。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20260927_第060篇_补剂到底要不要吃？这 5 种可能真的有用/20260927_第060篇_补剂到底要不要吃？这 5 种可能真的有用_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20260927_第060篇_补剂到底要不要吃？这 5 种可能真的有用/20260927_第060篇_补剂到底要不要吃？这 5 种可能真的有用_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20260927_第060篇_补剂到底要不要吃？这 5 种可能真的有用/20260927_第060篇_补剂到底要不要吃？这 5 种可能真的有用_插图01_机制·补剂只有碰到真实瓶颈才可能有用.jpg",
+        "platforms/wechat/articles/20260927_第060篇_补剂到底要不要吃？这 5 种可能真的有用/20260927_第060篇_补剂到底要不要吃？这 5 种可能真的有用_插图02_对照·五种补剂对应五类不同任务.jpg",
+        "platforms/wechat/articles/20260927_第060篇_补剂到底要不要吃？这 5 种可能真的有用/20260927_第060篇_补剂到底要不要吃？这 5 种可能真的有用_插图03_行动·购买前的四道判断门.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "evidence-myths",
+        "dimensions": [
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "foundation",
+          "load",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "whole-body"
+        ],
+        "movement_tasks": [],
+        "capacities": [
+          "strength",
+          "speed",
+          "power",
+          "cardiorespiratory",
           "recovery-capacity"
         ]
       }
