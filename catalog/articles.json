@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 39,
-  "last_content_date": "2026-09-27",
-  "content_revision": "a032e2f53d881d346476fd3782e605c85d3575112b7f5643a82dbf2f753a3c72",
+  "article_count": 40,
+  "last_content_date": "2026-09-28",
+  "content_revision": "da53e65004f90a5464ce260dd8c6899e6d9c776a017803120b82238b86f4728c",
   "articles": [
     {
       "id": 22,
@@ -1931,6 +1931,47 @@
           "speed",
           "power",
           "cardiorespiratory",
+          "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 61,
+      "stable_id": "beyond100-061",
+      "series": "超越百岁",
+      "title": "为什么你总是“越吃越饿”？因为你的瘦素抵抗了",
+      "content_date": "2026-09-28",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20260928_第061篇_为什么你总是“越吃越饿”？因为你的瘦素抵抗了/20260928_第061篇_为什么你总是“越吃越饿”？因为你的瘦素抵抗了.md",
+      "summary_path": "platforms/wechat/articles/20260928_第061篇_为什么你总是“越吃越饿”？因为你的瘦素抵抗了/20260928_第061篇_为什么你总是“越吃越饿”？因为你的瘦素抵抗了_公众号摘要.md",
+      "summary": "刚吃完又饿，不能直接诊断为瘦素抵抗。食欲是长期储备、餐后饱腹、环境节律与疾病药物共同整合的结果；先排除持续食欲增加的医学线索，再在专业许可下只补齐最薄弱的一餐，才能看清真正变量。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20260928_第061篇_为什么你总是“越吃越饿”？因为你的瘦素抵抗了/20260928_第061篇_为什么你总是“越吃越饿”？因为你的瘦素抵抗了_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20260928_第061篇_为什么你总是“越吃越饿”？因为你的瘦素抵抗了/20260928_第061篇_为什么你总是“越吃越饿”？因为你的瘦素抵抗了_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20260928_第061篇_为什么你总是“越吃越饿”？因为你的瘦素抵抗了/20260928_第061篇_为什么你总是“越吃越饿”？因为你的瘦素抵抗了_插图01_机制·饱腹信号不是单开关.jpg",
+        "platforms/wechat/articles/20260928_第061篇_为什么你总是“越吃越饿”？因为你的瘦素抵抗了/20260928_第061篇_为什么你总是“越吃越饿”？因为你的瘦素抵抗了_插图02_对照·瘦素信号从脂肪到大脑.jpg",
+        "platforms/wechat/articles/20260928_第061篇_为什么你总是“越吃越饿”？因为你的瘦素抵抗了/20260928_第061篇_为什么你总是“越吃越饿”？因为你的瘦素抵抗了_插图03_行动·持续饥饿的三路分流.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "evidence-myths",
+        "dimensions": [
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "foundation",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "whole-body"
+        ],
+        "movement_tasks": [],
+        "capacities": [
           "recovery-capacity"
         ]
       }
