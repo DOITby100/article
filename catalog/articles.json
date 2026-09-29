@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 40,
-  "last_content_date": "2026-09-28",
-  "content_revision": "da53e65004f90a5464ce260dd8c6899e6d9c776a017803120b82238b86f4728c",
+  "article_count": 41,
+  "last_content_date": "2026-09-29",
+  "content_revision": "4f8c9011442c5b24c6155cbeb12bf4a1c62564abc876aaa10b9f359a96db6fd3",
   "articles": [
     {
       "id": 22,
@@ -1957,6 +1957,47 @@
       ],
       "taxonomy": {
         "primary_category": "evidence-myths",
+        "dimensions": [
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "foundation",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "whole-body"
+        ],
+        "movement_tasks": [],
+        "capacities": [
+          "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 62,
+      "stable_id": "beyond100-062",
+      "series": "超越百岁",
+      "title": "低碳饮食 vs 低脂饮食：哪个更适合你？",
+      "content_date": "2026-09-29",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20260929_第062篇_低碳饮食 vs 低脂饮食：哪个更适合你？/20260929_第062篇_低碳饮食 vs 低脂饮食：哪个更适合你？.md",
+      "summary_path": "platforms/wechat/articles/20260929_第062篇_低碳饮食 vs 低脂饮食：哪个更适合你？/20260929_第062篇_低碳饮食 vs 低脂饮食：哪个更适合你？_公众号摘要.md",
+      "summary": "低碳与低脂都可能有效，营养素比例本身却不能替你做决定。看清删掉什么、补进什么，再用饥饿、执行难度、训练状态和关键指标复看，才能找到既能执行、也适合长期生活的路径。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20260929_第062篇_低碳饮食 vs 低脂饮食：哪个更适合你？/20260929_第062篇_低碳饮食 vs 低脂饮食：哪个更适合你？_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20260929_第062篇_低碳饮食 vs 低脂饮食：哪个更适合你？/20260929_第062篇_低碳饮食 vs 低脂饮食：哪个更适合你？_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20260929_第062篇_低碳饮食 vs 低脂饮食：哪个更适合你？/20260929_第062篇_低碳饮食 vs 低脂饮食：哪个更适合你？_插图01_两种方法的共同机制.jpg",
+        "platforms/wechat/articles/20260929_第062篇_低碳饮食 vs 低脂饮食：哪个更适合你？/20260929_第062篇_低碳饮食 vs 低脂饮食：哪个更适合你？_插图02_低碳与低脂的替换路径.jpg",
+        "platforms/wechat/articles/20260929_第062篇_低碳饮食 vs 低脂饮食：哪个更适合你？/20260929_第062篇_低碳饮食 vs 低脂饮食：哪个更适合你？_插图03_七天行动与复看路径.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "method-judgment",
         "dimensions": [
           "function",
           "rhythm"
