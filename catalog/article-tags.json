@@ -1018,6 +1018,14 @@
       "body_regions": ["whole-body"],
       "movement_tasks": [],
       "capacities": ["recovery-capacity"]
+    },
+    "063": {
+      "primary_category": "load-recovery",
+      "dimensions": ["function", "rhythm"],
+      "decision_stages": ["red-flags", "foundation", "load", "recovery", "review"],
+      "body_regions": ["whole-body"],
+      "movement_tasks": ["squat", "push"],
+      "capacities": ["strength", "recovery-capacity"]
     }
   }
 }
