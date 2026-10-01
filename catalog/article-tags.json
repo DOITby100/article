@@ -1026,6 +1026,14 @@
       "body_regions": ["whole-body"],
       "movement_tasks": ["squat", "push"],
       "capacities": ["strength", "recovery-capacity"]
+    },
+    "064": {
+      "primary_category": "evidence-myths",
+      "dimensions": ["function", "rhythm"],
+      "decision_stages": ["red-flags", "foundation", "recovery", "review"],
+      "body_regions": ["whole-body"],
+      "movement_tasks": [],
+      "capacities": ["recovery-capacity"]
     }
   }
 }

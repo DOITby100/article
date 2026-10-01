@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 42,
-  "last_content_date": "2026-09-30",
-  "content_revision": "e49e9f8d486b1863b4d32fce195351ab3a378f799133d4e449df34facbe525b9",
+  "article_count": 43,
+  "last_content_date": "2026-10-01",
+  "content_revision": "0574d2ce44796009f6d7e8dbee61fd879d2657218ecf8241cd78b23b99a37a69",
   "articles": [
     {
       "id": 22,
@@ -2059,6 +2059,47 @@
         ],
         "capacities": [
           "strength",
+          "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 64,
+      "stable_id": "beyond100-064",
+      "series": "超越百岁",
+      "title": "抗氧化剂：你真的需要补充吗？",
+      "content_date": "2026-10-01",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20261001_第064篇_抗氧化剂：你真的需要补充吗？/20261001_第064篇_抗氧化剂：你真的需要补充吗？.md",
+      "summary_path": "platforms/wechat/articles/20261001_第064篇_抗氧化剂：你真的需要补充吗？/20261001_第064篇_抗氧化剂：你真的需要补充吗？_公众号摘要.md",
+      "summary": "抗氧化不是把自由基清零，蔬果中的营养组合也不能直接等同高剂量药片。没有明确缺口或特定适应证时，先核对成分、用药与风险；真正需要补充的人，应设定目标和复查节点，而不是自行加量。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20261001_第064篇_抗氧化剂：你真的需要补充吗？/20261001_第064篇_抗氧化剂：你真的需要补充吗？_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20261001_第064篇_抗氧化剂：你真的需要补充吗？/20261001_第064篇_抗氧化剂：你真的需要补充吗？_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20261001_第064篇_抗氧化剂：你真的需要补充吗？/20261001_第064篇_抗氧化剂：你真的需要补充吗？_插图01_氧化还原平衡机制.jpg",
+        "platforms/wechat/articles/20261001_第064篇_抗氧化剂：你真的需要补充吗？/20261001_第064篇_抗氧化剂：你真的需要补充吗？_插图02_对照·食物与补充剂条件差异.jpg",
+        "platforms/wechat/articles/20261001_第064篇_抗氧化剂：你真的需要补充吗？/20261001_第064篇_抗氧化剂：你真的需要补充吗？_插图03_行动·抗氧化补充三道判断门.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "evidence-myths",
+        "dimensions": [
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "foundation",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "whole-body"
+        ],
+        "movement_tasks": [],
+        "capacities": [
           "recovery-capacity"
         ]
       }
