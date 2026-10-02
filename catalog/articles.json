@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 43,
-  "last_content_date": "2026-10-01",
-  "content_revision": "0574d2ce44796009f6d7e8dbee61fd879d2657218ecf8241cd78b23b99a37a69",
+  "article_count": 44,
+  "last_content_date": "2026-10-02",
+  "content_revision": "c500c1487ce9593d391e9039d6f9610cc4090a307e7313ed31fe55372003f362",
   "articles": [
     {
       "id": 22,
@@ -2100,6 +2100,60 @@
         ],
         "movement_tasks": [],
         "capacities": [
+          "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 65,
+      "stable_id": "beyond100-065",
+      "series": "超越百岁",
+      "title": "产后 6 个月是黄金恢复期，错过了怎么办？",
+      "content_date": "2026-10-02",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20261002_第065篇_产后 6 个月是黄金恢复期，错过了怎么办？/20261002_第065篇_产后 6 个月是黄金恢复期，错过了怎么办？.md",
+      "summary_path": "platforms/wechat/articles/20261002_第065篇_产后 6 个月是黄金恢复期，错过了怎么办？/20261002_第065篇_产后 6 个月是黄金恢复期，错过了怎么办？_公众号摘要.md",
+      "summary": "产后六个月不是恢复资格的截止线，真正决定现在如何开始的，是组织愈合、症状与负荷能力。先完成专业评估，再把呼吸、起身和抱物逐步接回生活，晚开始也能建立新的进步路径。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20261002_第065篇_产后 6 个月是黄金恢复期，错过了怎么办？/20261002_第065篇_产后 6 个月是黄金恢复期，错过了怎么办？_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20261002_第065篇_产后 6 个月是黄金恢复期，错过了怎么办？/20261002_第065篇_产后 6 个月是黄金恢复期，错过了怎么办？_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20261002_第065篇_产后 6 个月是黄金恢复期，错过了怎么办？/20261002_第065篇_产后 6 个月是黄金恢复期，错过了怎么办？_插图01_概念·四条恢复轨道.jpg",
+        "platforms/wechat/articles/20261002_第065篇_产后 6 个月是黄金恢复期，错过了怎么办？/20261002_第065篇_产后 6 个月是黄金恢复期，错过了怎么办？_插图02_对照·六个月与十二个月的恢复边界.jpg",
+        "platforms/wechat/articles/20261002_第065篇_产后 6 个月是黄金恢复期，错过了怎么办？/20261002_第065篇_产后 6 个月是黄金恢复期，错过了怎么办？_插图03_行动·专业监督下的任务重建.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "evidence-myths",
+        "dimensions": [
+          "structure",
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "breathing",
+          "foundation",
+          "movement",
+          "load",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "core-trunk",
+          "pelvis-hip",
+          "whole-body"
+        ],
+        "movement_tasks": [
+          "sit-to-stand",
+          "walking",
+          "carry"
+        ],
+        "capacities": [
+          "strength",
+          "stability",
+          "coordination",
           "recovery-capacity"
         ]
       }

@@ -1034,6 +1034,14 @@
       "body_regions": ["whole-body"],
       "movement_tasks": [],
       "capacities": ["recovery-capacity"]
+    },
+    "065": {
+      "primary_category": "evidence-myths",
+      "dimensions": ["structure", "function", "rhythm"],
+      "decision_stages": ["red-flags", "breathing", "foundation", "movement", "load", "recovery", "review"],
+      "body_regions": ["core-trunk", "pelvis-hip", "whole-body"],
+      "movement_tasks": ["sit-to-stand", "walking", "carry"],
+      "capacities": ["strength", "stability", "coordination", "recovery-capacity"]
     }
   }
 }
