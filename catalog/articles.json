@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 44,
-  "last_content_date": "2026-10-02",
-  "content_revision": "c500c1487ce9593d391e9039d6f9610cc4090a307e7313ed31fe55372003f362",
+  "article_count": 45,
+  "last_content_date": "2026-10-03",
+  "content_revision": "f0a07051cee42902a4fa329c810537e06ab5dbb6cb8c5d69ec64d2e3b5fba290",
   "articles": [
     {
       "id": 22,
@@ -2149,6 +2149,57 @@
           "sit-to-stand",
           "walking",
           "carry"
+        ],
+        "capacities": [
+          "strength",
+          "stability",
+          "coordination",
+          "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 66,
+      "stable_id": "beyond100-066",
+      "series": "超越百岁",
+      "title": "为什么生完孩子后，你的肚子“松松垮垮”？",
+      "content_date": "2026-10-03",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20261003_第066篇_为什么生完孩子后，你的肚子“松松垮垮”？/20261003_第066篇_为什么生完孩子后，你的肚子“松松垮垮”？.md",
+      "summary_path": "platforms/wechat/articles/20261003_第066篇_为什么生完孩子后，你的肚子“松松垮垮”？/20261003_第066篇_为什么生完孩子后，你的肚子“松松垮垮”？_公众号摘要.md",
+      "summary": "产后腹部显得松垮，未必只是腹直肌分离，更不能只靠外观判断损伤。分清皮肤与脂肪、腹壁张力、压力协调和疝等不同来源，才能把目标从“收紧肚子”改成安全恢复真实功能。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20261003_第066篇_为什么生完孩子后，你的肚子“松松垮垮”？/20261003_第066篇_为什么生完孩子后，你的肚子“松松垮垮”？_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20261003_第066篇_为什么生完孩子后，你的肚子“松松垮垮”？/20261003_第066篇_为什么生完孩子后，你的肚子“松松垮垮”？_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20261003_第066篇_为什么生完孩子后，你的肚子“松松垮垮”？/20261003_第066篇_为什么生完孩子后，你的肚子“松松垮垮”？_插图01_概念·松垮背后的四层来源.jpg",
+        "platforms/wechat/articles/20261003_第066篇_为什么生完孩子后，你的肚子“松松垮垮”？/20261003_第066篇_为什么生完孩子后，你的肚子“松松垮垮”？_插图02_机制·白线如何传递张力.jpg",
+        "platforms/wechat/articles/20261003_第066篇_为什么生完孩子后，你的肚子“松松垮垮”？/20261003_第066篇_为什么生完孩子后，你的肚子“松松垮垮”？_插图03_行动·专业监督下重建腹壁张力.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "evidence-myths",
+        "dimensions": [
+          "structure",
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "breathing",
+          "foundation",
+          "movement",
+          "load",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "core-trunk",
+          "pelvis-hip"
+        ],
+        "movement_tasks": [
+          "push"
         ],
         "capacities": [
           "strength",
