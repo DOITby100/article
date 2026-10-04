@@ -1050,6 +1050,14 @@
       "body_regions": ["core-trunk", "pelvis-hip"],
       "movement_tasks": ["push"],
       "capacities": ["strength", "stability", "coordination", "recovery-capacity"]
+    },
+    "067": {
+      "primary_category": "long-term-health",
+      "dimensions": ["structure", "function", "rhythm"],
+      "decision_stages": ["red-flags", "breathing", "foundation", "movement", "load", "recovery", "review"],
+      "body_regions": ["core-trunk", "pelvis-hip", "whole-body"],
+      "movement_tasks": ["sit-to-stand", "running", "stairs", "carry"],
+      "capacities": ["strength", "stability", "coordination", "recovery-capacity"]
     }
   }
 }

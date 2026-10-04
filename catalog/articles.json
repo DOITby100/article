@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 45,
-  "last_content_date": "2026-10-03",
-  "content_revision": "f0a07051cee42902a4fa329c810537e06ab5dbb6cb8c5d69ec64d2e3b5fba290",
+  "article_count": 46,
+  "last_content_date": "2026-10-04",
+  "content_revision": "b78717dfdf8a1a40feac34dbb6f0f68d89ea7c14293fe6800c0e25b2d969d5f6",
   "articles": [
     {
       "id": 22,
@@ -2200,6 +2200,61 @@
         ],
         "movement_tasks": [
           "push"
+        ],
+        "capacities": [
+          "strength",
+          "stability",
+          "coordination",
+          "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 67,
+      "stable_id": "beyond100-067",
+      "series": "超越百岁",
+      "title": "漏尿不是“生育税”，是可以逆转的",
+      "content_date": "2026-10-04",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20261004_第067篇_漏尿不是“生育税”，是可以逆转的/20261004_第067篇_漏尿不是“生育税”，是可以逆转的.md",
+      "summary_path": "platforms/wechat/articles/20261004_第067篇_漏尿不是“生育税”，是可以逆转的/20261004_第067篇_漏尿不是“生育税”，是可以逆转的_公众号摘要.md",
+      "summary": "一咳、一跳就漏尿，不是生育后只能接受的代价，也未必只因盆底“没力”。分清漏尿类型、压力与尿道支持的配合，再在专业评估下训练，才有机会把回避运动变成可复核的恢复。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20261004_第067篇_漏尿不是“生育税”，是可以逆转的/20261004_第067篇_漏尿不是“生育税”，是可以逆转的_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20261004_第067篇_漏尿不是“生育税”，是可以逆转的/20261004_第067篇_漏尿不是“生育税”，是可以逆转的_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20261004_第067篇_漏尿不是“生育税”，是可以逆转的/20261004_第067篇_漏尿不是“生育税”，是可以逆转的_插图01_概念·漏尿不是同一种问题.jpg",
+        "platforms/wechat/articles/20261004_第067篇_漏尿不是“生育税”，是可以逆转的/20261004_第067篇_漏尿不是“生育税”，是可以逆转的_插图02_机制·压力上升时尿道如何守住.jpg",
+        "platforms/wechat/articles/20261004_第067篇_漏尿不是“生育税”，是可以逆转的/20261004_第067篇_漏尿不是“生育税”，是可以逆转的_插图03_行动·专业监督下把时机接回动作.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "long-term-health",
+        "dimensions": [
+          "structure",
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "breathing",
+          "foundation",
+          "movement",
+          "load",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "core-trunk",
+          "pelvis-hip",
+          "whole-body"
+        ],
+        "movement_tasks": [
+          "sit-to-stand",
+          "running",
+          "stairs",
+          "carry"
         ],
         "capacities": [
           "strength",
