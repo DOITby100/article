@@ -1058,6 +1058,14 @@
       "body_regions": ["core-trunk", "pelvis-hip", "whole-body"],
       "movement_tasks": ["sit-to-stand", "running", "stairs", "carry"],
       "capacities": ["strength", "stability", "coordination", "recovery-capacity"]
+    },
+    "068": {
+      "primary_category": "long-term-health",
+      "dimensions": ["function", "rhythm"],
+      "decision_stages": ["red-flags", "foundation", "load", "recovery", "review"],
+      "body_regions": ["pelvis-hip", "whole-body"],
+      "movement_tasks": [],
+      "capacities": ["recovery-capacity"]
     }
   }
 }

@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 46,
-  "last_content_date": "2026-10-04",
-  "content_revision": "b78717dfdf8a1a40feac34dbb6f0f68d89ea7c14293fe6800c0e25b2d969d5f6",
+  "article_count": 47,
+  "last_content_date": "2026-10-05",
+  "content_revision": "7a84fb2d57346768e7b6be2fe4fec6aee09f6e77dff9dea4679d6305ea21c197",
   "articles": [
     {
       "id": 22,
@@ -2260,6 +2260,49 @@
           "strength",
           "stability",
           "coordination",
+          "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 68,
+      "stable_id": "beyond100-068",
+      "series": "超越百岁",
+      "title": "为什么你的“大姨妈”总是不准时？",
+      "content_date": "2026-10-05",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20261005_第068篇_为什么你的“大姨妈”总是不准时？/20261005_第068篇_为什么你的“大姨妈”总是不准时？.md",
+      "summary_path": "platforms/wechat/articles/20261005_第068篇_为什么你的“大姨妈”总是不准时？/20261005_第068篇_为什么你的“大姨妈”总是不准时？_公众号摘要.md",
+      "summary": "月经不准时不等于“激素坏了”，也不能只怪压力或运动。先分清排卵节律、妊娠与用药、多囊或甲状腺等路径，再带着周期、训练和饮食时间轴就医，才能决定要不要调整训练，避免把真正需要排查的原因拖成长期问题。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20261005_第068篇_为什么你的“大姨妈”总是不准时？/20261005_第068篇_为什么你的“大姨妈”总是不准时？_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20261005_第068篇_为什么你的“大姨妈”总是不准时？/20261005_第068篇_为什么你的“大姨妈”总是不准时？_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20261005_第068篇_为什么你的“大姨妈”总是不准时？/20261005_第068篇_为什么你的“大姨妈”总是不准时？_插图01_判断·月经不规律先看哪条路径.jpg",
+        "platforms/wechat/articles/20261005_第068篇_为什么你的“大姨妈”总是不准时？/20261005_第068篇_为什么你的“大姨妈”总是不准时？_插图02_机制·从脑到卵巢再到子宫的周期信号链.jpg",
+        "platforms/wechat/articles/20261005_第068篇_为什么你的“大姨妈”总是不准时？/20261005_第068篇_为什么你的“大姨妈”总是不准时？_插图03_行动·从时间轴到医疗排查再到训练调整.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "long-term-health",
+        "dimensions": [
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "foundation",
+          "load",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "pelvis-hip",
+          "whole-body"
+        ],
+        "movement_tasks": [],
+        "capacities": [
           "recovery-capacity"
         ]
       }
