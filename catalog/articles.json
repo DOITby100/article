@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 47,
-  "last_content_date": "2026-10-05",
-  "content_revision": "7a84fb2d57346768e7b6be2fe4fec6aee09f6e77dff9dea4679d6305ea21c197",
+  "article_count": 48,
+  "last_content_date": "2026-10-06",
+  "content_revision": "391f47f1f8c0f1c4b3bf8dd890f69af500ca48406d6530f682fbc663dc7cc6a3",
   "articles": [
     {
       "id": 22,
@@ -2303,6 +2303,50 @@
         ],
         "movement_tasks": [],
         "capacities": [
+          "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 69,
+      "stable_id": "beyond100-069",
+      "series": "超越百岁",
+      "title": "多囊卵巢综合征：为什么医生让你“去运动”？",
+      "content_date": "2026-10-06",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20261006_第069篇_多囊卵巢综合征：为什么医生让你“去运动”？/20261006_第069篇_多囊卵巢综合征：为什么医生让你“去运动”？.md",
+      "summary_path": "platforms/wechat/articles/20261006_第069篇_多囊卵巢综合征：为什么医生让你“去运动”？/20261006_第069篇_多囊卵巢综合征：为什么医生让你“去运动”？_公众号摘要.md",
+      "summary": "医生让多囊患者运动，不是把问题归咎于体重，而是为了管理代谢、体能和长期风险。先让医生明确目标与活动许可，再把监督计划和复测对准同一结果，才能判断运动是否真正有效。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20261006_第069篇_多囊卵巢综合征：为什么医生让你“去运动”？/20261006_第069篇_多囊卵巢综合征：为什么医生让你“去运动”？_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20261006_第069篇_多囊卵巢综合征：为什么医生让你“去运动”？/20261006_第069篇_多囊卵巢综合征：为什么医生让你“去运动”？_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20261006_第069篇_多囊卵巢综合征：为什么医生让你“去运动”？/20261006_第069篇_多囊卵巢综合征：为什么医生让你“去运动”？_插图01_判断路径·运动管理的三条目标线.jpg",
+        "platforms/wechat/articles/20261006_第069篇_多囊卵巢综合征：为什么医生让你“去运动”？/20261006_第069篇_多囊卵巢综合征：为什么医生让你“去运动”？_插图02_机制·骨骼肌代谢如何连接多囊管理.jpg",
+        "platforms/wechat/articles/20261006_第069篇_多囊卵巢综合征：为什么医生让你“去运动”？/20261006_第069篇_多囊卵巢综合征：为什么医生让你“去运动”？_插图03_行动·从医疗目标到监督计划再到复测.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "long-term-health",
+        "dimensions": [
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "foundation",
+          "load",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "pelvis-hip",
+          "whole-body"
+        ],
+        "movement_tasks": [],
+        "capacities": [
+          "cardiorespiratory",
           "recovery-capacity"
         ]
       }

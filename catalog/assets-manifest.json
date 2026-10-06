@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "file_count": 356,
-  "content_revision": "7a84fb2d57346768e7b6be2fe4fec6aee09f6e77dff9dea4679d6305ea21c197",
+  "file_count": 363,
+  "content_revision": "391f47f1f8c0f1c4b3bf8dd890f69af500ca48406d6530f682fbc663dc7cc6a3",
   "files": [
     {
       "relative_path": "platforms/wechat/articles/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的.md",
@@ -1782,6 +1782,41 @@
       "relative_path": "platforms/wechat/articles/20261005_第068篇_为什么你的“大姨妈”总是不准时？/20261005_第068篇_为什么你的“大姨妈”总是不准时？_插图03_行动·从时间轴到医疗排查再到训练调整.jpg",
       "size_bytes": 1173699,
       "sha256": "d49392a4c5f80d96aaaa947f3cb318fd9d1b931e16a4a2465475d1396f5fd36d"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261006_第069篇_多囊卵巢综合征：为什么医生让你“去运动”？/20261006_第069篇_多囊卵巢综合征：为什么医生让你“去运动”？.md",
+      "size_bytes": 7168,
+      "sha256": "f5de28cb6e4ef38aab1b663f2207bcc46340efc6ff3d8e5f68e37239227eb024"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261006_第069篇_多囊卵巢综合征：为什么医生让你“去运动”？/20261006_第069篇_多囊卵巢综合征：为什么医生让你“去运动”？_公众号摘要.md",
+      "size_bytes": 244,
+      "sha256": "8e1f6d23287a3a67543cd31585b885a653a00733e63909db428440a3248c443e"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261006_第069篇_多囊卵巢综合征：为什么医生让你“去运动”？/20261006_第069篇_多囊卵巢综合征：为什么医生让你“去运动”？_封面_16比9.jpg",
+      "size_bytes": 1835681,
+      "sha256": "81241e00cd174ca2bcf3f2113fc74670f98ca8b769aa56e6d2a6d032095b4361"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261006_第069篇_多囊卵巢综合征：为什么医生让你“去运动”？/20261006_第069篇_多囊卵巢综合征：为什么医生让你“去运动”？_封面_235比100.jpg",
+      "size_bytes": 2740202,
+      "sha256": "cd4490f67e691bd5ee2e4edd47db66060985cbdcf57a7774bad78f164d654387"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261006_第069篇_多囊卵巢综合征：为什么医生让你“去运动”？/20261006_第069篇_多囊卵巢综合征：为什么医生让你“去运动”？_插图01_判断路径·运动管理的三条目标线.jpg",
+      "size_bytes": 994850,
+      "sha256": "b0ab53b81e6fc36e38284b2d9c4a884d60e0d5963102f7e12974021b7a6e4070"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261006_第069篇_多囊卵巢综合征：为什么医生让你“去运动”？/20261006_第069篇_多囊卵巢综合征：为什么医生让你“去运动”？_插图02_机制·骨骼肌代谢如何连接多囊管理.jpg",
+      "size_bytes": 1646208,
+      "sha256": "0c143e9cf33285eb09111dd67819721233f066871c2cab6deb8bbb3573dd5bdc"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261006_第069篇_多囊卵巢综合征：为什么医生让你“去运动”？/20261006_第069篇_多囊卵巢综合征：为什么医生让你“去运动”？_插图03_行动·从医疗目标到监督计划再到复测.jpg",
+      "size_bytes": 1132624,
+      "sha256": "03c9a4329719d6c772779fe23ff5389127613e399ce5defb42c1297b31d2bbf5"
     }
   ]
 }
