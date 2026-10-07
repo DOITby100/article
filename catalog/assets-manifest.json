@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "file_count": 363,
-  "content_revision": "391f47f1f8c0f1c4b3bf8dd890f69af500ca48406d6530f682fbc663dc7cc6a3",
+  "file_count": 370,
+  "content_revision": "6dc0dcf33afffcfea97e4ed6eecc5c1eb54174b4780d54be46bfd71f86de9a4c",
   "files": [
     {
       "relative_path": "platforms/wechat/articles/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的.md",
@@ -1817,6 +1817,41 @@
       "relative_path": "platforms/wechat/articles/20261006_第069篇_多囊卵巢综合征：为什么医生让你“去运动”？/20261006_第069篇_多囊卵巢综合征：为什么医生让你“去运动”？_插图03_行动·从医疗目标到监督计划再到复测.jpg",
       "size_bytes": 1132624,
       "sha256": "03c9a4329719d6c772779fe23ff5389127613e399ce5defb42c1297b31d2bbf5"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261007_第070篇_更年期不是“衰老”，是你身体的“第二次青春期”/20261007_第070篇_更年期不是“衰老”，是你身体的“第二次青春期”.md",
+      "size_bytes": 6730,
+      "sha256": "5c03930f92f7bdeb462d1a8e361495b9c9ebcd2b6c31cbcf840572fb422d0ddd"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261007_第070篇_更年期不是“衰老”，是你身体的“第二次青春期”/20261007_第070篇_更年期不是“衰老”，是你身体的“第二次青春期”_公众号摘要.md",
+      "size_bytes": 250,
+      "sha256": "86ba549b83205f12e25dfa886e539127570938ce64af682ca6d247529697591f"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261007_第070篇_更年期不是“衰老”，是你身体的“第二次青春期”/20261007_第070篇_更年期不是“衰老”，是你身体的“第二次青春期”_封面_16比9.jpg",
+      "size_bytes": 2053584,
+      "sha256": "5004bec8331bf8bb80f2fed3dc62c49298d1c46378b5702c5c3bd40ee98e9e22"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261007_第070篇_更年期不是“衰老”，是你身体的“第二次青春期”/20261007_第070篇_更年期不是“衰老”，是你身体的“第二次青春期”_封面_235比100.jpg",
+      "size_bytes": 2755797,
+      "sha256": "b86f94bc60c878c1d0a5265e73b3da51d1afeede48ff1c0bfe4914fd17cb2fe3"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261007_第070篇_更年期不是“衰老”，是你身体的“第二次青春期”/20261007_第070篇_更年期不是“衰老”，是你身体的“第二次青春期”_插图01_概念·从生殖过渡到多系统适应.jpg",
+      "size_bytes": 1591533,
+      "sha256": "084f16f6b69522b95575c18ea824d1b81bcfbbe30ab16049006676e3b67d792d"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261007_第070篇_更年期不是“衰老”，是你身体的“第二次青春期”/20261007_第070篇_更年期不是“衰老”，是你身体的“第二次青春期”_插图02_对照·运动价值与症状边界.jpg",
+      "size_bytes": 1012070,
+      "sha256": "94f3e260b2636b62944097506dd9a9d9f95c84e98353b6ca2ff5947c557c0439"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261007_第070篇_更年期不是“衰老”，是你身体的“第二次青春期”/20261007_第070篇_更年期不是“衰老”，是你身体的“第二次青春期”_插图03_行动·许可、训练与真实任务复测.jpg",
+      "size_bytes": 1132250,
+      "sha256": "6d2e71d5929ff995cb7321892db0c6513664ea2f5710e433f3d0d9b8bdbafd12"
     }
   ]
 }

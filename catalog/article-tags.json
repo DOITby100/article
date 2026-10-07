@@ -1074,6 +1074,14 @@
       "body_regions": ["pelvis-hip", "whole-body"],
       "movement_tasks": [],
       "capacities": ["cardiorespiratory", "recovery-capacity"]
+    },
+    "070": {
+      "primary_category": "long-term-health",
+      "dimensions": ["function", "rhythm"],
+      "decision_stages": ["red-flags", "foundation", "load", "recovery", "review"],
+      "body_regions": ["whole-body"],
+      "movement_tasks": ["walking", "stairs", "carry"],
+      "capacities": ["strength", "balance", "cardiorespiratory", "recovery-capacity"]
     }
   }
 }

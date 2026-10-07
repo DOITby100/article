@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 48,
-  "last_content_date": "2026-10-06",
-  "content_revision": "391f47f1f8c0f1c4b3bf8dd890f69af500ca48406d6530f682fbc663dc7cc6a3",
+  "article_count": 49,
+  "last_content_date": "2026-10-07",
+  "content_revision": "6dc0dcf33afffcfea97e4ed6eecc5c1eb54174b4780d54be46bfd71f86de9a4c",
   "articles": [
     {
       "id": 22,
@@ -2346,6 +2346,55 @@
         ],
         "movement_tasks": [],
         "capacities": [
+          "cardiorespiratory",
+          "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 70,
+      "stable_id": "beyond100-070",
+      "series": "超越百岁",
+      "title": "更年期不是“衰老”，是你身体的“第二次青春期”",
+      "content_date": "2026-10-07",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20261007_第070篇_更年期不是“衰老”，是你身体的“第二次青春期”/20261007_第070篇_更年期不是“衰老”，是你身体的“第二次青春期”.md",
+      "summary_path": "platforms/wechat/articles/20261007_第070篇_更年期不是“衰老”，是你身体的“第二次青春期”/20261007_第070篇_更年期不是“衰老”，是你身体的“第二次青春期”_公众号摘要.md",
+      "summary": "更年期不是身体突然走下坡，也不是字面意义的“第二次青春期”。它是卵巢激素环境变化后的多系统适应期；先让医疗处理症状与风险，再用受监督训练守住力量、心肺和真实生活能力。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20261007_第070篇_更年期不是“衰老”，是你身体的“第二次青春期”/20261007_第070篇_更年期不是“衰老”，是你身体的“第二次青春期”_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20261007_第070篇_更年期不是“衰老”，是你身体的“第二次青春期”/20261007_第070篇_更年期不是“衰老”，是你身体的“第二次青春期”_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20261007_第070篇_更年期不是“衰老”，是你身体的“第二次青春期”/20261007_第070篇_更年期不是“衰老”，是你身体的“第二次青春期”_插图01_概念·从生殖过渡到多系统适应.jpg",
+        "platforms/wechat/articles/20261007_第070篇_更年期不是“衰老”，是你身体的“第二次青春期”/20261007_第070篇_更年期不是“衰老”，是你身体的“第二次青春期”_插图02_对照·运动价值与症状边界.jpg",
+        "platforms/wechat/articles/20261007_第070篇_更年期不是“衰老”，是你身体的“第二次青春期”/20261007_第070篇_更年期不是“衰老”，是你身体的“第二次青春期”_插图03_行动·许可、训练与真实任务复测.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "long-term-health",
+        "dimensions": [
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "foundation",
+          "load",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "whole-body"
+        ],
+        "movement_tasks": [
+          "walking",
+          "stairs",
+          "carry"
+        ],
+        "capacities": [
+          "strength",
+          "balance",
           "cardiorespiratory",
           "recovery-capacity"
         ]
