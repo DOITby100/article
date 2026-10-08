@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 49,
-  "last_content_date": "2026-10-07",
-  "content_revision": "6dc0dcf33afffcfea97e4ed6eecc5c1eb54174b4780d54be46bfd71f86de9a4c",
+  "article_count": 50,
+  "last_content_date": "2026-10-08",
+  "content_revision": "acc16939db87db25b9c7ddb99767d890c13de585bd7323fa9875568171bb35f8",
   "articles": [
     {
       "id": 22,
@@ -2397,6 +2397,61 @@
           "balance",
           "cardiorespiratory",
           "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 71,
+      "stable_id": "beyond100-071",
+      "series": "超越百岁",
+      "title": "为什么女性更容易膝盖受伤？",
+      "content_date": "2026-10-08",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20261008_第071篇_为什么女性更容易膝盖受伤？/20261008_第071篇_为什么女性更容易膝盖受伤？.md",
+      "summary_path": "platforms/wechat/articles/20261008_第071篇_为什么女性更容易膝盖受伤？/20261008_第071篇_为什么女性更容易膝盖受伤？_公众号摘要.md",
+      "summary": "女性并不是所有膝伤都更多，差异更集中在前交叉韧带等特定伤型与跑跳变向任务。把结构、训练经历和制动能力放回同一条链，才能从害怕运动转向有依据地练力量、落地与变向。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20261008_第071篇_为什么女性更容易膝盖受伤？/20261008_第071篇_为什么女性更容易膝盖受伤？_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20261008_第071篇_为什么女性更容易膝盖受伤？/20261008_第071篇_为什么女性更容易膝盖受伤？_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20261008_第071篇_为什么女性更容易膝盖受伤？/20261008_第071篇_为什么女性更容易膝盖受伤？_插图01_概念·不是所有膝伤都更多.jpg",
+        "platforms/wechat/articles/20261008_第071篇_为什么女性更容易膝盖受伤？/20261008_第071篇_为什么女性更容易膝盖受伤？_插图02_机制·急停落地的制动链.jpg",
+        "platforms/wechat/articles/20261008_第071篇_为什么女性更容易膝盖受伤？/20261008_第071篇_为什么女性更容易膝盖受伤？_插图03_行动·三步建立单腿承力与减速.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "evidence-myths",
+        "dimensions": [
+          "structure",
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "foundation",
+          "movement",
+          "load",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "core-trunk",
+          "pelvis-hip",
+          "knee",
+          "foot-ankle",
+          "whole-body"
+        ],
+        "movement_tasks": [
+          "running",
+          "single-leg",
+          "squat",
+          "rotation"
+        ],
+        "capacities": [
+          "strength",
+          "stability",
+          "coordination"
         ]
       }
     }

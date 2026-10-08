@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "file_count": 370,
-  "content_revision": "6dc0dcf33afffcfea97e4ed6eecc5c1eb54174b4780d54be46bfd71f86de9a4c",
+  "file_count": 377,
+  "content_revision": "acc16939db87db25b9c7ddb99767d890c13de585bd7323fa9875568171bb35f8",
   "files": [
     {
       "relative_path": "platforms/wechat/articles/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的.md",
@@ -1852,6 +1852,41 @@
       "relative_path": "platforms/wechat/articles/20261007_第070篇_更年期不是“衰老”，是你身体的“第二次青春期”/20261007_第070篇_更年期不是“衰老”，是你身体的“第二次青春期”_插图03_行动·许可、训练与真实任务复测.jpg",
       "size_bytes": 1132250,
       "sha256": "6d2e71d5929ff995cb7321892db0c6513664ea2f5710e433f3d0d9b8bdbafd12"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261008_第071篇_为什么女性更容易膝盖受伤？/20261008_第071篇_为什么女性更容易膝盖受伤？.md",
+      "size_bytes": 7528,
+      "sha256": "b88e1f9db0528670b637fdc97a9ffd20dc1bb4fa310f8c4529cc60055808e823"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261008_第071篇_为什么女性更容易膝盖受伤？/20261008_第071篇_为什么女性更容易膝盖受伤？_公众号摘要.md",
+      "size_bytes": 241,
+      "sha256": "1b7b3ec3a5391bc1d59ec5b19e0f5410994adfb178476fa26f33dbb329cd59ad"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261008_第071篇_为什么女性更容易膝盖受伤？/20261008_第071篇_为什么女性更容易膝盖受伤？_封面_16比9.jpg",
+      "size_bytes": 1526815,
+      "sha256": "16c54b071b14d7c176692248da716e73ec581bd76fba08fbd4c0654f365aaa6e"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261008_第071篇_为什么女性更容易膝盖受伤？/20261008_第071篇_为什么女性更容易膝盖受伤？_封面_235比100.jpg",
+      "size_bytes": 2496895,
+      "sha256": "9a70428c882046c99776b8deccc7a4da95b11f453e2a79004049469119b0fc6c"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261008_第071篇_为什么女性更容易膝盖受伤？/20261008_第071篇_为什么女性更容易膝盖受伤？_插图01_概念·不是所有膝伤都更多.jpg",
+      "size_bytes": 1070009,
+      "sha256": "9c037cdf1d1467e9a5998069a1db5a459c7992327dcff47f936f24523bbcf7a7"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261008_第071篇_为什么女性更容易膝盖受伤？/20261008_第071篇_为什么女性更容易膝盖受伤？_插图02_机制·急停落地的制动链.jpg",
+      "size_bytes": 1657293,
+      "sha256": "e6a97c96c77f6007ddf9c9ffef55ec7350edd19e505d7afe6a8af68b1de9049b"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261008_第071篇_为什么女性更容易膝盖受伤？/20261008_第071篇_为什么女性更容易膝盖受伤？_插图03_行动·三步建立单腿承力与减速.jpg",
+      "size_bytes": 1023586,
+      "sha256": "f2a995717d5acbc85ccf71612de59730a2326b1894783fa92e68528b7587bf12"
     }
   ]
 }

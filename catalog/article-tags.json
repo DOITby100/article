@@ -1082,6 +1082,14 @@
       "body_regions": ["whole-body"],
       "movement_tasks": ["walking", "stairs", "carry"],
       "capacities": ["strength", "balance", "cardiorespiratory", "recovery-capacity"]
+    },
+    "071": {
+      "primary_category": "evidence-myths",
+      "dimensions": ["structure", "function", "rhythm"],
+      "decision_stages": ["red-flags", "foundation", "movement", "load", "recovery", "review"],
+      "body_regions": ["core-trunk", "pelvis-hip", "knee", "foot-ankle", "whole-body"],
+      "movement_tasks": ["running", "single-leg", "squat", "rotation"],
+      "capacities": ["strength", "stability", "coordination"]
     }
   }
 }
