@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 50,
-  "last_content_date": "2026-10-08",
-  "content_revision": "acc16939db87db25b9c7ddb99767d890c13de585bd7323fa9875568171bb35f8",
+  "article_count": 51,
+  "last_content_date": "2026-10-09",
+  "content_revision": "f77dd75eebd8873a77939e7b9b73943a01ee6400923e518a5f0a1c9f9352c861",
   "articles": [
     {
       "id": 22,
@@ -2452,6 +2452,63 @@
           "strength",
           "stability",
           "coordination"
+        ]
+      }
+    },
+    {
+      "id": 72,
+      "stable_id": "beyond100-072",
+      "series": "超越百岁",
+      "title": "孕期还能运动吗？不仅能，而且应该",
+      "content_date": "2026-10-09",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20261009_第072篇_孕期还能运动吗？不仅能，而且应该/20261009_第072篇_孕期还能运动吗？不仅能，而且应该.md",
+      "summary_path": "platforms/wechat/articles/20261009_第072篇_孕期还能运动吗？不仅能，而且应该/20261009_第072篇_孕期还能运动吗？不仅能，而且应该_公众号摘要.md",
+      "summary": "孕期运动不是所有人照同一张计划，更不是一怀孕就停练。先确认禁忌与产科许可，再按孕周、既往基础和当日症状调整强度。文中用三个低风险动作，帮你保住走路、起身和推撑能力。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20261009_第072篇_孕期还能运动吗？不仅能，而且应该/20261009_第072篇_孕期还能运动吗？不仅能，而且应该_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20261009_第072篇_孕期还能运动吗？不仅能，而且应该/20261009_第072篇_孕期还能运动吗？不仅能，而且应该_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20261009_第072篇_孕期还能运动吗？不仅能，而且应该/20261009_第072篇_孕期还能运动吗？不仅能，而且应该_插图01_概念·孕期运动先过许可门.jpg",
+        "platforms/wechat/articles/20261009_第072篇_孕期还能运动吗？不仅能，而且应该/20261009_第072篇_孕期还能运动吗？不仅能，而且应该_插图02_机制·孕程变化与活动能力.jpg",
+        "platforms/wechat/articles/20261009_第072篇_孕期还能运动吗？不仅能，而且应该/20261009_第072篇_孕期还能运动吗？不仅能，而且应该_插图03_行动·三个动作保住日常能力.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "long-term-health",
+        "dimensions": [
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "breathing",
+          "foundation",
+          "movement",
+          "load",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "shoulder-upper-limb",
+          "core-trunk",
+          "pelvis-hip",
+          "whole-body"
+        ],
+        "movement_tasks": [
+          "sit-to-stand",
+          "walking",
+          "stairs",
+          "push",
+          "carry"
+        ],
+        "capacities": [
+          "strength",
+          "balance",
+          "coordination",
+          "cardiorespiratory",
+          "recovery-capacity"
         ]
       }
     }

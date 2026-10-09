@@ -1090,6 +1090,14 @@
       "body_regions": ["core-trunk", "pelvis-hip", "knee", "foot-ankle", "whole-body"],
       "movement_tasks": ["running", "single-leg", "squat", "rotation"],
       "capacities": ["strength", "stability", "coordination"]
+    },
+    "072": {
+      "primary_category": "long-term-health",
+      "dimensions": ["function", "rhythm"],
+      "decision_stages": ["red-flags", "breathing", "foundation", "movement", "load", "recovery", "review"],
+      "body_regions": ["shoulder-upper-limb", "core-trunk", "pelvis-hip", "whole-body"],
+      "movement_tasks": ["sit-to-stand", "walking", "stairs", "push", "carry"],
+      "capacities": ["strength", "balance", "coordination", "cardiorespiratory", "recovery-capacity"]
     }
   }
 }
