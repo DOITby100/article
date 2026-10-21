@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 52,
-  "last_content_date": "2026-10-20",
-  "content_revision": "ba695171aa56473cec2c66d2fcae47764e7c27da0d0ebef5acc17e9a5c1b2b5d",
+  "article_count": 53,
+  "last_content_date": "2026-10-21",
+  "content_revision": "140a3f7125473a177b58c822edd08ab1699e4ef92ddf3078d3335936373683e5",
   "articles": [
     {
       "id": 22,
@@ -2317,7 +2317,7 @@
       "platform": "wechat",
       "article_path": "platforms/wechat/articles/20261006_第069篇_多囊卵巢综合征：为什么医生让你“去运动”？/20261006_第069篇_多囊卵巢综合征：为什么医生让你“去运动”？.md",
       "summary_path": "platforms/wechat/articles/20261006_第069篇_多囊卵巢综合征：为什么医生让你“去运动”？/20261006_第069篇_多囊卵巢综合征：为什么医生让你“去运动”？_公众号摘要.md",
-      "summary": "医生让多囊患者运动，不是把妇科问题推给减肥，而是借骨骼肌这个可训练入口，减轻部分人的胰岛素负担。运动负责代谢与体能，排卵、出血和内膜保护仍要独立随诊；两条线不能互相替代。",
+      "summary": "多囊患者运动，先看体能、力量和腰围，再按医生安排复查血糖状态；月经、排卵和内膜按妇科节点随诊。训练与医疗各看一组可测结果，两条线共同回答身体发生了哪些具体变化。",
       "covers": {
         "16比9": "platforms/wechat/articles/20261006_第069篇_多囊卵巢综合征：为什么医生让你“去运动”？/20261006_第069篇_多囊卵巢综合征：为什么医生让你“去运动”？_封面_16比9.jpg",
         "235比100": "platforms/wechat/articles/20261006_第069篇_多囊卵巢综合征：为什么医生让你“去运动”？/20261006_第069篇_多囊卵巢综合征：为什么医生让你“去运动”？_封面_235比100.jpg"
@@ -2565,6 +2565,47 @@
           "stability",
           "balance",
           "coordination",
+          "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 74,
+      "stable_id": "beyond100-074",
+      "series": "超越百岁",
+      "title": "乳腺增生、子宫肌瘤：为什么医生说“先观察”？",
+      "content_date": "2026-10-21",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20261021_第074篇_乳腺增生、子宫肌瘤：为什么医生说“先观察”？/20261021_第074篇_乳腺增生、子宫肌瘤：为什么医生说“先观察”？.md",
+      "summary_path": "platforms/wechat/articles/20261021_第074篇_乳腺增生、子宫肌瘤：为什么医生说“先观察”？/20261021_第074篇_乳腺增生、子宫肌瘤：为什么医生说“先观察”？_公众号摘要.md",
+      "summary": "“先观察”不是把乳腺或子宫的异常搁置，而是在诊断把握、症状功能、变化趋势和个人计划之间做动态权衡。看懂观察成立的前提、复查要比较的内容和提前就医的触发点，才能避免漏诊与过度干预。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20261021_第074篇_乳腺增生、子宫肌瘤：为什么医生说“先观察”？/20261021_第074篇_乳腺增生、子宫肌瘤：为什么医生说“先观察”？_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20261021_第074篇_乳腺增生、子宫肌瘤：为什么医生说“先观察”？/20261021_第074篇_乳腺增生、子宫肌瘤：为什么医生说“先观察”？_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20261021_第074篇_乳腺增生、子宫肌瘤：为什么医生说“先观察”？/20261021_第074篇_乳腺增生、子宫肌瘤：为什么医生说“先观察”？_插图01_概念·两个名称不同判断入口.jpg",
+        "platforms/wechat/articles/20261021_第074篇_乳腺增生、子宫肌瘤：为什么医生说“先观察”？/20261021_第074篇_乳腺增生、子宫肌瘤：为什么医生说“先观察”？_插图02_机制·观察与干预的收益代价链.jpg",
+        "platforms/wechat/articles/20261021_第074篇_乳腺增生、子宫肌瘤：为什么医生说“先观察”？/20261021_第074篇_乳腺增生、子宫肌瘤：为什么医生说“先观察”？_插图03_行动·主动观察的三步路径.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "method-judgment",
+        "dimensions": [
+          "structure",
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "review"
+        ],
+        "body_regions": [
+          "pelvis-hip",
+          "whole-body"
+        ],
+        "movement_tasks": [],
+        "capacities": [
           "recovery-capacity"
         ]
       }

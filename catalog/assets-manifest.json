@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "file_count": 392,
-  "content_revision": "ba695171aa56473cec2c66d2fcae47764e7c27da0d0ebef5acc17e9a5c1b2b5d",
+  "file_count": 399,
+  "content_revision": "140a3f7125473a177b58c822edd08ab1699e4ef92ddf3078d3335936373683e5",
   "files": [
     {
       "relative_path": "platforms/wechat/articles/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的.md",
@@ -1785,13 +1785,13 @@
     },
     {
       "relative_path": "platforms/wechat/articles/20261006_第069篇_多囊卵巢综合征：为什么医生让你“去运动”？/20261006_第069篇_多囊卵巢综合征：为什么医生让你“去运动”？.md",
-      "size_bytes": 7144,
-      "sha256": "8a79ff3372580be2e58813e39d2e7d3a94fcfb194041b377864e89c92ae01fed"
+      "size_bytes": 7261,
+      "sha256": "c4ed988e796d516bf655930ad9af04f5373bcb3569d9b20f89b6d2906c800791"
     },
     {
       "relative_path": "platforms/wechat/articles/20261006_第069篇_多囊卵巢综合征：为什么医生让你“去运动”？/20261006_第069篇_多囊卵巢综合征：为什么医生让你“去运动”？_公众号摘要.md",
-      "size_bytes": 256,
-      "sha256": "d8f58e11aa066ca0406f1dac8923e3aeb774a1bab8f0619b9daae7f28e4e6d3b"
+      "size_bytes": 241,
+      "sha256": "bac3cdd4cd4f3963fbe811010a1b8d0bc544cac7c6e05dbfdbfbbbe9d6668ecc"
     },
     {
       "relative_path": "platforms/wechat/articles/20261006_第069篇_多囊卵巢综合征：为什么医生让你“去运动”？/20261006_第069篇_多囊卵巢综合征：为什么医生让你“去运动”？_封面_16比9.jpg",
@@ -1962,6 +1962,41 @@
       "relative_path": "platforms/wechat/articles/20261020_第073篇_为什么你的骨密度在悄悄流失？/20261020_第073篇_为什么你的骨密度在悄悄流失？_插图04_动作·许可后三类训练任务.jpg",
       "size_bytes": 1685612,
       "sha256": "2aa4ea6b9439b218df8aa4918a386b543efa2248a5a4a3b20ad2bddf22954849"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261021_第074篇_乳腺增生、子宫肌瘤：为什么医生说“先观察”？/20261021_第074篇_乳腺增生、子宫肌瘤：为什么医生说“先观察”？.md",
+      "size_bytes": 7638,
+      "sha256": "842f98988280bd2624da39cde55270ab6e234df570f5cb7603197cd61b7f802f"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261021_第074篇_乳腺增生、子宫肌瘤：为什么医生说“先观察”？/20261021_第074篇_乳腺增生、子宫肌瘤：为什么医生说“先观察”？_公众号摘要.md",
+      "size_bytes": 268,
+      "sha256": "4d5724f9598e2bf7365327655d2edd7527866979fe12e4620eb992d4c6d955bd"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261021_第074篇_乳腺增生、子宫肌瘤：为什么医生说“先观察”？/20261021_第074篇_乳腺增生、子宫肌瘤：为什么医生说“先观察”？_封面_16比9.jpg",
+      "size_bytes": 1674883,
+      "sha256": "a8843fa2d8a6a108f3aac38aeec12bf7138b746038c5f21a42033b632de6844e"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261021_第074篇_乳腺增生、子宫肌瘤：为什么医生说“先观察”？/20261021_第074篇_乳腺增生、子宫肌瘤：为什么医生说“先观察”？_封面_235比100.jpg",
+      "size_bytes": 2084087,
+      "sha256": "be281ef87feb04282a39b6580cb1a70d2b3cdfa26008bfba5172413fbdc6d7b7"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261021_第074篇_乳腺增生、子宫肌瘤：为什么医生说“先观察”？/20261021_第074篇_乳腺增生、子宫肌瘤：为什么医生说“先观察”？_插图01_概念·两个名称不同判断入口.jpg",
+      "size_bytes": 1022059,
+      "sha256": "86231f4b9e95214a462fe3a79d2db8263fde16730ac46ef583322e228a7eb3a7"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261021_第074篇_乳腺增生、子宫肌瘤：为什么医生说“先观察”？/20261021_第074篇_乳腺增生、子宫肌瘤：为什么医生说“先观察”？_插图02_机制·观察与干预的收益代价链.jpg",
+      "size_bytes": 1709580,
+      "sha256": "6fe58506f666866ac6cccb3ab4cecb3dea4bf9dff5e7f81268fc41f7711b48bb"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261021_第074篇_乳腺增生、子宫肌瘤：为什么医生说“先观察”？/20261021_第074篇_乳腺增生、子宫肌瘤：为什么医生说“先观察”？_插图03_行动·主动观察的三步路径.jpg",
+      "size_bytes": 1136637,
+      "sha256": "294306fcb3b04c316f8ae9e60cf11cb40afdccecda944c8757b2050a412ad0ab"
     }
   ]
 }

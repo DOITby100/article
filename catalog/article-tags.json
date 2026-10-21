@@ -1106,6 +1106,14 @@
       "body_regions": ["ribcage-spine", "pelvis-hip", "whole-body"],
       "movement_tasks": ["standing", "sit-to-stand", "walking", "hinge", "carry"],
       "capacities": ["strength", "stability", "balance", "coordination", "recovery-capacity"]
+    },
+    "074": {
+      "primary_category": "method-judgment",
+      "dimensions": ["structure", "function", "rhythm"],
+      "decision_stages": ["red-flags", "review"],
+      "body_regions": ["pelvis-hip", "whole-body"],
+      "movement_tasks": [],
+      "capacities": ["recovery-capacity"]
     }
   }
 }
