@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 53,
-  "last_content_date": "2026-10-21",
-  "content_revision": "140a3f7125473a177b58c822edd08ab1699e4ef92ddf3078d3335936373683e5",
+  "article_count": 54,
+  "last_content_date": "2026-10-22",
+  "content_revision": "7d8cdafc13f5f74ecd5b55c22b73f85e07c16ef98508808ad52112d22367d555",
   "articles": [
     {
       "id": 22,
@@ -2573,24 +2573,68 @@
       "id": 74,
       "stable_id": "beyond100-074",
       "series": "超越百岁",
-      "title": "乳腺增生、子宫肌瘤：为什么医生说“先观察”？",
+      "title": "甲亢治疗后为什么容易发胖？减脂和恢复体能该怎么安排？",
       "content_date": "2026-10-21",
       "status": "final",
       "platform": "wechat",
-      "article_path": "platforms/wechat/articles/20261021_第074篇_乳腺增生、子宫肌瘤：为什么医生说“先观察”？/20261021_第074篇_乳腺增生、子宫肌瘤：为什么医生说“先观察”？.md",
-      "summary_path": "platforms/wechat/articles/20261021_第074篇_乳腺增生、子宫肌瘤：为什么医生说“先观察”？/20261021_第074篇_乳腺增生、子宫肌瘤：为什么医生说“先观察”？_公众号摘要.md",
-      "summary": "“先观察”不是把乳腺或子宫的异常搁置，而是在诊断把握、症状功能、变化趋势和个人计划之间做动态权衡。看懂观察成立的前提、复查要比较的内容和提前就医的触发点，才能避免漏诊与过度干预。",
+      "article_path": "platforms/wechat/articles/20261021_第074篇_甲亢治疗后为什么容易发胖？减脂和恢复体能该怎么安排？/20261021_第074篇_甲亢治疗后为什么容易发胖？减脂和恢复体能该怎么安排？.md",
+      "summary_path": "platforms/wechat/articles/20261021_第074篇_甲亢治疗后为什么容易发胖？减脂和恢复体能该怎么安排？/20261021_第074篇_甲亢治疗后为什么容易发胖？减脂和恢复体能该怎么安排？_公众号摘要.md",
+      "summary": "甲亢治疗后最不该追的，是生病时的低体重。异常高消耗先退出，食欲、肌肉和体能却未同步复位；先让恢复的重量回到能工作的组织，再用腰围、同一任务表现和次日恢复决定何时减脂。",
       "covers": {
-        "16比9": "platforms/wechat/articles/20261021_第074篇_乳腺增生、子宫肌瘤：为什么医生说“先观察”？/20261021_第074篇_乳腺增生、子宫肌瘤：为什么医生说“先观察”？_封面_16比9.jpg",
-        "235比100": "platforms/wechat/articles/20261021_第074篇_乳腺增生、子宫肌瘤：为什么医生说“先观察”？/20261021_第074篇_乳腺增生、子宫肌瘤：为什么医生说“先观察”？_封面_235比100.jpg"
+        "16比9": "platforms/wechat/articles/20261021_第074篇_甲亢治疗后为什么容易发胖？减脂和恢复体能该怎么安排？/20261021_第074篇_甲亢治疗后为什么容易发胖？减脂和恢复体能该怎么安排？_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20261021_第074篇_甲亢治疗后为什么容易发胖？减脂和恢复体能该怎么安排？/20261021_第074篇_甲亢治疗后为什么容易发胖？减脂和恢复体能该怎么安排？_封面_235比100.jpg"
       },
       "illustrations": [
-        "platforms/wechat/articles/20261021_第074篇_乳腺增生、子宫肌瘤：为什么医生说“先观察”？/20261021_第074篇_乳腺增生、子宫肌瘤：为什么医生说“先观察”？_插图01_概念·两个名称不同判断入口.jpg",
-        "platforms/wechat/articles/20261021_第074篇_乳腺增生、子宫肌瘤：为什么医生说“先观察”？/20261021_第074篇_乳腺增生、子宫肌瘤：为什么医生说“先观察”？_插图02_机制·观察与干预的收益代价链.jpg",
-        "platforms/wechat/articles/20261021_第074篇_乳腺增生、子宫肌瘤：为什么医生说“先观察”？/20261021_第074篇_乳腺增生、子宫肌瘤：为什么医生说“先观察”？_插图03_行动·主动观察的三步路径.jpg"
+        "platforms/wechat/articles/20261021_第074篇_甲亢治疗后为什么容易发胖？减脂和恢复体能该怎么安排？/20261021_第074篇_甲亢治疗后为什么容易发胖？减脂和恢复体能该怎么安排？_插图01_机制·消耗回落与两种恢复速度.jpg",
+        "platforms/wechat/articles/20261021_第074篇_甲亢治疗后为什么容易发胖？减脂和恢复体能该怎么安排？/20261021_第074篇_甲亢治疗后为什么容易发胖？减脂和恢复体能该怎么安排？_插图02_判断·从甲功稳定到训练加量.jpg",
+        "platforms/wechat/articles/20261021_第074篇_甲亢治疗后为什么容易发胖？减脂和恢复体能该怎么安排？/20261021_第074篇_甲亢治疗后为什么容易发胖？减脂和恢复体能该怎么安排？_插图03_行动·稳定后的每周训练安排.jpg"
       ],
       "taxonomy": {
-        "primary_category": "method-judgment",
+        "primary_category": "long-term-health",
+        "dimensions": [
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "load",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "whole-body"
+        ],
+        "movement_tasks": [
+          "walking"
+        ],
+        "capacities": [
+          "cardiorespiratory",
+          "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 75,
+      "stable_id": "beyond100-075",
+      "series": "超越百岁",
+      "title": "50 岁以后，你的肌肉每年流失 1-2%",
+      "content_date": "2026-10-22",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20261022_第075篇_50 岁以后，你的肌肉每年流失 1-2%/20261022_第075篇_50 岁以后，你的肌肉每年流失 1-2%.md",
+      "summary_path": "platforms/wechat/articles/20261022_第075篇_50 岁以后，你的肌肉每年流失 1-2%/20261022_第075篇_50 岁以后，你的肌肉每年流失 1-2%_公众号摘要.md",
+      "summary": "“每年流失 1-2%”不是每位 50 岁成人的固定倒计时。比腿围更该看力量与生活任务的趋势；规律抗阻、记录恢复，并在活动中断后分级回归，才能真正守住可调用的身体储备。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20261022_第075篇_50 岁以后，你的肌肉每年流失 1-2%/20261022_第075篇_50 岁以后，你的肌肉每年流失 1-2%_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20261022_第075篇_50 岁以后，你的肌肉每年流失 1-2%/20261022_第075篇_50 岁以后，你的肌肉每年流失 1-2%_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20261022_第075篇_50 岁以后，你的肌肉每年流失 1-2%/20261022_第075篇_50 岁以后，你的肌肉每年流失 1-2%_插图01_概念·肌肉量力量与功能不是一件事.jpg",
+        "platforms/wechat/articles/20261022_第075篇_50 岁以后，你的肌肉每年流失 1-2%/20261022_第075篇_50 岁以后，你的肌肉每年流失 1-2%_插图02_机制·匀速误判与台阶式下降.jpg",
+        "platforms/wechat/articles/20261022_第075篇_50 岁以后，你的肌肉每年流失 1-2%/20261022_第075篇_50 岁以后，你的肌肉每年流失 1-2%_插图03_行动·频率任务与中断后回归.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "long-term-health",
         "dimensions": [
           "structure",
           "function",
@@ -2598,14 +2642,26 @@
         ],
         "decision_stages": [
           "red-flags",
+          "foundation",
+          "movement",
+          "load",
+          "recovery",
           "review"
         ],
         "body_regions": [
           "pelvis-hip",
+          "knee",
           "whole-body"
         ],
-        "movement_tasks": [],
+        "movement_tasks": [
+          "sit-to-stand",
+          "stairs",
+          "carry"
+        ],
         "capacities": [
+          "strength",
+          "speed",
+          "power",
           "recovery-capacity"
         ]
       }

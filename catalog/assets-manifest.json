@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "file_count": 399,
-  "content_revision": "140a3f7125473a177b58c822edd08ab1699e4ef92ddf3078d3335936373683e5",
+  "file_count": 406,
+  "content_revision": "7d8cdafc13f5f74ecd5b55c22b73f85e07c16ef98508808ad52112d22367d555",
   "files": [
     {
       "relative_path": "platforms/wechat/articles/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的.md",
@@ -1925,8 +1925,8 @@
     },
     {
       "relative_path": "platforms/wechat/articles/20261020_第073篇_为什么你的骨密度在悄悄流失？/20261020_第073篇_为什么你的骨密度在悄悄流失？.md",
-      "size_bytes": 7381,
-      "sha256": "a5a765cdfe71dc65d534b267d7a9c879c2c012fb38226f282f66dfce388e8c8c"
+      "size_bytes": 7396,
+      "sha256": "6f99ac92cfbd6e61f61fc4038503220ccfbf349f69a2f06905dd42659e2ec264"
     },
     {
       "relative_path": "platforms/wechat/articles/20261020_第073篇_为什么你的骨密度在悄悄流失？/20261020_第073篇_为什么你的骨密度在悄悄流失？_公众号摘要.md",
@@ -1964,39 +1964,74 @@
       "sha256": "2aa4ea6b9439b218df8aa4918a386b543efa2248a5a4a3b20ad2bddf22954849"
     },
     {
-      "relative_path": "platforms/wechat/articles/20261021_第074篇_乳腺增生、子宫肌瘤：为什么医生说“先观察”？/20261021_第074篇_乳腺增生、子宫肌瘤：为什么医生说“先观察”？.md",
-      "size_bytes": 7638,
-      "sha256": "842f98988280bd2624da39cde55270ab6e234df570f5cb7603197cd61b7f802f"
+      "relative_path": "platforms/wechat/articles/20261021_第074篇_甲亢治疗后为什么容易发胖？减脂和恢复体能该怎么安排？/20261021_第074篇_甲亢治疗后为什么容易发胖？减脂和恢复体能该怎么安排？.md",
+      "size_bytes": 5254,
+      "sha256": "ce478b5d7b76ed97126a0427b050d6917aadcdd31052f7708c37a0cf31643ea1"
     },
     {
-      "relative_path": "platforms/wechat/articles/20261021_第074篇_乳腺增生、子宫肌瘤：为什么医生说“先观察”？/20261021_第074篇_乳腺增生、子宫肌瘤：为什么医生说“先观察”？_公众号摘要.md",
-      "size_bytes": 268,
-      "sha256": "4d5724f9598e2bf7365327655d2edd7527866979fe12e4620eb992d4c6d955bd"
+      "relative_path": "platforms/wechat/articles/20261021_第074篇_甲亢治疗后为什么容易发胖？减脂和恢复体能该怎么安排？/20261021_第074篇_甲亢治疗后为什么容易发胖？减脂和恢复体能该怎么安排？_公众号摘要.md",
+      "size_bytes": 250,
+      "sha256": "b69b17b10d5f87fb6a853869b3d3d439ba4029743f123eff2a4893951a4fca37"
     },
     {
-      "relative_path": "platforms/wechat/articles/20261021_第074篇_乳腺增生、子宫肌瘤：为什么医生说“先观察”？/20261021_第074篇_乳腺增生、子宫肌瘤：为什么医生说“先观察”？_封面_16比9.jpg",
-      "size_bytes": 1674883,
-      "sha256": "a8843fa2d8a6a108f3aac38aeec12bf7138b746038c5f21a42033b632de6844e"
+      "relative_path": "platforms/wechat/articles/20261021_第074篇_甲亢治疗后为什么容易发胖？减脂和恢复体能该怎么安排？/20261021_第074篇_甲亢治疗后为什么容易发胖？减脂和恢复体能该怎么安排？_封面_16比9.jpg",
+      "size_bytes": 1129812,
+      "sha256": "10aa3287e60a34d8e2ad7cc7c891446bb6d000990cbb6c5e37cb44ff4ea19145"
     },
     {
-      "relative_path": "platforms/wechat/articles/20261021_第074篇_乳腺增生、子宫肌瘤：为什么医生说“先观察”？/20261021_第074篇_乳腺增生、子宫肌瘤：为什么医生说“先观察”？_封面_235比100.jpg",
-      "size_bytes": 2084087,
-      "sha256": "be281ef87feb04282a39b6580cb1a70d2b3cdfa26008bfba5172413fbdc6d7b7"
+      "relative_path": "platforms/wechat/articles/20261021_第074篇_甲亢治疗后为什么容易发胖？减脂和恢复体能该怎么安排？/20261021_第074篇_甲亢治疗后为什么容易发胖？减脂和恢复体能该怎么安排？_封面_235比100.jpg",
+      "size_bytes": 1569801,
+      "sha256": "074765b6a76fafdd9230b005b9e79caa874481be424c8703e75bd377a96986d9"
     },
     {
-      "relative_path": "platforms/wechat/articles/20261021_第074篇_乳腺增生、子宫肌瘤：为什么医生说“先观察”？/20261021_第074篇_乳腺增生、子宫肌瘤：为什么医生说“先观察”？_插图01_概念·两个名称不同判断入口.jpg",
-      "size_bytes": 1022059,
-      "sha256": "86231f4b9e95214a462fe3a79d2db8263fde16730ac46ef583322e228a7eb3a7"
+      "relative_path": "platforms/wechat/articles/20261021_第074篇_甲亢治疗后为什么容易发胖？减脂和恢复体能该怎么安排？/20261021_第074篇_甲亢治疗后为什么容易发胖？减脂和恢复体能该怎么安排？_插图01_机制·消耗回落与两种恢复速度.jpg",
+      "size_bytes": 1039738,
+      "sha256": "447cd4ae006ddc7fec82b0ce77080306b5e77958162bf9ef2e4c5a2a53e50f61"
     },
     {
-      "relative_path": "platforms/wechat/articles/20261021_第074篇_乳腺增生、子宫肌瘤：为什么医生说“先观察”？/20261021_第074篇_乳腺增生、子宫肌瘤：为什么医生说“先观察”？_插图02_机制·观察与干预的收益代价链.jpg",
-      "size_bytes": 1709580,
-      "sha256": "6fe58506f666866ac6cccb3ab4cecb3dea4bf9dff5e7f81268fc41f7711b48bb"
+      "relative_path": "platforms/wechat/articles/20261021_第074篇_甲亢治疗后为什么容易发胖？减脂和恢复体能该怎么安排？/20261021_第074篇_甲亢治疗后为什么容易发胖？减脂和恢复体能该怎么安排？_插图02_判断·从甲功稳定到训练加量.jpg",
+      "size_bytes": 731216,
+      "sha256": "8e479475fac61321c2814e2b3968b809575c895c968a64d652caafebb473be1d"
     },
     {
-      "relative_path": "platforms/wechat/articles/20261021_第074篇_乳腺增生、子宫肌瘤：为什么医生说“先观察”？/20261021_第074篇_乳腺增生、子宫肌瘤：为什么医生说“先观察”？_插图03_行动·主动观察的三步路径.jpg",
-      "size_bytes": 1136637,
-      "sha256": "294306fcb3b04c316f8ae9e60cf11cb40afdccecda944c8757b2050a412ad0ab"
+      "relative_path": "platforms/wechat/articles/20261021_第074篇_甲亢治疗后为什么容易发胖？减脂和恢复体能该怎么安排？/20261021_第074篇_甲亢治疗后为什么容易发胖？减脂和恢复体能该怎么安排？_插图03_行动·稳定后的每周训练安排.jpg",
+      "size_bytes": 814215,
+      "sha256": "32730b0e1c9627bb21ea32bb3b779df5e483700c0bdf948b4cf41c35fa165a0d"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261022_第075篇_50 岁以后，你的肌肉每年流失 1-2%/20261022_第075篇_50 岁以后，你的肌肉每年流失 1-2%.md",
+      "size_bytes": 4793,
+      "sha256": "deb9ec6f75d4b404227e862aa0184f3d341243f274eff123380d622ac473d962"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261022_第075篇_50 岁以后，你的肌肉每年流失 1-2%/20261022_第075篇_50 岁以后，你的肌肉每年流失 1-2%_公众号摘要.md",
+      "size_bytes": 232,
+      "sha256": "b56c9385ffb3aa3930ce7898d94c5f071e5caaf22bc34cf159199da82fc06274"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261022_第075篇_50 岁以后，你的肌肉每年流失 1-2%/20261022_第075篇_50 岁以后，你的肌肉每年流失 1-2%_封面_16比9.jpg",
+      "size_bytes": 2033761,
+      "sha256": "3f2fe76762cf0de7ed0a8effe52872fb8cdd1ada4a0375bf34b2539c2f45760a"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261022_第075篇_50 岁以后，你的肌肉每年流失 1-2%/20261022_第075篇_50 岁以后，你的肌肉每年流失 1-2%_封面_235比100.jpg",
+      "size_bytes": 2732381,
+      "sha256": "99a2cf7215a5635c2e101d432e705752dcb01de10ef8ccf26ad652ca3b63e1ed"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261022_第075篇_50 岁以后，你的肌肉每年流失 1-2%/20261022_第075篇_50 岁以后，你的肌肉每年流失 1-2%_插图01_概念·肌肉量力量与功能不是一件事.jpg",
+      "size_bytes": 1610207,
+      "sha256": "69767105568b69bc8f7f7171c35ec8761c97d56359de97aefe508896033be04a"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261022_第075篇_50 岁以后，你的肌肉每年流失 1-2%/20261022_第075篇_50 岁以后，你的肌肉每年流失 1-2%_插图02_机制·匀速误判与台阶式下降.jpg",
+      "size_bytes": 1379302,
+      "sha256": "247bec01889d47548f5d19fc89cd1757dcb86e72fee9e22efaa6c08e40af36d1"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261022_第075篇_50 岁以后，你的肌肉每年流失 1-2%/20261022_第075篇_50 岁以后，你的肌肉每年流失 1-2%_插图03_行动·频率任务与中断后回归.jpg",
+      "size_bytes": 1463261,
+      "sha256": "aec88ae2c93437604352c768e2d022de854ccf6e99203635f9b0734a1a6975df"
     }
   ]
 }

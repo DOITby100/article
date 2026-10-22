@@ -957,163 +957,548 @@
     },
     "055": {
       "primary_category": "evidence-myths",
-      "dimensions": ["function", "rhythm"],
-      "decision_stages": ["red-flags", "foundation", "recovery", "review"],
-      "body_regions": ["whole-body"],
+      "dimensions": [
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "foundation",
+        "recovery",
+        "review"
+      ],
+      "body_regions": [
+        "whole-body"
+      ],
       "movement_tasks": [],
-      "capacities": ["strength", "recovery-capacity"]
+      "capacities": [
+        "strength",
+        "recovery-capacity"
+      ]
     },
     "056": {
       "primary_category": "evidence-myths",
-      "dimensions": ["function", "rhythm"],
-      "decision_stages": ["red-flags", "foundation", "load", "recovery", "review"],
-      "body_regions": ["whole-body"],
+      "dimensions": [
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "foundation",
+        "load",
+        "recovery",
+        "review"
+      ],
+      "body_regions": [
+        "whole-body"
+      ],
       "movement_tasks": [],
-      "capacities": ["cardiorespiratory", "recovery-capacity"]
+      "capacities": [
+        "cardiorespiratory",
+        "recovery-capacity"
+      ]
     },
     "057": {
       "primary_category": "evidence-myths",
-      "dimensions": ["function", "rhythm"],
-      "decision_stages": ["red-flags", "foundation", "load", "recovery", "review"],
-      "body_regions": ["whole-body"],
+      "dimensions": [
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "foundation",
+        "load",
+        "recovery",
+        "review"
+      ],
+      "body_regions": [
+        "whole-body"
+      ],
       "movement_tasks": [],
-      "capacities": ["cardiorespiratory", "recovery-capacity"]
+      "capacities": [
+        "cardiorespiratory",
+        "recovery-capacity"
+      ]
     },
     "058": {
       "primary_category": "evidence-myths",
-      "dimensions": ["function", "rhythm"],
-      "decision_stages": ["red-flags", "foundation", "recovery", "review"],
-      "body_regions": ["whole-body"],
+      "dimensions": [
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "foundation",
+        "recovery",
+        "review"
+      ],
+      "body_regions": [
+        "whole-body"
+      ],
       "movement_tasks": [],
-      "capacities": ["recovery-capacity"]
+      "capacities": [
+        "recovery-capacity"
+      ]
     },
     "059": {
       "primary_category": "load-recovery",
-      "dimensions": ["function", "rhythm"],
-      "decision_stages": ["red-flags", "load", "recovery", "review"],
-      "body_regions": ["whole-body"],
+      "dimensions": [
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "load",
+        "recovery",
+        "review"
+      ],
+      "body_regions": [
+        "whole-body"
+      ],
       "movement_tasks": [],
-      "capacities": ["recovery-capacity"]
+      "capacities": [
+        "recovery-capacity"
+      ]
     },
     "060": {
       "primary_category": "evidence-myths",
-      "dimensions": ["function", "rhythm"],
-      "decision_stages": ["red-flags", "foundation", "load", "recovery", "review"],
-      "body_regions": ["whole-body"],
+      "dimensions": [
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "foundation",
+        "load",
+        "recovery",
+        "review"
+      ],
+      "body_regions": [
+        "whole-body"
+      ],
       "movement_tasks": [],
-      "capacities": ["strength", "speed", "power", "cardiorespiratory", "recovery-capacity"]
+      "capacities": [
+        "strength",
+        "speed",
+        "power",
+        "cardiorespiratory",
+        "recovery-capacity"
+      ]
     },
     "061": {
       "primary_category": "evidence-myths",
-      "dimensions": ["function", "rhythm"],
-      "decision_stages": ["red-flags", "foundation", "recovery", "review"],
-      "body_regions": ["whole-body"],
+      "dimensions": [
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "foundation",
+        "recovery",
+        "review"
+      ],
+      "body_regions": [
+        "whole-body"
+      ],
       "movement_tasks": [],
-      "capacities": ["recovery-capacity"]
+      "capacities": [
+        "recovery-capacity"
+      ]
     },
     "062": {
       "primary_category": "method-judgment",
-      "dimensions": ["function", "rhythm"],
-      "decision_stages": ["red-flags", "foundation", "recovery", "review"],
-      "body_regions": ["whole-body"],
+      "dimensions": [
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "foundation",
+        "recovery",
+        "review"
+      ],
+      "body_regions": [
+        "whole-body"
+      ],
       "movement_tasks": [],
-      "capacities": ["recovery-capacity"]
+      "capacities": [
+        "recovery-capacity"
+      ]
     },
     "063": {
       "primary_category": "load-recovery",
-      "dimensions": ["function", "rhythm"],
-      "decision_stages": ["red-flags", "foundation", "load", "recovery", "review"],
-      "body_regions": ["whole-body"],
-      "movement_tasks": ["squat", "push"],
-      "capacities": ["strength", "recovery-capacity"]
+      "dimensions": [
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "foundation",
+        "load",
+        "recovery",
+        "review"
+      ],
+      "body_regions": [
+        "whole-body"
+      ],
+      "movement_tasks": [
+        "squat",
+        "push"
+      ],
+      "capacities": [
+        "strength",
+        "recovery-capacity"
+      ]
     },
     "064": {
       "primary_category": "evidence-myths",
-      "dimensions": ["function", "rhythm"],
-      "decision_stages": ["red-flags", "foundation", "recovery", "review"],
-      "body_regions": ["whole-body"],
+      "dimensions": [
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "foundation",
+        "recovery",
+        "review"
+      ],
+      "body_regions": [
+        "whole-body"
+      ],
       "movement_tasks": [],
-      "capacities": ["recovery-capacity"]
+      "capacities": [
+        "recovery-capacity"
+      ]
     },
     "065": {
       "primary_category": "evidence-myths",
-      "dimensions": ["structure", "function", "rhythm"],
-      "decision_stages": ["red-flags", "breathing", "foundation", "movement", "load", "recovery", "review"],
-      "body_regions": ["core-trunk", "pelvis-hip", "whole-body"],
-      "movement_tasks": ["sit-to-stand", "walking", "carry"],
-      "capacities": ["strength", "stability", "coordination", "recovery-capacity"]
+      "dimensions": [
+        "structure",
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "breathing",
+        "foundation",
+        "movement",
+        "load",
+        "recovery",
+        "review"
+      ],
+      "body_regions": [
+        "core-trunk",
+        "pelvis-hip",
+        "whole-body"
+      ],
+      "movement_tasks": [
+        "sit-to-stand",
+        "walking",
+        "carry"
+      ],
+      "capacities": [
+        "strength",
+        "stability",
+        "coordination",
+        "recovery-capacity"
+      ]
     },
     "066": {
       "primary_category": "evidence-myths",
-      "dimensions": ["structure", "function", "rhythm"],
-      "decision_stages": ["red-flags", "breathing", "foundation", "movement", "load", "recovery", "review"],
-      "body_regions": ["core-trunk", "pelvis-hip"],
-      "movement_tasks": ["push"],
-      "capacities": ["strength", "stability", "coordination", "recovery-capacity"]
+      "dimensions": [
+        "structure",
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "breathing",
+        "foundation",
+        "movement",
+        "load",
+        "recovery",
+        "review"
+      ],
+      "body_regions": [
+        "core-trunk",
+        "pelvis-hip"
+      ],
+      "movement_tasks": [
+        "push"
+      ],
+      "capacities": [
+        "strength",
+        "stability",
+        "coordination",
+        "recovery-capacity"
+      ]
     },
     "067": {
       "primary_category": "long-term-health",
-      "dimensions": ["structure", "function", "rhythm"],
-      "decision_stages": ["red-flags", "breathing", "foundation", "movement", "load", "recovery", "review"],
-      "body_regions": ["core-trunk", "pelvis-hip", "whole-body"],
-      "movement_tasks": ["sit-to-stand", "running", "stairs", "carry"],
-      "capacities": ["strength", "stability", "coordination", "recovery-capacity"]
+      "dimensions": [
+        "structure",
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "breathing",
+        "foundation",
+        "movement",
+        "load",
+        "recovery",
+        "review"
+      ],
+      "body_regions": [
+        "core-trunk",
+        "pelvis-hip",
+        "whole-body"
+      ],
+      "movement_tasks": [
+        "sit-to-stand",
+        "running",
+        "stairs",
+        "carry"
+      ],
+      "capacities": [
+        "strength",
+        "stability",
+        "coordination",
+        "recovery-capacity"
+      ]
     },
     "068": {
       "primary_category": "long-term-health",
-      "dimensions": ["function", "rhythm"],
-      "decision_stages": ["red-flags", "foundation", "load", "recovery", "review"],
-      "body_regions": ["pelvis-hip", "whole-body"],
+      "dimensions": [
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "foundation",
+        "load",
+        "recovery",
+        "review"
+      ],
+      "body_regions": [
+        "pelvis-hip",
+        "whole-body"
+      ],
       "movement_tasks": [],
-      "capacities": ["recovery-capacity"]
+      "capacities": [
+        "recovery-capacity"
+      ]
     },
     "069": {
       "primary_category": "long-term-health",
-      "dimensions": ["function", "rhythm"],
-      "decision_stages": ["red-flags", "foundation", "load", "recovery", "review"],
-      "body_regions": ["pelvis-hip", "whole-body"],
+      "dimensions": [
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "foundation",
+        "load",
+        "recovery",
+        "review"
+      ],
+      "body_regions": [
+        "pelvis-hip",
+        "whole-body"
+      ],
       "movement_tasks": [],
-      "capacities": ["cardiorespiratory", "recovery-capacity"]
+      "capacities": [
+        "cardiorespiratory",
+        "recovery-capacity"
+      ]
     },
     "070": {
       "primary_category": "long-term-health",
-      "dimensions": ["function", "rhythm"],
-      "decision_stages": ["red-flags", "foundation", "load", "recovery", "review"],
-      "body_regions": ["whole-body"],
-      "movement_tasks": ["walking", "stairs", "carry"],
-      "capacities": ["strength", "balance", "cardiorespiratory", "recovery-capacity"]
+      "dimensions": [
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "foundation",
+        "load",
+        "recovery",
+        "review"
+      ],
+      "body_regions": [
+        "whole-body"
+      ],
+      "movement_tasks": [
+        "walking",
+        "stairs",
+        "carry"
+      ],
+      "capacities": [
+        "strength",
+        "balance",
+        "cardiorespiratory",
+        "recovery-capacity"
+      ]
     },
     "071": {
       "primary_category": "evidence-myths",
-      "dimensions": ["structure", "function", "rhythm"],
-      "decision_stages": ["red-flags", "foundation", "movement", "load", "recovery", "review"],
-      "body_regions": ["core-trunk", "pelvis-hip", "knee", "foot-ankle", "whole-body"],
-      "movement_tasks": ["running", "single-leg", "squat", "rotation"],
-      "capacities": ["strength", "stability", "coordination"]
+      "dimensions": [
+        "structure",
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "foundation",
+        "movement",
+        "load",
+        "recovery",
+        "review"
+      ],
+      "body_regions": [
+        "core-trunk",
+        "pelvis-hip",
+        "knee",
+        "foot-ankle",
+        "whole-body"
+      ],
+      "movement_tasks": [
+        "running",
+        "single-leg",
+        "squat",
+        "rotation"
+      ],
+      "capacities": [
+        "strength",
+        "stability",
+        "coordination"
+      ]
     },
     "072": {
       "primary_category": "long-term-health",
-      "dimensions": ["function", "rhythm"],
-      "decision_stages": ["red-flags", "breathing", "foundation", "movement", "load", "recovery", "review"],
-      "body_regions": ["shoulder-upper-limb", "core-trunk", "pelvis-hip", "whole-body"],
-      "movement_tasks": ["sit-to-stand", "walking", "stairs", "push", "carry"],
-      "capacities": ["strength", "balance", "coordination", "cardiorespiratory", "recovery-capacity"]
+      "dimensions": [
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "breathing",
+        "foundation",
+        "movement",
+        "load",
+        "recovery",
+        "review"
+      ],
+      "body_regions": [
+        "shoulder-upper-limb",
+        "core-trunk",
+        "pelvis-hip",
+        "whole-body"
+      ],
+      "movement_tasks": [
+        "sit-to-stand",
+        "walking",
+        "stairs",
+        "push",
+        "carry"
+      ],
+      "capacities": [
+        "strength",
+        "balance",
+        "coordination",
+        "cardiorespiratory",
+        "recovery-capacity"
+      ]
     },
     "073": {
       "primary_category": "long-term-health",
-      "dimensions": ["structure", "function", "rhythm"],
-      "decision_stages": ["red-flags", "foundation", "movement", "load", "recovery", "review"],
-      "body_regions": ["ribcage-spine", "pelvis-hip", "whole-body"],
-      "movement_tasks": ["standing", "sit-to-stand", "walking", "hinge", "carry"],
-      "capacities": ["strength", "stability", "balance", "coordination", "recovery-capacity"]
+      "dimensions": [
+        "structure",
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "foundation",
+        "movement",
+        "load",
+        "recovery",
+        "review"
+      ],
+      "body_regions": [
+        "ribcage-spine",
+        "pelvis-hip",
+        "whole-body"
+      ],
+      "movement_tasks": [
+        "standing",
+        "sit-to-stand",
+        "walking",
+        "hinge",
+        "carry"
+      ],
+      "capacities": [
+        "strength",
+        "stability",
+        "balance",
+        "coordination",
+        "recovery-capacity"
+      ]
     },
     "074": {
-      "primary_category": "method-judgment",
-      "dimensions": ["structure", "function", "rhythm"],
-      "decision_stages": ["red-flags", "review"],
-      "body_regions": ["pelvis-hip", "whole-body"],
-      "movement_tasks": [],
-      "capacities": ["recovery-capacity"]
+      "primary_category": "long-term-health",
+      "dimensions": [
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "load",
+        "recovery",
+        "review"
+      ],
+      "body_regions": [
+        "whole-body"
+      ],
+      "movement_tasks": [
+        "walking"
+      ],
+      "capacities": [
+        "cardiorespiratory",
+        "recovery-capacity"
+      ]
+    },
+    "075": {
+      "primary_category": "long-term-health",
+      "dimensions": [
+        "structure",
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "foundation",
+        "movement",
+        "load",
+        "recovery",
+        "review"
+      ],
+      "body_regions": [
+        "pelvis-hip",
+        "knee",
+        "whole-body"
+      ],
+      "movement_tasks": [
+        "sit-to-stand",
+        "stairs",
+        "carry"
+      ],
+      "capacities": [
+        "strength",
+        "speed",
+        "power",
+        "recovery-capacity"
+      ]
     }
   }
 }
