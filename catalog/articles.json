@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 54,
-  "last_content_date": "2026-10-22",
-  "content_revision": "7d8cdafc13f5f74ecd5b55c22b73f85e07c16ef98508808ad52112d22367d555",
+  "article_count": 55,
+  "last_content_date": "2026-10-23",
+  "content_revision": "786733fab255ce0125d9e47260bac997d05b793f613b4f3ffbb37bf8b39f07d7",
   "articles": [
     {
       "id": 22,
@@ -2623,7 +2623,7 @@
       "platform": "wechat",
       "article_path": "platforms/wechat/articles/20261022_第075篇_50 岁以后，你的肌肉每年流失 1-2%/20261022_第075篇_50 岁以后，你的肌肉每年流失 1-2%.md",
       "summary_path": "platforms/wechat/articles/20261022_第075篇_50 岁以后，你的肌肉每年流失 1-2%/20261022_第075篇_50 岁以后，你的肌肉每年流失 1-2%_公众号摘要.md",
-      "summary": "“每年流失 1-2%”不是每位 50 岁成人的固定倒计时。比腿围更该看力量与生活任务的趋势；规律抗阻、记录恢复，并在活动中断后分级回归，才能真正守住可调用的身体储备。",
+      "summary": "病好了，上楼、起身和提物却迟迟回不到原来，问题常在疾病负担、活动骤减与恢复未完成叠加。先用固定生活任务找回基线，再逐步接回日常活动和抗阻训练，才能避免一次中断变成新的体能台阶。",
       "covers": {
         "16比9": "platforms/wechat/articles/20261022_第075篇_50 岁以后，你的肌肉每年流失 1-2%/20261022_第075篇_50 岁以后，你的肌肉每年流失 1-2%_封面_16比9.jpg",
         "235比100": "platforms/wechat/articles/20261022_第075篇_50 岁以后，你的肌肉每年流失 1-2%/20261022_第075篇_50 岁以后，你的肌肉每年流失 1-2%_封面_235比100.jpg"
@@ -2662,6 +2662,59 @@
           "strength",
           "speed",
           "power",
+          "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 76,
+      "stable_id": "beyond100-076",
+      "series": "超越百岁",
+      "title": "为什么你的父母越来越“走不动”？",
+      "content_date": "2026-10-23",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20261023_第076篇_为什么你的父母越来越“走不动”？/20261023_第076篇_为什么你的父母越来越“走不动”？.md",
+      "summary_path": "platforms/wechat/articles/20261023_第076篇_为什么你的父母越来越“走不动”？/20261023_第076篇_为什么你的父母越来越“走不动”？_公众号摘要.md",
+      "summary": "父母越走越少，未必只是腿没劲；起步、站稳、走远中的任一环节，都可能被力量、平衡、耐力或症状拖住。沿同一条安全路线观察第一个卡点，先排风险，再决定评估与训练方向。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20261023_第076篇_为什么你的父母越来越“走不动”？/20261023_第076篇_为什么你的父母越来越“走不动”？_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20261023_第076篇_为什么你的父母越来越“走不动”？/20261023_第076篇_为什么你的父母越来越“走不动”？_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20261023_第076篇_为什么你的父母越来越“走不动”？/20261023_第076篇_为什么你的父母越来越“走不动”？_插图01_机制·走路是多系统共同输出.jpg",
+        "platforms/wechat/articles/20261023_第076篇_为什么你的父母越来越“走不动”？/20261023_第076篇_为什么你的父母越来越“走不动”？_插图02_对照·三种走不动的卡点.jpg",
+        "platforms/wechat/articles/20261023_第076篇_为什么你的父母越来越“走不动”？/20261023_第076篇_为什么你的父母越来越“走不动”？_插图03_行动·沿同一路线识别卡点.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "long-term-health",
+        "dimensions": [
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "foundation",
+          "movement",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "whole-body"
+        ],
+        "movement_tasks": [
+          "standing",
+          "sit-to-stand",
+          "walking",
+          "single-leg",
+          "rotation"
+        ],
+        "capacities": [
+          "strength",
+          "stability",
+          "balance",
+          "coordination",
+          "cardiorespiratory",
           "recovery-capacity"
         ]
       }

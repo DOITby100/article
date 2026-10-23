@@ -1499,6 +1499,38 @@
         "power",
         "recovery-capacity"
       ]
+    },
+    "076": {
+      "primary_category": "long-term-health",
+      "dimensions": [
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "foundation",
+        "movement",
+        "recovery",
+        "review"
+      ],
+      "body_regions": [
+        "whole-body"
+      ],
+      "movement_tasks": [
+        "standing",
+        "sit-to-stand",
+        "walking",
+        "single-leg",
+        "rotation"
+      ],
+      "capacities": [
+        "strength",
+        "stability",
+        "balance",
+        "coordination",
+        "cardiorespiratory",
+        "recovery-capacity"
+      ]
     }
   }
 }
