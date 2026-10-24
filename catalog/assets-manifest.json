@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "file_count": 413,
-  "content_revision": "786733fab255ce0125d9e47260bac997d05b793f613b4f3ffbb37bf8b39f07d7",
+  "file_count": 420,
+  "content_revision": "bea17a5f6471f0f2f6ace03618e6a821f973fb00e36dca9acd041663e4419e4a",
   "files": [
     {
       "relative_path": "platforms/wechat/articles/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的.md",
@@ -2035,8 +2035,8 @@
     },
     {
       "relative_path": "platforms/wechat/articles/20261023_第076篇_为什么你的父母越来越“走不动”？/20261023_第076篇_为什么你的父母越来越“走不动”？.md",
-      "size_bytes": 4743,
-      "sha256": "772ff2a7ab239b751d026db6dd2b1bc659b9b800470cbd2d2967d151ad76e118"
+      "size_bytes": 4791,
+      "sha256": "ef9581051ce333f63db228c42c0c7b666f98e46ba6ff7bb33021973a34bd2e31"
     },
     {
       "relative_path": "platforms/wechat/articles/20261023_第076篇_为什么你的父母越来越“走不动”？/20261023_第076篇_为什么你的父母越来越“走不动”？_公众号摘要.md",
@@ -2067,6 +2067,41 @@
       "relative_path": "platforms/wechat/articles/20261023_第076篇_为什么你的父母越来越“走不动”？/20261023_第076篇_为什么你的父母越来越“走不动”？_插图03_行动·沿同一路线识别卡点.jpg",
       "size_bytes": 1058019,
       "sha256": "26a22e5cbae599ed36613a7b7b10d2ad3a5a8ba40049b29d7035408e45fd64da"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261024_第077篇_骨质疏松不是“缺钙”那么简单/20261024_第077篇_骨质疏松不是“缺钙”那么简单.md",
+      "size_bytes": 4263,
+      "sha256": "b1b6ab28e5973a86e077865c3fbaadc315daeeba11404440165715155e0d4240"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261024_第077篇_骨质疏松不是“缺钙”那么简单/20261024_第077篇_骨质疏松不是“缺钙”那么简单_公众号摘要.md",
+      "size_bytes": 268,
+      "sha256": "fcf6fd08fcd503c23135e1dce62b9cd6de8cc2de03b6dec7233c3f1c803bc7a5"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261024_第077篇_骨质疏松不是“缺钙”那么简单/20261024_第077篇_骨质疏松不是“缺钙”那么简单_封面_16比9.jpg",
+      "size_bytes": 1621210,
+      "sha256": "78994c26f7cff91bafa2d0feb80996f4f5e5cc068beac36ef5b2bf63e0a70249"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261024_第077篇_骨质疏松不是“缺钙”那么简单/20261024_第077篇_骨质疏松不是“缺钙”那么简单_封面_235比100.jpg",
+      "size_bytes": 2141394,
+      "sha256": "aa1aa75097731461feb67345b7dad306bf215f978e0fe4549a3d3d93bf78a70d"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261024_第077篇_骨质疏松不是“缺钙”那么简单/20261024_第077篇_骨质疏松不是“缺钙”那么简单_插图01_机制·骨折风险的三道防线.jpg",
+      "size_bytes": 1119945,
+      "sha256": "7872af77ab9efacf14cfc60901fcb5326a53db6de479b267f306cd4b60e49ff1"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261024_第077篇_骨质疏松不是“缺钙”那么简单/20261024_第077篇_骨质疏松不是“缺钙”那么简单_插图02_对照·补原料不等于补齐防线.jpg",
+      "size_bytes": 2031894,
+      "sha256": "10823ed809cb61b4a66fff647e131b57717cfbdf85d9b29ea9e72171b67ce3dd"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261024_第077篇_骨质疏松不是“缺钙”那么简单/20261024_第077篇_骨质疏松不是“缺钙”那么简单_插图03_行动·四条线带去专业评估.jpg",
+      "size_bytes": 1234896,
+      "sha256": "2722000efb061912418041055c29cec3407a5f66e55cc4fdb1234e42adb66f75"
     }
   ]
 }

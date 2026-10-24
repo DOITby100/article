@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 55,
-  "last_content_date": "2026-10-23",
-  "content_revision": "786733fab255ce0125d9e47260bac997d05b793f613b4f3ffbb37bf8b39f07d7",
+  "article_count": 56,
+  "last_content_date": "2026-10-24",
+  "content_revision": "bea17a5f6471f0f2f6ace03618e6a821f973fb00e36dca9acd041663e4419e4a",
   "articles": [
     {
       "id": 22,
@@ -2716,6 +2716,52 @@
           "coordination",
           "cardiorespiratory",
           "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 77,
+      "stable_id": "beyond100-077",
+      "series": "超越百岁",
+      "title": "骨质疏松不是“缺钙”那么简单",
+      "content_date": "2026-10-24",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20261024_第077篇_骨质疏松不是“缺钙”那么简单/20261024_第077篇_骨质疏松不是“缺钙”那么简单.md",
+      "summary_path": "platforms/wechat/articles/20261024_第077篇_骨质疏松不是“缺钙”那么简单/20261024_第077篇_骨质疏松不是“缺钙”那么简单_公众号摘要.md",
+      "summary": "骨质疏松不是把钙片吃够就能解决：骨骼强度、跌倒风险、疾病与用药共同决定骨折风险。把骨密度报告、骨折和跌倒经过及全部用药带去评估，才能判断该补营养、接受治疗，还是在专业指导下训练。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20261024_第077篇_骨质疏松不是“缺钙”那么简单/20261024_第077篇_骨质疏松不是“缺钙”那么简单_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20261024_第077篇_骨质疏松不是“缺钙”那么简单/20261024_第077篇_骨质疏松不是“缺钙”那么简单_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20261024_第077篇_骨质疏松不是“缺钙”那么简单/20261024_第077篇_骨质疏松不是“缺钙”那么简单_插图01_机制·骨折风险的三道防线.jpg",
+        "platforms/wechat/articles/20261024_第077篇_骨质疏松不是“缺钙”那么简单/20261024_第077篇_骨质疏松不是“缺钙”那么简单_插图02_对照·补原料不等于补齐防线.jpg",
+        "platforms/wechat/articles/20261024_第077篇_骨质疏松不是“缺钙”那么简单/20261024_第077篇_骨质疏松不是“缺钙”那么简单_插图03_行动·四条线带去专业评估.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "evidence-myths",
+        "dimensions": [
+          "structure",
+          "function"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "foundation",
+          "load",
+          "review"
+        ],
+        "body_regions": [
+          "whole-body"
+        ],
+        "movement_tasks": [
+          "standing",
+          "walking"
+        ],
+        "capacities": [
+          "strength",
+          "stability",
+          "balance"
         ]
       }
     }

@@ -1531,6 +1531,31 @@
         "cardiorespiratory",
         "recovery-capacity"
       ]
+    },
+    "077": {
+      "primary_category": "evidence-myths",
+      "dimensions": [
+        "structure",
+        "function"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "foundation",
+        "load",
+        "review"
+      ],
+      "body_regions": [
+        "whole-body"
+      ],
+      "movement_tasks": [
+        "standing",
+        "walking"
+      ],
+      "capacities": [
+        "strength",
+        "stability",
+        "balance"
+      ]
     }
   }
 }
