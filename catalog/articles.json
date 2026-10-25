@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 56,
-  "last_content_date": "2026-10-24",
-  "content_revision": "bea17a5f6471f0f2f6ace03618e6a821f973fb00e36dca9acd041663e4419e4a",
+  "article_count": 57,
+  "last_content_date": "2026-10-25",
+  "content_revision": "e4dc90dc34c14369fc1a88e617f95ddc8f3553e985dd620de9f905e7125f9bd7",
   "articles": [
     {
       "id": 22,
@@ -2762,6 +2762,63 @@
           "strength",
           "stability",
           "balance"
+        ]
+      }
+    },
+    {
+      "id": 78,
+      "stable_id": "beyond100-078",
+      "series": "超越百岁",
+      "title": "为什么老年人容易跌倒？如何预防？",
+      "content_date": "2026-10-25",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20261025_第078篇_为什么老年人容易跌倒？如何预防？/20261025_第078篇_为什么老年人容易跌倒？如何预防？.md",
+      "summary_path": "platforms/wechat/articles/20261025_第078篇_为什么老年人容易跌倒？如何预防？/20261025_第078篇_为什么老年人容易跌倒？如何预防？_公众号摘要.md",
+      "summary": "老人跌倒往往不是一个障碍或“腿没劲”造成的，而是身体发现偏移、迈步补救和重新站稳的能力没赶上变化。把近乎跌倒的场景带进专业评估，才能让环境改造、医学处理与渐进训练分别对准真正失守的一环。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20261025_第078篇_为什么老年人容易跌倒？如何预防？/20261025_第078篇_为什么老年人容易跌倒？如何预防？_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20261025_第078篇_为什么老年人容易跌倒？如何预防？/20261025_第078篇_为什么老年人容易跌倒？如何预防？_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20261025_第078篇_为什么老年人容易跌倒？如何预防？/20261025_第078篇_为什么老年人容易跌倒？如何预防？_插图01_机制·从发现偏移到重新站稳.jpg",
+        "platforms/wechat/articles/20261025_第078篇_为什么老年人容易跌倒？如何预防？/20261025_第078篇_为什么老年人容易跌倒？如何预防？_插图02_对照·变化叠加与稳定余量.jpg",
+        "platforms/wechat/articles/20261025_第078篇_为什么老年人容易跌倒？如何预防？/20261025_第078篇_为什么老年人容易跌倒？如何预防？_插图03_行动·把近乎跌倒变成评估线索.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "long-term-health",
+        "dimensions": [
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "foundation",
+          "movement",
+          "load",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "foot-ankle",
+          "whole-body"
+        ],
+        "movement_tasks": [
+          "standing",
+          "sit-to-stand",
+          "walking",
+          "stairs",
+          "rotation"
+        ],
+        "capacities": [
+          "strength",
+          "speed",
+          "power",
+          "stability",
+          "balance",
+          "coordination",
+          "proprioception",
+          "recovery-capacity"
         ]
       }
     }

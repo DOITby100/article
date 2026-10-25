@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "file_count": 420,
-  "content_revision": "bea17a5f6471f0f2f6ace03618e6a821f973fb00e36dca9acd041663e4419e4a",
+  "file_count": 427,
+  "content_revision": "e4dc90dc34c14369fc1a88e617f95ddc8f3553e985dd620de9f905e7125f9bd7",
   "files": [
     {
       "relative_path": "platforms/wechat/articles/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的.md",
@@ -2102,6 +2102,41 @@
       "relative_path": "platforms/wechat/articles/20261024_第077篇_骨质疏松不是“缺钙”那么简单/20261024_第077篇_骨质疏松不是“缺钙”那么简单_插图03_行动·四条线带去专业评估.jpg",
       "size_bytes": 1234896,
       "sha256": "2722000efb061912418041055c29cec3407a5f66e55cc4fdb1234e42adb66f75"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261025_第078篇_为什么老年人容易跌倒？如何预防？/20261025_第078篇_为什么老年人容易跌倒？如何预防？.md",
+      "size_bytes": 4781,
+      "sha256": "b7b2c485e8be209a186a22fcbaf45bd6f57b1600fed2a822413010af6f42e984"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261025_第078篇_为什么老年人容易跌倒？如何预防？/20261025_第078篇_为什么老年人容易跌倒？如何预防？_公众号摘要.md",
+      "size_bytes": 280,
+      "sha256": "9be9ec254d1c5437f3d6461ae7c1ccb4cefd52d0f659cf97306ae2889d800d69"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261025_第078篇_为什么老年人容易跌倒？如何预防？/20261025_第078篇_为什么老年人容易跌倒？如何预防？_封面_16比9.jpg",
+      "size_bytes": 1938962,
+      "sha256": "1f9f0da0aec37057554540bd19fe3dbddf14fa51c607a459355eacab2270445a"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261025_第078篇_为什么老年人容易跌倒？如何预防？/20261025_第078篇_为什么老年人容易跌倒？如何预防？_封面_235比100.jpg",
+      "size_bytes": 2728895,
+      "sha256": "7cbee04ad8c73ac92a10168e1ef8b1077cec83893050d20be36ed29f93efed15"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261025_第078篇_为什么老年人容易跌倒？如何预防？/20261025_第078篇_为什么老年人容易跌倒？如何预防？_插图01_机制·从发现偏移到重新站稳.jpg",
+      "size_bytes": 1045376,
+      "sha256": "574e802be4efbd75a1bac3e18ec1a4f99226b52d68c8a40e8c1245b203c09ede"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261025_第078篇_为什么老年人容易跌倒？如何预防？/20261025_第078篇_为什么老年人容易跌倒？如何预防？_插图02_对照·变化叠加与稳定余量.jpg",
+      "size_bytes": 1443786,
+      "sha256": "7e1f1ce5bf7515c91f8dbd09500089bf4879ae78474c13ad1d48d67fc4b5e7b6"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261025_第078篇_为什么老年人容易跌倒？如何预防？/20261025_第078篇_为什么老年人容易跌倒？如何预防？_插图03_行动·把近乎跌倒变成评估线索.jpg",
+      "size_bytes": 1209883,
+      "sha256": "fe4403dacad41c2ff9f908f5315b1ba4e1c4254e94783b410b918e4c3157cf33"
     }
   ]
 }

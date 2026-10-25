@@ -1556,6 +1556,42 @@
         "stability",
         "balance"
       ]
+    },
+    "078": {
+      "primary_category": "long-term-health",
+      "dimensions": [
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "foundation",
+        "movement",
+        "load",
+        "recovery",
+        "review"
+      ],
+      "body_regions": [
+        "foot-ankle",
+        "whole-body"
+      ],
+      "movement_tasks": [
+        "standing",
+        "sit-to-stand",
+        "walking",
+        "stairs",
+        "rotation"
+      ],
+      "capacities": [
+        "strength",
+        "speed",
+        "power",
+        "stability",
+        "balance",
+        "coordination",
+        "proprioception",
+        "recovery-capacity"
+      ]
     }
   }
 }
