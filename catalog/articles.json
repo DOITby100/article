@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 57,
-  "last_content_date": "2026-10-25",
-  "content_revision": "e4dc90dc34c14369fc1a88e617f95ddc8f3553e985dd620de9f905e7125f9bd7",
+  "article_count": 58,
+  "last_content_date": "2026-10-26",
+  "content_revision": "f86f8ae235b7f734e658f6a3410aa83ebaa7f1e19867e763f55af0449b9a9815",
   "articles": [
     {
       "id": 22,
@@ -2818,6 +2818,59 @@
           "balance",
           "coordination",
           "proprioception",
+          "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 79,
+      "stable_id": "beyond100-079",
+      "series": "超越百岁",
+      "title": "退行性关节炎：为什么“省着用”反而更痛？",
+      "content_date": "2026-10-26",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20261026_第079篇_退行性关节炎：为什么“省着用”反而更痛？/20261026_第079篇_退行性关节炎：为什么“省着用”反而更痛？.md",
+      "summary_path": "platforms/wechat/articles/20261026_第079篇_退行性关节炎：为什么“省着用”反而更痛？/20261026_第079篇_退行性关节炎：为什么“省着用”反而更痛？_公众号摘要.md",
+      "summary": "把关节一味“省着用”，可能同时省掉肌力与生活任务耐受，让同样的起身、走路变成更高相对负荷。稳定期真正要做的，是在专业评估后恢复可承受负荷，并用同一生活任务检验功能和恢复是否进步。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20261026_第079篇_退行性关节炎：为什么“省着用”反而更痛？/20261026_第079篇_退行性关节炎：为什么“省着用”反而更痛？_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20261026_第079篇_退行性关节炎：为什么“省着用”反而更痛？/20261026_第079篇_退行性关节炎：为什么“省着用”反而更痛？_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20261026_第079篇_退行性关节炎：为什么“省着用”反而更痛？/20261026_第079篇_退行性关节炎：为什么“省着用”反而更痛？_插图01_结构·整关节与承载系统.jpg",
+        "platforms/wechat/articles/20261026_第079篇_退行性关节炎：为什么“省着用”反而更痛？/20261026_第079篇_退行性关节炎：为什么“省着用”反而更痛？_插图02_对照·少动后的能力缺口.jpg",
+        "platforms/wechat/articles/20261026_第079篇_退行性关节炎：为什么“省着用”反而更痛？/20261026_第079篇_退行性关节炎：为什么“省着用”反而更痛？_插图03_行动·停改进三条通道.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "load-recovery",
+        "dimensions": [
+          "structure",
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "foundation",
+          "movement",
+          "load",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "pelvis-hip",
+          "knee",
+          "whole-body"
+        ],
+        "movement_tasks": [
+          "sit-to-stand",
+          "walking",
+          "stairs"
+        ],
+        "capacities": [
+          "strength",
+          "mobility",
+          "stability",
           "recovery-capacity"
         ]
       }
