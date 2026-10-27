@@ -1624,6 +1624,24 @@
         "stability",
         "recovery-capacity"
       ]
+    },
+    "080": {
+      "primary_category": "method-judgment",
+      "dimensions": [
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "review"
+      ],
+      "body_regions": [
+        "whole-body"
+      ],
+      "movement_tasks": [],
+      "capacities": [
+        "cardiorespiratory"
+      ]
     }
   }
 }

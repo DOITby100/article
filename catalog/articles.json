@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 58,
-  "last_content_date": "2026-10-26",
-  "content_revision": "f86f8ae235b7f734e658f6a3410aa83ebaa7f1e19867e763f55af0449b9a9815",
+  "article_count": 59,
+  "last_content_date": "2026-10-27",
+  "content_revision": "e25ad8770f5eab08a51c2d5beded73c05a6a58144b1d9b74612922984be4f6e8",
   "articles": [
     {
       "id": 22,
@@ -2872,6 +2872,45 @@
           "mobility",
           "stability",
           "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 80,
+      "stable_id": "beyond100-080",
+      "series": "超越百岁",
+      "title": "为什么你的血压总是“忽高忽低”？",
+      "content_date": "2026-10-27",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20261027_第080篇_为什么你的血压总是“忽高忽低”？/20261027_第080篇_为什么你的血压总是“忽高忽低”？.md",
+      "summary_path": "platforms/wechat/articles/20261027_第080篇_为什么你的血压总是“忽高忽低”？/20261027_第080篇_为什么你的血压总是“忽高忽低”？_公众号摘要.md",
+      "summary": "血压不是固定分数，一次升降既可能来自测量条件，也可能是昼夜、情绪与活动反应。真正要分清的是平均水平和反复模式；把规范记录交给医生解释，别追着某次数字自行加药、减药或停药。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20261027_第080篇_为什么你的血压总是“忽高忽低”？/20261027_第080篇_为什么你的血压总是“忽高忽低”？_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20261027_第080篇_为什么你的血压总是“忽高忽低”？/20261027_第080篇_为什么你的血压总是“忽高忽低”？_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20261027_第080篇_为什么你的血压总是“忽高忽低”？/20261027_第080篇_为什么你的血压总是“忽高忽低”？_插图01_机制·血压调节系统.jpg",
+        "platforms/wechat/articles/20261027_第080篇_为什么你的血压总是“忽高忽低”？/20261027_第080篇_为什么你的血压总是“忽高忽低”？_插图02_对照·三种波动来源.jpg",
+        "platforms/wechat/articles/20261027_第080篇_为什么你的血压总是“忽高忽低”？/20261027_第080篇_为什么你的血压总是“忽高忽低”？_插图03_行动·规范记录路径.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "method-judgment",
+        "dimensions": [
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "review"
+        ],
+        "body_regions": [
+          "whole-body"
+        ],
+        "movement_tasks": [],
+        "capacities": [
+          "cardiorespiratory"
         ]
       }
     }
