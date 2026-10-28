@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 59,
-  "last_content_date": "2026-10-27",
-  "content_revision": "e25ad8770f5eab08a51c2d5beded73c05a6a58144b1d9b74612922984be4f6e8",
+  "article_count": 60,
+  "last_content_date": "2026-10-28",
+  "content_revision": "4921b49c2113a92747338325f1582a2162fafaa08e947cf00fceed93447d8f55",
   "articles": [
     {
       "id": 22,
@@ -2885,7 +2885,7 @@
       "platform": "wechat",
       "article_path": "platforms/wechat/articles/20261027_第080篇_为什么你的血压总是“忽高忽低”？/20261027_第080篇_为什么你的血压总是“忽高忽低”？.md",
       "summary_path": "platforms/wechat/articles/20261027_第080篇_为什么你的血压总是“忽高忽低”？/20261027_第080篇_为什么你的血压总是“忽高忽低”？_公众号摘要.md",
-      "summary": "血压不是固定分数，一次升降既可能来自测量条件，也可能是昼夜、情绪与活动反应。真正要分清的是平均水平和反复模式；把规范记录交给医生解释，别追着某次数字自行加药、减药或停药。",
+      "summary": "血压长期偏高，不只是纠偏系统“坏了”，也可能是身体长期按高需求配置资源。药物控制风险之外，先稳定睡眠、把每日总盐降到5克以内，再从10—20分钟中等强度运动开始；只有运动后能平稳回落、次日功能不受影响，才逐步加量。",
       "covers": {
         "16比9": "platforms/wechat/articles/20261027_第080篇_为什么你的血压总是“忽高忽低”？/20261027_第080篇_为什么你的血压总是“忽高忽低”？_封面_16比9.jpg",
         "235比100": "platforms/wechat/articles/20261027_第080篇_为什么你的血压总是“忽高忽低”？/20261027_第080篇_为什么你的血压总是“忽高忽低”？_封面_235比100.jpg"
@@ -2911,6 +2911,54 @@
         "movement_tasks": [],
         "capacities": [
           "cardiorespiratory"
+        ]
+      }
+    },
+    {
+      "id": 81,
+      "stable_id": "beyond100-081",
+      "series": "超越百岁",
+      "title": "糖尿病不可怕，可怕的是你不知道怎么“动”",
+      "content_date": "2026-10-28",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20261028_第081篇_糖尿病不可怕，可怕的是你不知道怎么“动”/20261028_第081篇_糖尿病不可怕，可怕的是你不知道怎么“动”.md",
+      "summary_path": "platforms/wechat/articles/20261028_第081篇_糖尿病不可怕，可怕的是你不知道怎么“动”/20261028_第081篇_糖尿病不可怕，可怕的是你不知道怎么“动”_公众号摘要.md",
+      "summary": "运动不是一次“消糖”，餐后轻活动、打断久坐与规律有氧加抗阻处理的是不同时间尺度。先按用药和并发症定安全边界，再把血糖反应与能否安全重复一起复盘，才知道怎么组合。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20261028_第081篇_糖尿病不可怕，可怕的是你不知道怎么“动”/20261028_第081篇_糖尿病不可怕，可怕的是你不知道怎么“动”_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20261028_第081篇_糖尿病不可怕，可怕的是你不知道怎么“动”/20261028_第081篇_糖尿病不可怕，可怕的是你不知道怎么“动”_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20261028_第081篇_糖尿病不可怕，可怕的是你不知道怎么“动”/20261028_第081篇_糖尿病不可怕，可怕的是你不知道怎么“动”_插图01_机制·肌肉用糖双通道.jpg",
+        "platforms/wechat/articles/20261028_第081篇_糖尿病不可怕，可怕的是你不知道怎么“动”/20261028_第081篇_糖尿病不可怕，可怕的是你不知道怎么“动”_插图02_对照·三种动的时间尺度.jpg",
+        "platforms/wechat/articles/20261028_第081篇_糖尿病不可怕，可怕的是你不知道怎么“动”/20261028_第081篇_糖尿病不可怕，可怕的是你不知道怎么“动”_插图03_行动·安全组合处方.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "long-term-health",
+        "dimensions": [
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "movement",
+          "load",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "foot-ankle",
+          "whole-body"
+        ],
+        "movement_tasks": [
+          "standing",
+          "walking"
+        ],
+        "capacities": [
+          "strength",
+          "cardiorespiratory",
+          "recovery-capacity"
         ]
       }
     }
