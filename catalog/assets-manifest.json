@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "file_count": 448,
-  "content_revision": "4921b49c2113a92747338325f1582a2162fafaa08e947cf00fceed93447d8f55",
+  "file_count": 455,
+  "content_revision": "fc7ef5b3900b2fce9f261463efda9d1de40ce56dc34fc82fcb9b5bee3974d5a3",
   "files": [
     {
       "relative_path": "platforms/wechat/articles/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的.md",
@@ -2210,13 +2210,13 @@
     },
     {
       "relative_path": "platforms/wechat/articles/20261028_第081篇_糖尿病不可怕，可怕的是你不知道怎么“动”/20261028_第081篇_糖尿病不可怕，可怕的是你不知道怎么“动”.md",
-      "size_bytes": 4610,
-      "sha256": "b790babd29095da743416bdcb40c30163b44f8cce312652cba8e28072f45c689"
+      "size_bytes": 5280,
+      "sha256": "aab025d660bb83edc7c5e6ca96067fa4f86840b54a006cecc28bb4eeb3ca96c7"
     },
     {
       "relative_path": "platforms/wechat/articles/20261028_第081篇_糖尿病不可怕，可怕的是你不知道怎么“动”/20261028_第081篇_糖尿病不可怕，可怕的是你不知道怎么“动”_公众号摘要.md",
-      "size_bytes": 241,
-      "sha256": "a501d4fe6c61650113642b51a854b2ab64e60fc686c061ded6bf9fac2ff9ff68"
+      "size_bytes": 281,
+      "sha256": "d6be1b1ccbc559b2914718232ce0f14e2e778903ac190e9e5b982c468018d065"
     },
     {
       "relative_path": "platforms/wechat/articles/20261028_第081篇_糖尿病不可怕，可怕的是你不知道怎么“动”/20261028_第081篇_糖尿病不可怕，可怕的是你不知道怎么“动”_封面_16比9.jpg",
@@ -2242,6 +2242,41 @@
       "relative_path": "platforms/wechat/articles/20261028_第081篇_糖尿病不可怕，可怕的是你不知道怎么“动”/20261028_第081篇_糖尿病不可怕，可怕的是你不知道怎么“动”_插图03_行动·安全组合处方.jpg",
       "size_bytes": 1667329,
       "sha256": "0ae6b209a4c69dded6db46d4ac1b3b3ff5ff5d6609b55fe898cbee1d55802132"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261029_第082篇_为什么医生说你“代谢综合征”？这是什么病？/20261029_第082篇_为什么医生说你“代谢综合征”？这是什么病？.md",
+      "size_bytes": 4788,
+      "sha256": "0cf9f50b627030dff7024e9306e5d0fe12c1520efce0b2dca981c6098d7db811"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261029_第082篇_为什么医生说你“代谢综合征”？这是什么病？/20261029_第082篇_为什么医生说你“代谢综合征”？这是什么病？_公众号摘要.md",
+      "size_bytes": 262,
+      "sha256": "b0d9b7089f3087509082e698668ebc8a47f30d85988a362d380d183fcc316e24"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261029_第082篇_为什么医生说你“代谢综合征”？这是什么病？/20261029_第082篇_为什么医生说你“代谢综合征”？这是什么病？_封面_16比9.jpg",
+      "size_bytes": 1455241,
+      "sha256": "5802026e84edc1002d486ef7f919ee3e256254f79e71473947ce7107d69b7ce6"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261029_第082篇_为什么医生说你“代谢综合征”？这是什么病？/20261029_第082篇_为什么医生说你“代谢综合征”？这是什么病？_封面_235比100.jpg",
+      "size_bytes": 1967433,
+      "sha256": "a601dd654a54c6296f4dadfed065c9a084769af13a7deb3b4997455b89f2144b"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261029_第082篇_为什么医生说你“代谢综合征”？这是什么病？/20261029_第082篇_为什么医生说你“代谢综合征”？这是什么病？_插图01_概念·多项风险聚集.jpg",
+      "size_bytes": 1527915,
+      "sha256": "ae264e7eb267720fd0a0b984ec632524f5801d4e0d7199666773b24db94f3024"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261029_第082篇_为什么医生说你“代谢综合征”？这是什么病？/20261029_第082篇_为什么医生说你“代谢综合征”？这是什么病？_插图02_机制·共同驱动多线异常.jpg",
+      "size_bytes": 1865615,
+      "sha256": "703b3aa5608a8a38ae498bfd6d4f1923e8b9deeb3086f1d215fbec7e3bc92586"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261029_第082篇_为什么医生说你“代谢综合征”？这是什么病？/20261029_第082篇_为什么医生说你“代谢综合征”？这是什么病？_插图03_行动·整体风险管理路径.jpg",
+      "size_bytes": 1242390,
+      "sha256": "ed7907ae715d260e82543038d1a91cdda80a6f1d2f945d58433bf559f44372c8"
     }
   ]
 }

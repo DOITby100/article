@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 60,
-  "last_content_date": "2026-10-28",
-  "content_revision": "4921b49c2113a92747338325f1582a2162fafaa08e947cf00fceed93447d8f55",
+  "article_count": 61,
+  "last_content_date": "2026-10-29",
+  "content_revision": "fc7ef5b3900b2fce9f261463efda9d1de40ce56dc34fc82fcb9b5bee3974d5a3",
   "articles": [
     {
       "id": 22,
@@ -2924,7 +2924,7 @@
       "platform": "wechat",
       "article_path": "platforms/wechat/articles/20261028_第081篇_糖尿病不可怕，可怕的是你不知道怎么“动”/20261028_第081篇_糖尿病不可怕，可怕的是你不知道怎么“动”.md",
       "summary_path": "platforms/wechat/articles/20261028_第081篇_糖尿病不可怕，可怕的是你不知道怎么“动”/20261028_第081篇_糖尿病不可怕，可怕的是你不知道怎么“动”_公众号摘要.md",
-      "summary": "运动不是一次“消糖”，餐后轻活动、打断久坐与规律有氧加抗阻处理的是不同时间尺度。先按用药和并发症定安全边界，再把血糖反应与能否安全重复一起复盘，才知道怎么组合。",
+      "summary": "胰岛素就像一把帮葡萄糖进入细胞的钥匙：1型是身体几乎没有这把钥匙，2型是细胞对钥匙反应变差。两类人都能运动，但1型要把胰岛素、吃饭和血糖监测一起安排；本文的组合方法主要写给病情稳定的2型成人。",
       "covers": {
         "16比9": "platforms/wechat/articles/20261028_第081篇_糖尿病不可怕，可怕的是你不知道怎么“动”/20261028_第081篇_糖尿病不可怕，可怕的是你不知道怎么“动”_封面_16比9.jpg",
         "235比100": "platforms/wechat/articles/20261028_第081篇_糖尿病不可怕，可怕的是你不知道怎么“动”/20261028_第081篇_糖尿病不可怕，可怕的是你不知道怎么“动”_封面_235比100.jpg"
@@ -2957,6 +2957,52 @@
         ],
         "capacities": [
           "strength",
+          "cardiorespiratory",
+          "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 82,
+      "stable_id": "beyond100-082",
+      "series": "超越百岁",
+      "title": "为什么医生说你“代谢综合征”？这是什么病？",
+      "content_date": "2026-10-29",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20261029_第082篇_为什么医生说你“代谢综合征”？这是什么病？/20261029_第082篇_为什么医生说你“代谢综合征”？这是什么病？.md",
+      "summary_path": "platforms/wechat/articles/20261029_第082篇_为什么医生说你“代谢综合征”？这是什么病？/20261029_第082篇_为什么医生说你“代谢综合征”？这是什么病？_公众号摘要.md",
+      "summary": "代谢综合征不是一个器官的新病，而是腰围、血压、血糖和血脂异常成组出现的风险标签。分清哪些指标持续异常、为何聚集，再由医疗与运动专业人员共同安排整体管理，才不会只追一张化验单。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20261029_第082篇_为什么医生说你“代谢综合征”？这是什么病？/20261029_第082篇_为什么医生说你“代谢综合征”？这是什么病？_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20261029_第082篇_为什么医生说你“代谢综合征”？这是什么病？/20261029_第082篇_为什么医生说你“代谢综合征”？这是什么病？_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20261029_第082篇_为什么医生说你“代谢综合征”？这是什么病？/20261029_第082篇_为什么医生说你“代谢综合征”？这是什么病？_插图01_概念·多项风险聚集.jpg",
+        "platforms/wechat/articles/20261029_第082篇_为什么医生说你“代谢综合征”？这是什么病？/20261029_第082篇_为什么医生说你“代谢综合征”？这是什么病？_插图02_机制·共同驱动多线异常.jpg",
+        "platforms/wechat/articles/20261029_第082篇_为什么医生说你“代谢综合征”？这是什么病？/20261029_第082篇_为什么医生说你“代谢综合征”？这是什么病？_插图03_行动·整体风险管理路径.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "method-judgment",
+        "dimensions": [
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "foundation",
+          "movement",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "whole-body"
+        ],
+        "movement_tasks": [
+          "walking",
+          "stairs"
+        ],
+        "capacities": [
           "cardiorespiratory",
           "recovery-capacity"
         ]
