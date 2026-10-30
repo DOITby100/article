@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 61,
-  "last_content_date": "2026-10-29",
-  "content_revision": "fc7ef5b3900b2fce9f261463efda9d1de40ce56dc34fc82fcb9b5bee3974d5a3",
+  "article_count": 62,
+  "last_content_date": "2026-10-30",
+  "content_revision": "3a1f1d8a15336657c1ba2209c2fcc5eaa39bfda0fa28f78c0b537992ddde0cc8",
   "articles": [
     {
       "id": 22,
@@ -2924,7 +2924,7 @@
       "platform": "wechat",
       "article_path": "platforms/wechat/articles/20261028_第081篇_糖尿病不可怕，可怕的是你不知道怎么“动”/20261028_第081篇_糖尿病不可怕，可怕的是你不知道怎么“动”.md",
       "summary_path": "platforms/wechat/articles/20261028_第081篇_糖尿病不可怕，可怕的是你不知道怎么“动”/20261028_第081篇_糖尿病不可怕，可怕的是你不知道怎么“动”_公众号摘要.md",
-      "summary": "胰岛素就像一把帮葡萄糖进入细胞的钥匙：1型是身体几乎没有这把钥匙，2型是细胞对钥匙反应变差。两类人都能运动，但1型要把胰岛素、吃饭和血糖监测一起安排；本文的组合方法主要写给病情稳定的2型成人。",
+      "summary": "糖尿病运动不只是选快走还是力量训练，还要分清哪些能自己开始、哪些需要专业判断。多数稳定2型成人可从打断久坐和餐后轻走起步；药物与并发症由医疗团队把关，动作、强度和加量由懂糖尿病训练的人根据反应调整。",
       "covers": {
         "16比9": "platforms/wechat/articles/20261028_第081篇_糖尿病不可怕，可怕的是你不知道怎么“动”/20261028_第081篇_糖尿病不可怕，可怕的是你不知道怎么“动”_封面_16比9.jpg",
         "235比100": "platforms/wechat/articles/20261028_第081篇_糖尿病不可怕，可怕的是你不知道怎么“动”/20261028_第081篇_糖尿病不可怕，可怕的是你不知道怎么“动”_封面_235比100.jpg"
@@ -3005,6 +3005,53 @@
         "capacities": [
           "cardiorespiratory",
           "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 83,
+      "stable_id": "beyond100-083",
+      "series": "超越百岁",
+      "title": "认知功能下降：运动可能是最好的“药”",
+      "content_date": "2026-10-30",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20261030_第083篇_认知功能下降：运动可能是最好的“药”/20261030_第083篇_认知功能下降：运动可能是最好的“药”.md",
+      "summary_path": "platforms/wechat/articles/20261030_第083篇_认知功能下降：运动可能是最好的“药”/20261030_第083篇_认知功能下降：运动可能是最好的“药”_公众号摘要.md",
+      "summary": "“认知下降”不是一次忘事，也不能靠一堂运动课验证。运动能支持血管、代谢、力量和平衡，却不替代诊断；先分清持续下降与急性变化，再在医疗许可内组合训练。最终看日常功能和统一复测，不看短暂的“头脑清醒”。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20261030_第083篇_认知功能下降：运动可能是最好的“药”/20261030_第083篇_认知功能下降：运动可能是最好的“药”_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20261030_第083篇_认知功能下降：运动可能是最好的“药”/20261030_第083篇_认知功能下降：运动可能是最好的“药”_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20261030_第083篇_认知功能下降：运动可能是最好的“药”/20261030_第083篇_认知功能下降：运动可能是最好的“药”_插图01_概念·三类认知变化.jpg",
+        "platforms/wechat/articles/20261030_第083篇_认知功能下降：运动可能是最好的“药”/20261030_第083篇_认知功能下降：运动可能是最好的“药”_插图02_机制·身体活动支持认知.jpg",
+        "platforms/wechat/articles/20261030_第083篇_认知功能下降：运动可能是最好的“药”/20261030_第083篇_认知功能下降：运动可能是最好的“药”_插图03_行动·诊断训练复测三道门.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "long-term-health",
+        "dimensions": [
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "movement",
+          "load",
+          "review"
+        ],
+        "body_regions": [
+          "whole-body"
+        ],
+        "movement_tasks": [
+          "sit-to-stand",
+          "walking"
+        ],
+        "capacities": [
+          "strength",
+          "balance",
+          "coordination",
+          "cardiorespiratory"
         ]
       }
     }

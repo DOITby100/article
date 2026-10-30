@@ -1694,6 +1694,32 @@
         "cardiorespiratory",
         "recovery-capacity"
       ]
+    },
+    "083": {
+      "primary_category": "long-term-health",
+      "dimensions": [
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "movement",
+        "load",
+        "review"
+      ],
+      "body_regions": [
+        "whole-body"
+      ],
+      "movement_tasks": [
+        "sit-to-stand",
+        "walking"
+      ],
+      "capacities": [
+        "strength",
+        "balance",
+        "coordination",
+        "cardiorespiratory"
+      ]
     }
   }
 }
