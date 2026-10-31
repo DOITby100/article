@@ -1720,6 +1720,33 @@
         "coordination",
         "cardiorespiratory"
       ]
+    },
+    "084": {
+      "primary_category": "evidence-myths",
+      "dimensions": [
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "movement",
+        "load",
+        "recovery",
+        "review"
+      ],
+      "body_regions": [
+        "ribcage-spine",
+        "foot-ankle",
+        "whole-body"
+      ],
+      "movement_tasks": [
+        "standing",
+        "walking",
+        "carry"
+      ],
+      "capacities": [
+        "recovery-capacity"
+      ]
     }
   }
 }

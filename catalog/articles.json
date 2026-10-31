@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 62,
-  "last_content_date": "2026-10-30",
-  "content_revision": "3a1f1d8a15336657c1ba2209c2fcc5eaa39bfda0fa28f78c0b537992ddde0cc8",
+  "article_count": 63,
+  "last_content_date": "2026-10-31",
+  "content_revision": "844ebc0da66bd9af99b2f2e53407039de12663b9b539b7620e3c801d5b452149",
   "articles": [
     {
       "id": 22,
@@ -3018,7 +3018,7 @@
       "platform": "wechat",
       "article_path": "platforms/wechat/articles/20261030_第083篇_认知功能下降：运动可能是最好的“药”/20261030_第083篇_认知功能下降：运动可能是最好的“药”.md",
       "summary_path": "platforms/wechat/articles/20261030_第083篇_认知功能下降：运动可能是最好的“药”/20261030_第083篇_认知功能下降：运动可能是最好的“药”_公众号摘要.md",
-      "summary": "“认知下降”不是一次忘事，也不能靠一堂运动课验证。运动能支持血管、代谢、力量和平衡，却不替代诊断；先分清持续下降与急性变化，再在医疗许可内组合训练。最终看日常功能和统一复测，不看短暂的“头脑清醒”。",
+      "summary": "预防“老痴”，运动不是保证书，而是降低风险的一环。越早把活动和血压血糖、听力、睡眠、社交一起管理，越有价值。若已迷路、不会付款或突然意识混乱，先就医，不要只加运动量。",
       "covers": {
         "16比9": "platforms/wechat/articles/20261030_第083篇_认知功能下降：运动可能是最好的“药”/20261030_第083篇_认知功能下降：运动可能是最好的“药”_封面_16比9.jpg",
         "235比100": "platforms/wechat/articles/20261030_第083篇_认知功能下降：运动可能是最好的“药”/20261030_第083篇_认知功能下降：运动可能是最好的“药”_封面_235比100.jpg"
@@ -3052,6 +3052,54 @@
           "balance",
           "coordination",
           "cardiorespiratory"
+        ]
+      }
+    },
+    {
+      "id": 84,
+      "stable_id": "beyond100-084",
+      "series": "超越百岁",
+      "title": "为什么你总是“腰酸背痛腿抽筋”？",
+      "content_date": "2026-10-31",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20261031_第084篇_为什么你总是“腰酸背痛腿抽筋”？/20261031_第084篇_为什么你总是“腰酸背痛腿抽筋”？.md",
+      "summary_path": "platforms/wechat/articles/20261031_第084篇_为什么你总是“腰酸背痛腿抽筋”？/20261031_第084篇_为什么你总是“腰酸背痛腿抽筋”？_公众号摘要.md",
+      "summary": "腰酸、背痛和腿抽筋同一阵子出现，不等于缺同一种营养。先按负荷后酸痛、突然不自主收缩和伴随的麻木无力分流，再决定减量活动、轻柔拉伸补液，还是尽快就医。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20261031_第084篇_为什么你总是“腰酸背痛腿抽筋”？/20261031_第084篇_为什么你总是“腰酸背痛腿抽筋”？_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20261031_第084篇_为什么你总是“腰酸背痛腿抽筋”？/20261031_第084篇_为什么你总是“腰酸背痛腿抽筋”？_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20261031_第084篇_为什么你总是“腰酸背痛腿抽筋”？/20261031_第084篇_为什么你总是“腰酸背痛腿抽筋”？_插图01_概念·酸痛与抽筋分流.jpg",
+        "platforms/wechat/articles/20261031_第084篇_为什么你总是“腰酸背痛腿抽筋”？/20261031_第084篇_为什么你总是“腰酸背痛腿抽筋”？_插图02_机制·共同背景不同路径.jpg",
+        "platforms/wechat/articles/20261031_第084篇_为什么你总是“腰酸背痛腿抽筋”？/20261031_第084篇_为什么你总是“腰酸背痛腿抽筋”？_插图03_行动·酸痛与抽筋两条路.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "evidence-myths",
+        "dimensions": [
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "movement",
+          "load",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "ribcage-spine",
+          "foot-ankle",
+          "whole-body"
+        ],
+        "movement_tasks": [
+          "standing",
+          "walking",
+          "carry"
+        ],
+        "capacities": [
+          "recovery-capacity"
         ]
       }
     }
