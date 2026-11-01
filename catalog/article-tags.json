@@ -1747,6 +1747,37 @@
       "capacities": [
         "recovery-capacity"
       ]
+    },
+    "085": {
+      "primary_category": "method-judgment",
+      "dimensions": [
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "breathing",
+        "movement",
+        "recovery",
+        "review"
+      ],
+      "body_regions": [
+        "head-neck",
+        "shoulder-upper-limb",
+        "ribcage-spine",
+        "whole-body"
+      ],
+      "movement_tasks": [
+        "standing",
+        "sit-to-stand",
+        "overhead",
+        "rotation"
+      ],
+      "capacities": [
+        "mobility",
+        "stability",
+        "recovery-capacity"
+      ]
     }
   }
 }

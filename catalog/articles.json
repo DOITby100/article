@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 63,
-  "last_content_date": "2026-10-31",
-  "content_revision": "844ebc0da66bd9af99b2f2e53407039de12663b9b539b7620e3c801d5b452149",
+  "article_count": 64,
+  "last_content_date": "2026-11-01",
+  "content_revision": "5b43fcdd04e705d17a5e95df588befb44d37bb6ca0f6755494907071511f9704",
   "articles": [
     {
       "id": 22,
@@ -3099,6 +3099,58 @@
           "carry"
         ],
         "capacities": [
+          "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 85,
+      "stable_id": "beyond100-085",
+      "series": "超越百岁",
+      "title": "为什么你越焦虑，身体越僵硬？",
+      "content_date": "2026-11-01",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20261101_第085篇_为什么你越焦虑，身体越僵硬？/20261101_第085篇_为什么你越焦虑，身体越僵硬？.md",
+      "summary_path": "platforms/wechat/articles/20261101_第085篇_为什么你越焦虑，身体越僵硬？/20261101_第085篇_为什么你越焦虑，身体越僵硬？_公众号摘要.md",
+      "summary": "肩颈发硬不一定意味着肌肉变短，警戒升高时，关节周围的保护性用力可能同时增加。用同一个低风险动作比较呼吸调整前后的顺畅度，能看见状态成分；固定加重或伴麻木无力等变化，则应及时就医。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20261101_第085篇_为什么你越焦虑，身体越僵硬？/20261101_第085篇_为什么你越焦虑，身体越僵硬？_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20261101_第085篇_为什么你越焦虑，身体越僵硬？/20261101_第085篇_为什么你越焦虑，身体越僵硬？_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20261101_第085篇_为什么你越焦虑，身体越僵硬？/20261101_第085篇_为什么你越焦虑，身体越僵硬？_插图01_概念·自由活动与保护性用力.jpg",
+        "platforms/wechat/articles/20261101_第085篇_为什么你越焦虑，身体越僵硬？/20261101_第085篇_为什么你越焦虑，身体越僵硬？_插图02_机制·焦虑与僵硬循环.jpg",
+        "platforms/wechat/articles/20261101_第085篇_为什么你越焦虑，身体越僵硬？/20261101_第085篇_为什么你越焦虑，身体越僵硬？_插图03_行动·同一动作前后比较.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "method-judgment",
+        "dimensions": [
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "breathing",
+          "movement",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "head-neck",
+          "shoulder-upper-limb",
+          "ribcage-spine",
+          "whole-body"
+        ],
+        "movement_tasks": [
+          "standing",
+          "sit-to-stand",
+          "overhead",
+          "rotation"
+        ],
+        "capacities": [
+          "mobility",
+          "stability",
           "recovery-capacity"
         ]
       }
