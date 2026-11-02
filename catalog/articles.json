@@ -3,7 +3,7 @@
   "series": "超越百岁",
   "article_count": 65,
   "last_content_date": "2026-11-02",
-  "content_revision": "6e997489f481cbf30cb2513c56113cd282a3a7348393c99add08fd706b08e2cc",
+  "content_revision": "6ff255b8f84799f4c472ceeaa12664e5e468c3f4ba0c040af1cd1990c4941c19",
   "articles": [
     {
       "id": 22,
@@ -3113,7 +3113,7 @@
       "platform": "wechat",
       "article_path": "platforms/wechat/articles/20261101_第085篇_为什么你越焦虑，身体越僵硬？/20261101_第085篇_为什么你越焦虑，身体越僵硬？.md",
       "summary_path": "platforms/wechat/articles/20261101_第085篇_为什么你越焦虑，身体越僵硬？/20261101_第085篇_为什么你越焦虑，身体越僵硬？_公众号摘要.md",
-      "summary": "肩颈发硬不一定意味着肌肉变短，警戒升高时，关节周围的保护性用力可能同时增加。用同一个低风险动作比较呼吸调整前后的顺畅度，能看见状态成分；固定加重或伴麻木无力等变化，则应及时就医。",
+      "summary": "无意识憋气和肩颈紧绷，不一定是谁导致谁，它们可能是高负荷任务中同时出现的“稳住”策略。用同一项工作比较提醒前后的呼吸与用力，能看见状态成分；胸痛、明显气短、晕厥或睡眠呼吸异常则应及时就医。",
       "covers": {
         "16比9": "platforms/wechat/articles/20261101_第085篇_为什么你越焦虑，身体越僵硬？/20261101_第085篇_为什么你越焦虑，身体越僵硬？_封面_16比9.jpg",
         "235比100": "platforms/wechat/articles/20261101_第085篇_为什么你越焦虑，身体越僵硬？/20261101_第085篇_为什么你越焦虑，身体越僵硬？_封面_235比100.jpg"
@@ -3143,13 +3143,9 @@
           "whole-body"
         ],
         "movement_tasks": [
-          "standing",
-          "sit-to-stand",
-          "overhead",
           "rotation"
         ],
         "capacities": [
-          "mobility",
           "stability",
           "recovery-capacity"
         ]

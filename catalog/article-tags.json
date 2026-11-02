@@ -1768,13 +1768,9 @@
         "whole-body"
       ],
       "movement_tasks": [
-        "standing",
-        "sit-to-stand",
-        "overhead",
         "rotation"
       ],
       "capacities": [
-        "mobility",
         "stability",
         "recovery-capacity"
         ]
