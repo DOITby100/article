@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "file_count": 476,
-  "content_revision": "5b43fcdd04e705d17a5e95df588befb44d37bb6ca0f6755494907071511f9704",
+  "file_count": 483,
+  "content_revision": "6e997489f481cbf30cb2513c56113cd282a3a7348393c99add08fd706b08e2cc",
   "files": [
     {
       "relative_path": "platforms/wechat/articles/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的.md",
@@ -2382,6 +2382,41 @@
       "relative_path": "platforms/wechat/articles/20261101_第085篇_为什么你越焦虑，身体越僵硬？/20261101_第085篇_为什么你越焦虑，身体越僵硬？_插图03_行动·同一动作前后比较.jpg",
       "size_bytes": 1502089,
       "sha256": "b220ff306070090c1f2c3279951adbcfe997933e55d6c545bcf931cdae6b0881"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261102_第086篇_慢性疼痛的真相：你的大脑可能“记住”了疼痛/20261102_第086篇_慢性疼痛的真相：你的大脑可能“记住”了疼痛.md",
+      "size_bytes": 4209,
+      "sha256": "0382319c8347e2145e2dceb792e5fa55cbdf1c523617f18c9387cec6ef9c0219"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261102_第086篇_慢性疼痛的真相：你的大脑可能“记住”了疼痛/20261102_第086篇_慢性疼痛的真相：你的大脑可能“记住”了疼痛_公众号摘要.md",
+      "size_bytes": 238,
+      "sha256": "4657ff87da7213ebf6eaa9f79ec26251acced28a999f23441f7d92854b49a9d9"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261102_第086篇_慢性疼痛的真相：你的大脑可能“记住”了疼痛/20261102_第086篇_慢性疼痛的真相：你的大脑可能“记住”了疼痛_封面_16比9.jpg",
+      "size_bytes": 1717102,
+      "sha256": "4faf25a81cd94a1100a4325d846795649819c560018991f1cd6693b21efb8fc0"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261102_第086篇_慢性疼痛的真相：你的大脑可能“记住”了疼痛/20261102_第086篇_慢性疼痛的真相：你的大脑可能“记住”了疼痛_封面_235比100.jpg",
+      "size_bytes": 2396220,
+      "sha256": "f941eda721d42b98565de88aa9cc2ea850ff86ea854ba1b43397df44182dc4fb"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261102_第086篇_慢性疼痛的真相：你的大脑可能“记住”了疼痛/20261102_第086篇_慢性疼痛的真相：你的大脑可能“记住”了疼痛_插图01_概念·警报与损伤读数.jpg",
+      "size_bytes": 1369597,
+      "sha256": "17e6d238889e9d236e027747474f442b5d0d7cf10b08959464fcca9857136cf0"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261102_第086篇_慢性疼痛的真相：你的大脑可能“记住”了疼痛/20261102_第086篇_慢性疼痛的真相：你的大脑可能“记住”了疼痛_插图02_机制·三条疼痛路径.jpg",
+      "size_bytes": 1584734,
+      "sha256": "0e6059c6d77372697b932a9f3cc8d87f26ff689e215b4e190cc8eacef32b2aef"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261102_第086篇_慢性疼痛的真相：你的大脑可能“记住”了疼痛/20261102_第086篇_慢性疼痛的真相：你的大脑可能“记住”了疼痛_插图03_行动·功能阶梯.jpg",
+      "size_bytes": 1489539,
+      "sha256": "a6a0f8f36c996ad5d0650bf38eb232848c599a98d5f8595957b400302c17ac65"
     }
   ]
 }

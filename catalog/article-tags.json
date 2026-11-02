@@ -1748,7 +1748,7 @@
         "recovery-capacity"
       ]
     },
-    "085": {
+      "085": {
       "primary_category": "method-judgment",
       "dimensions": [
         "function",
@@ -1777,7 +1777,31 @@
         "mobility",
         "stability",
         "recovery-capacity"
-      ]
+        ]
+      },
+      "086": {
+        "primary_category": "evidence-myths",
+        "dimensions": [
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "movement",
+          "load",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "whole-body"
+        ],
+        "movement_tasks": [
+          "walking",
+          "stairs"
+        ],
+        "capacities": [
+          "recovery-capacity"
+        ]
     }
   }
 }
