@@ -1775,7 +1775,7 @@
         "recovery-capacity"
         ]
       },
-      "086": {
+    "086": {
         "primary_category": "evidence-myths",
         "dimensions": [
           "function",
@@ -1798,6 +1798,30 @@
         "capacities": [
           "recovery-capacity"
         ]
+    },
+    "087": {
+      "primary_category": "evidence-myths",
+      "dimensions": [
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "movement",
+        "load",
+        "recovery",
+        "review"
+      ],
+      "body_regions": [
+        "whole-body"
+      ],
+      "movement_tasks": [
+        "walking"
+      ],
+      "capacities": [
+        "cardiorespiratory",
+        "recovery-capacity"
+      ]
     }
   }
 }

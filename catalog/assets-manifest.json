@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "file_count": 483,
-  "content_revision": "6ff255b8f84799f4c472ceeaa12664e5e468c3f4ba0c040af1cd1990c4941c19",
+  "file_count": 490,
+  "content_revision": "fc4c4e4b6fc8b3551f8490cd3379cdb40af09b113630ef80de98f3a95b6f6fbd",
   "files": [
     {
       "relative_path": "platforms/wechat/articles/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的.md",
@@ -2417,6 +2417,41 @@
       "relative_path": "platforms/wechat/articles/20261102_第086篇_慢性疼痛的真相：你的大脑可能“记住”了疼痛/20261102_第086篇_慢性疼痛的真相：你的大脑可能“记住”了疼痛_插图03_行动·功能阶梯.jpg",
       "size_bytes": 1489539,
       "sha256": "a6a0f8f36c996ad5d0650bf38eb232848c599a98d5f8595957b400302c17ac65"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261103_第087篇_为什么运动能“治疗”抑郁症？/20261103_第087篇_为什么运动能“治疗”抑郁症？.md",
+      "size_bytes": 4399,
+      "sha256": "f8e5580595b5c97e6cc61b9c4e538cab2adf734fc43b3971c158b338b381c436"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261103_第087篇_为什么运动能“治疗”抑郁症？/20261103_第087篇_为什么运动能“治疗”抑郁症？_公众号摘要.md",
+      "size_bytes": 247,
+      "sha256": "7f6e4e2c656a079a4a0b04efa154cf95b685dce57fa5be0596131b68c6ad05d2"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261103_第087篇_为什么运动能“治疗”抑郁症？/20261103_第087篇_为什么运动能“治疗”抑郁症？_封面_16比9.jpg",
+      "size_bytes": 928113,
+      "sha256": "475e3e05c256de20e77e5a3d41904d37d7ca620f93d1f9ed7d2bffa5a98f20fb"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261103_第087篇_为什么运动能“治疗”抑郁症？/20261103_第087篇_为什么运动能“治疗”抑郁症？_封面_235比100.jpg",
+      "size_bytes": 1306044,
+      "sha256": "d1855465318616a963d2c2953352196136c5dbc6e6db355a44d63054507cb536"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261103_第087篇_为什么运动能“治疗”抑郁症？/20261103_第087篇_为什么运动能“治疗”抑郁症？_插图01_概念·治疗组成与替代误区.jpg",
+      "size_bytes": 666723,
+      "sha256": "15553ba2b03c3a7404365581b50d094f4b658f401152eb073941929b10ba7523"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261103_第087篇_为什么运动能“治疗”抑郁症？/20261103_第087篇_为什么运动能“治疗”抑郁症？_插图02_机制·行为与生理双通路.jpg",
+      "size_bytes": 883587,
+      "sha256": "0805b7cdef6c0a64f3ea9cd5dd34690f9c37ab5b7610a3291979ddf679d053ed"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261103_第087篇_为什么运动能“治疗”抑郁症？/20261103_第087篇_为什么运动能“治疗”抑郁症？_插图03_行动·可重复起点与趋势调整.jpg",
+      "size_bytes": 1025498,
+      "sha256": "22ed1c7bf40d83d7236615b317751eb6c2181cdea0765cd74c2c16159839d525"
     }
   ]
 }

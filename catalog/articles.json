@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 65,
-  "last_content_date": "2026-11-02",
-  "content_revision": "6ff255b8f84799f4c472ceeaa12664e5e468c3f4ba0c040af1cd1990c4941c19",
+  "article_count": 66,
+  "last_content_date": "2026-11-03",
+  "content_revision": "fc4c4e4b6fc8b3551f8490cd3379cdb40af09b113630ef80de98f3a95b6f6fbd",
   "articles": [
     {
       "id": 22,
@@ -3192,6 +3192,51 @@
           "stairs"
         ],
         "capacities": [
+          "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 87,
+      "stable_id": "beyond100-087",
+      "series": "超越百岁",
+      "title": "为什么运动能“治疗”抑郁症？",
+      "content_date": "2026-11-03",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20261103_第087篇_为什么运动能“治疗”抑郁症？/20261103_第087篇_为什么运动能“治疗”抑郁症？.md",
+      "summary_path": "platforms/wechat/articles/20261103_第087篇_为什么运动能“治疗”抑郁症？/20261103_第087篇_为什么运动能“治疗”抑郁症？_公众号摘要.md",
+      "summary": "运动不是让人靠意志“开心起来”，而是通过可重复的行动与生理刺激，成为抑郁症治疗的一部分。一次出汗后的轻松不等于治愈；看效果要看症状与功能趋势，并始终与专业治疗并行。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20261103_第087篇_为什么运动能“治疗”抑郁症？/20261103_第087篇_为什么运动能“治疗”抑郁症？_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20261103_第087篇_为什么运动能“治疗”抑郁症？/20261103_第087篇_为什么运动能“治疗”抑郁症？_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20261103_第087篇_为什么运动能“治疗”抑郁症？/20261103_第087篇_为什么运动能“治疗”抑郁症？_插图01_概念·治疗组成与替代误区.jpg",
+        "platforms/wechat/articles/20261103_第087篇_为什么运动能“治疗”抑郁症？/20261103_第087篇_为什么运动能“治疗”抑郁症？_插图02_机制·行为与生理双通路.jpg",
+        "platforms/wechat/articles/20261103_第087篇_为什么运动能“治疗”抑郁症？/20261103_第087篇_为什么运动能“治疗”抑郁症？_插图03_行动·可重复起点与趋势调整.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "evidence-myths",
+        "dimensions": [
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "movement",
+          "load",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "whole-body"
+        ],
+        "movement_tasks": [
+          "walking"
+        ],
+        "capacities": [
+          "cardiorespiratory",
           "recovery-capacity"
         ]
       }
