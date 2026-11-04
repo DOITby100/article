@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "file_count": 490,
-  "content_revision": "fc4c4e4b6fc8b3551f8490cd3379cdb40af09b113630ef80de98f3a95b6f6fbd",
+  "file_count": 497,
+  "content_revision": "d5218e72dba7c7eb93f01800fbd4f6b5dd39c15133b2027c2ac1896d989bc55f",
   "files": [
     {
       "relative_path": "platforms/wechat/articles/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的.md",
@@ -2452,6 +2452,41 @@
       "relative_path": "platforms/wechat/articles/20261103_第087篇_为什么运动能“治疗”抑郁症？/20261103_第087篇_为什么运动能“治疗”抑郁症？_插图03_行动·可重复起点与趋势调整.jpg",
       "size_bytes": 1025498,
       "sha256": "22ed1c7bf40d83d7236615b317751eb6c2181cdea0765cd74c2c16159839d525"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261104_第088篇_身体觉察：为什么你需要“听懂”身体的语言？/20261104_第088篇_身体觉察：为什么你需要“听懂”身体的语言？.md",
+      "size_bytes": 4160,
+      "sha256": "f06c3d30a104071922cb80ab4c1fc87a64c6c39b39e1e7d036aa07f3f9fe54cb"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261104_第088篇_身体觉察：为什么你需要“听懂”身体的语言？/20261104_第088篇_身体觉察：为什么你需要“听懂”身体的语言？_公众号摘要.md",
+      "size_bytes": 262,
+      "sha256": "80c305c3f23e680275e2de67f6b3b90d7acd2bda0397c72451649099be4d69e2"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261104_第088篇_身体觉察：为什么你需要“听懂”身体的语言？/20261104_第088篇_身体觉察：为什么你需要“听懂”身体的语言？_封面_16比9.jpg",
+      "size_bytes": 1360954,
+      "sha256": "a2d5b3151f3d906f5399859a7f9c6395352047740bad26007ae6ad7cdf89ec00"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261104_第088篇_身体觉察：为什么你需要“听懂”身体的语言？/20261104_第088篇_身体觉察：为什么你需要“听懂”身体的语言？_封面_235比100.jpg",
+      "size_bytes": 1873378,
+      "sha256": "41dbff729706f28fd9429c8b2f73f73ce1755cb99ec6b7d2c6433c9cbc22582e"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261104_第088篇_身体觉察：为什么你需要“听懂”身体的语言？/20261104_第088篇_身体觉察：为什么你需要“听懂”身体的语言？_插图01_概念·三类身体信号.jpg",
+      "size_bytes": 958090,
+      "sha256": "b9d4eb5c482e7763c6a03b4874f3863f7b76f380e5878fb03b0413504ab1c987"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261104_第088篇_身体觉察：为什么你需要“听懂”身体的语言？/20261104_第088篇_身体觉察：为什么你需要“听懂”身体的语言？_插图02_机制·动作反馈闭环.jpg",
+      "size_bytes": 980417,
+      "sha256": "8124435a0819568d6f37208682134ce8e0e8e6770bf617fc6a8f4882c4a11c57"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261104_第088篇_身体觉察：为什么你需要“听懂”身体的语言？/20261104_第088篇_身体觉察：为什么你需要“听懂”身体的语言？_插图03_行动·同任务单变量校准.jpg",
+      "size_bytes": 1671896,
+      "sha256": "84c3c8e98b218a604e9d2d8ad7810e5a7b148f6650a22fd58fdfce225bc2c4e4"
     }
   ]
 }

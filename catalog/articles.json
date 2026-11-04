@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 66,
-  "last_content_date": "2026-11-03",
-  "content_revision": "fc4c4e4b6fc8b3551f8490cd3379cdb40af09b113630ef80de98f3a95b6f6fbd",
+  "article_count": 67,
+  "last_content_date": "2026-11-04",
+  "content_revision": "d5218e72dba7c7eb93f01800fbd4f6b5dd39c15133b2027c2ac1896d989bc55f",
   "articles": [
     {
       "id": 22,
@@ -3237,6 +3237,53 @@
         ],
         "capacities": [
           "cardiorespiratory",
+          "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 88,
+      "stable_id": "beyond100-088",
+      "series": "超越百岁",
+      "title": "身体觉察：为什么你需要“听懂”身体的语言？",
+      "content_date": "2026-11-04",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20261104_第088篇_身体觉察：为什么你需要“听懂”身体的语言？/20261104_第088篇_身体觉察：为什么你需要“听懂”身体的语言？.md",
+      "summary_path": "platforms/wechat/articles/20261104_第088篇_身体觉察：为什么你需要“听懂”身体的语言？/20261104_第088篇_身体觉察：为什么你需要“听懂”身体的语言？_公众号摘要.md",
+      "summary": "身体觉察不是感觉越多越好，而是把呼吸、用力、位置和恢复变成可比较的反馈。固定同一任务，只改一个变量，才能判断负荷该维持、下调还是停止；异常胸痛、晕厥或新发无力不应靠自测解释。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20261104_第088篇_身体觉察：为什么你需要“听懂”身体的语言？/20261104_第088篇_身体觉察：为什么你需要“听懂”身体的语言？_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20261104_第088篇_身体觉察：为什么你需要“听懂”身体的语言？/20261104_第088篇_身体觉察：为什么你需要“听懂”身体的语言？_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20261104_第088篇_身体觉察：为什么你需要“听懂”身体的语言？/20261104_第088篇_身体觉察：为什么你需要“听懂”身体的语言？_插图01_概念·三类身体信号.jpg",
+        "platforms/wechat/articles/20261104_第088篇_身体觉察：为什么你需要“听懂”身体的语言？/20261104_第088篇_身体觉察：为什么你需要“听懂”身体的语言？_插图02_机制·动作反馈闭环.jpg",
+        "platforms/wechat/articles/20261104_第088篇_身体觉察：为什么你需要“听懂”身体的语言？/20261104_第088篇_身体觉察：为什么你需要“听懂”身体的语言？_插图03_行动·同任务单变量校准.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "method-judgment",
+        "dimensions": [
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "movement",
+          "load",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "whole-body"
+        ],
+        "movement_tasks": [
+          "walking"
+        ],
+        "capacities": [
+          "proprioception",
+          "coordination",
+          "stability",
           "recovery-capacity"
         ]
       }
