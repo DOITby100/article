@@ -1848,6 +1848,28 @@
         "stability",
         "recovery-capacity"
       ]
+    },
+    "089": {
+      "primary_category": "evidence-myths",
+      "dimensions": [
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "load",
+        "recovery",
+        "review"
+      ],
+      "body_regions": [
+        "whole-body"
+      ],
+      "movement_tasks": [
+        "walking"
+      ],
+      "capacities": [
+        "recovery-capacity"
+      ]
     }
   }
 }

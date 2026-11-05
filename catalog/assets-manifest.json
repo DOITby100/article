@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "file_count": 497,
-  "content_revision": "d5218e72dba7c7eb93f01800fbd4f6b5dd39c15133b2027c2ac1896d989bc55f",
+  "file_count": 504,
+  "content_revision": "4fe67dbd262b1b4b395256fc46f162fa0d61bc3633e69b2c7c2eb26f24171080",
   "files": [
     {
       "relative_path": "platforms/wechat/articles/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的.md",
@@ -2385,13 +2385,13 @@
     },
     {
       "relative_path": "platforms/wechat/articles/20261102_第086篇_慢性疼痛的真相：你的大脑可能“记住”了疼痛/20261102_第086篇_慢性疼痛的真相：你的大脑可能“记住”了疼痛.md",
-      "size_bytes": 4209,
-      "sha256": "0382319c8347e2145e2dceb792e5fa55cbdf1c523617f18c9387cec6ef9c0219"
+      "size_bytes": 3617,
+      "sha256": "32bc7e26dd6b664053222b90f0e3a1c0a9bc8ecfa429c3bc2d32546579870906"
     },
     {
       "relative_path": "platforms/wechat/articles/20261102_第086篇_慢性疼痛的真相：你的大脑可能“记住”了疼痛/20261102_第086篇_慢性疼痛的真相：你的大脑可能“记住”了疼痛_公众号摘要.md",
       "size_bytes": 238,
-      "sha256": "4657ff87da7213ebf6eaa9f79ec26251acced28a999f23441f7d92854b49a9d9"
+      "sha256": "908f1bb5118a94af8c993b0b1b7a7d742a99b83dd7aa795d6b0a65f2646e27a9"
     },
     {
       "relative_path": "platforms/wechat/articles/20261102_第086篇_慢性疼痛的真相：你的大脑可能“记住”了疼痛/20261102_第086篇_慢性疼痛的真相：你的大脑可能“记住”了疼痛_封面_16比9.jpg",
@@ -2415,18 +2415,18 @@
     },
     {
       "relative_path": "platforms/wechat/articles/20261102_第086篇_慢性疼痛的真相：你的大脑可能“记住”了疼痛/20261102_第086篇_慢性疼痛的真相：你的大脑可能“记住”了疼痛_插图03_行动·功能阶梯.jpg",
-      "size_bytes": 1489539,
-      "sha256": "a6a0f8f36c996ad5d0650bf38eb232848c599a98d5f8595957b400302c17ac65"
+      "size_bytes": 1439691,
+      "sha256": "6a6d0b83694d3aa1694223d9bdfad8860620954f7624c8f1ccc31c73e2d3c385"
     },
     {
       "relative_path": "platforms/wechat/articles/20261103_第087篇_为什么运动能“治疗”抑郁症？/20261103_第087篇_为什么运动能“治疗”抑郁症？.md",
-      "size_bytes": 4399,
-      "sha256": "f8e5580595b5c97e6cc61b9c4e538cab2adf734fc43b3971c158b338b381c436"
+      "size_bytes": 4099,
+      "sha256": "b7c8454e4cc4ce48be89d462324c49459965f0cdda6ba896ca3393c91de2c2a8"
     },
     {
       "relative_path": "platforms/wechat/articles/20261103_第087篇_为什么运动能“治疗”抑郁症？/20261103_第087篇_为什么运动能“治疗”抑郁症？_公众号摘要.md",
-      "size_bytes": 247,
-      "sha256": "7f6e4e2c656a079a4a0b04efa154cf95b685dce57fa5be0596131b68c6ad05d2"
+      "size_bytes": 238,
+      "sha256": "7678222668da0bfbbfe19e104a5e4a5fef3c891899e60e5d9ef369706822e95b"
     },
     {
       "relative_path": "platforms/wechat/articles/20261103_第087篇_为什么运动能“治疗”抑郁症？/20261103_第087篇_为什么运动能“治疗”抑郁症？_封面_16比9.jpg",
@@ -2440,23 +2440,23 @@
     },
     {
       "relative_path": "platforms/wechat/articles/20261103_第087篇_为什么运动能“治疗”抑郁症？/20261103_第087篇_为什么运动能“治疗”抑郁症？_插图01_概念·治疗组成与替代误区.jpg",
-      "size_bytes": 666723,
-      "sha256": "15553ba2b03c3a7404365581b50d094f4b658f401152eb073941929b10ba7523"
+      "size_bytes": 1139931,
+      "sha256": "561e84c0f5defe5bea0f49b450bb11bb1ddd758009180578dd378bf1aa504811"
     },
     {
       "relative_path": "platforms/wechat/articles/20261103_第087篇_为什么运动能“治疗”抑郁症？/20261103_第087篇_为什么运动能“治疗”抑郁症？_插图02_机制·行为与生理双通路.jpg",
-      "size_bytes": 883587,
-      "sha256": "0805b7cdef6c0a64f3ea9cd5dd34690f9c37ab5b7610a3291979ddf679d053ed"
+      "size_bytes": 1238490,
+      "sha256": "32f0aac7e0b8d65e3227ea722e49ac930ced5fe511b5d6b8f1f793dd73cd55ab"
     },
     {
       "relative_path": "platforms/wechat/articles/20261103_第087篇_为什么运动能“治疗”抑郁症？/20261103_第087篇_为什么运动能“治疗”抑郁症？_插图03_行动·可重复起点与趋势调整.jpg",
-      "size_bytes": 1025498,
-      "sha256": "22ed1c7bf40d83d7236615b317751eb6c2181cdea0765cd74c2c16159839d525"
+      "size_bytes": 1511564,
+      "sha256": "a393ab2a2645006d6e8bb23fc4644cd25b204aae126a400be572773dee33ef17"
     },
     {
       "relative_path": "platforms/wechat/articles/20261104_第088篇_身体觉察：为什么你需要“听懂”身体的语言？/20261104_第088篇_身体觉察：为什么你需要“听懂”身体的语言？.md",
-      "size_bytes": 4160,
-      "sha256": "f06c3d30a104071922cb80ab4c1fc87a64c6c39b39e1e7d036aa07f3f9fe54cb"
+      "size_bytes": 4682,
+      "sha256": "781f9e77d32d85be76a60f52272e63e3ef658bde1b979e46a99721b79b38c58d"
     },
     {
       "relative_path": "platforms/wechat/articles/20261104_第088篇_身体觉察：为什么你需要“听懂”身体的语言？/20261104_第088篇_身体觉察：为什么你需要“听懂”身体的语言？_公众号摘要.md",
@@ -2487,6 +2487,41 @@
       "relative_path": "platforms/wechat/articles/20261104_第088篇_身体觉察：为什么你需要“听懂”身体的语言？/20261104_第088篇_身体觉察：为什么你需要“听懂”身体的语言？_插图03_行动·同任务单变量校准.jpg",
       "size_bytes": 1671896,
       "sha256": "84c3c8e98b218a604e9d2d8ad7810e5a7b148f6650a22fd58fdfce225bc2c4e4"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261105_第089篇_为什么你总是“累”？可能是你的神经系统失调了/20261105_第089篇_为什么你总是“累”？可能是你的神经系统失调了.md",
+      "size_bytes": 4409,
+      "sha256": "940834d592421b9d8e8b4c7f806cda0f7dc0e2e5f9435c6f9c2709509de9d001"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261105_第089篇_为什么你总是“累”？可能是你的神经系统失调了/20261105_第089篇_为什么你总是“累”？可能是你的神经系统失调了_公众号摘要.md",
+      "size_bytes": 247,
+      "sha256": "6e484cce9e80d28ea65d48e71a64588180707c1f21c9d968e713e1bc24e5ddb0"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261105_第089篇_为什么你总是“累”？可能是你的神经系统失调了/20261105_第089篇_为什么你总是“累”？可能是你的神经系统失调了_封面_16比9.jpg",
+      "size_bytes": 1677210,
+      "sha256": "bc6d72de8be42f3814a3df1d70ce1d6c9c5f6b6415250e221f8bb7a59c3e061d"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261105_第089篇_为什么你总是“累”？可能是你的神经系统失调了/20261105_第089篇_为什么你总是“累”？可能是你的神经系统失调了_封面_235比100.jpg",
+      "size_bytes": 2337003,
+      "sha256": "2cd331a3322d273d2b7fe3d4d61885a223755657e6ce43b259a9836ea4a5d363"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261105_第089篇_为什么你总是“累”？可能是你的神经系统失调了/20261105_第089篇_为什么你总是“累”？可能是你的神经系统失调了_插图01_机制·疲劳调节链.jpg",
+      "size_bytes": 1498355,
+      "sha256": "c1b2f988d96d60c6d591ef6bc9cbde03f1c5e6fcc4c29fee67b88067813331f8"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261105_第089篇_为什么你总是“累”？可能是你的神经系统失调了/20261105_第089篇_为什么你总是“累”？可能是你的神经系统失调了_插图02_对照·线索不是诊断.jpg",
+      "size_bytes": 903267,
+      "sha256": "f38bd609ce4931862c77c581b5412a23181e7c449673149c0d91796879ba1146"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261105_第089篇_为什么你总是“累”？可能是你的神经系统失调了/20261105_第089篇_为什么你总是“累”？可能是你的神经系统失调了_插图03_行动·恢复轨迹观察.jpg",
+      "size_bytes": 1317844,
+      "sha256": "9312b9fedbe37e8f4b9d65a5875f6d8ecb22064125cdee727ae2bd55198db5a8"
     }
   ]
 }

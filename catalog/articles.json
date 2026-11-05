@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 67,
-  "last_content_date": "2026-11-04",
-  "content_revision": "d5218e72dba7c7eb93f01800fbd4f6b5dd39c15133b2027c2ac1896d989bc55f",
+  "article_count": 68,
+  "last_content_date": "2026-11-05",
+  "content_revision": "4fe67dbd262b1b4b395256fc46f162fa0d61bc3633e69b2c7c2eb26f24171080",
   "articles": [
     {
       "id": 22,
@@ -3161,7 +3161,7 @@
       "platform": "wechat",
       "article_path": "platforms/wechat/articles/20261102_第086篇_慢性疼痛的真相：你的大脑可能“记住”了疼痛/20261102_第086篇_慢性疼痛的真相：你的大脑可能“记住”了疼痛.md",
       "summary_path": "platforms/wechat/articles/20261102_第086篇_慢性疼痛的真相：你的大脑可能“记住”了疼痛/20261102_第086篇_慢性疼痛的真相：你的大脑可能“记住”了疼痛_公众号摘要.md",
-      "summary": "慢性疼痛不一定等于损伤仍在加重，也不是“想出来的”。分清持续病变、神经损伤与疼痛处理改变，再用可恢复的功能阶梯渐进活动，才能在守住医疗边界的同时重建身体信任。",
+      "summary": "慢性疼痛不一定等于损伤仍在加重，也不是“想出来的”。所谓“大脑记住”，是疼痛系统可能更容易发出警报；持续病变、神经损伤与疼痛处理改变可以重叠，更不能相互替代。",
       "covers": {
         "16比9": "platforms/wechat/articles/20261102_第086篇_慢性疼痛的真相：你的大脑可能“记住”了疼痛/20261102_第086篇_慢性疼痛的真相：你的大脑可能“记住”了疼痛_封面_16比9.jpg",
         "235比100": "platforms/wechat/articles/20261102_第086篇_慢性疼痛的真相：你的大脑可能“记住”了疼痛/20261102_第086篇_慢性疼痛的真相：你的大脑可能“记住”了疼痛_封面_235比100.jpg"
@@ -3206,7 +3206,7 @@
       "platform": "wechat",
       "article_path": "platforms/wechat/articles/20261103_第087篇_为什么运动能“治疗”抑郁症？/20261103_第087篇_为什么运动能“治疗”抑郁症？.md",
       "summary_path": "platforms/wechat/articles/20261103_第087篇_为什么运动能“治疗”抑郁症？/20261103_第087篇_为什么运动能“治疗”抑郁症？_公众号摘要.md",
-      "summary": "运动不是让人靠意志“开心起来”，而是通过可重复的行动与生理刺激，成为抑郁症治疗的一部分。一次出汗后的轻松不等于治愈；看效果要看症状与功能趋势，并始终与专业治疗并行。",
+      "summary": "爱运动不等于不会抑郁。稳定活动与较低抑郁风险相关，但心理状态也会反过来影响运动；真正能被专业教练守住的，不是情绪或治疗，而是可开始、可恢复、可重复的活力循环。",
       "covers": {
         "16比9": "platforms/wechat/articles/20261103_第087篇_为什么运动能“治疗”抑郁症？/20261103_第087篇_为什么运动能“治疗”抑郁症？_封面_16比9.jpg",
         "235比100": "platforms/wechat/articles/20261103_第087篇_为什么运动能“治疗”抑郁症？/20261103_第087篇_为什么运动能“治疗”抑郁症？_封面_235比100.jpg"
@@ -3284,6 +3284,49 @@
           "proprioception",
           "coordination",
           "stability",
+          "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 89,
+      "stable_id": "beyond100-089",
+      "series": "超越百岁",
+      "title": "为什么你总是“累”？可能是你的神经系统失调了",
+      "content_date": "2026-11-05",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20261105_第089篇_为什么你总是“累”？可能是你的神经系统失调了/20261105_第089篇_为什么你总是“累”？可能是你的神经系统失调了.md",
+      "summary_path": "platforms/wechat/articles/20261105_第089篇_为什么你总是“累”？可能是你的神经系统失调了/20261105_第089篇_为什么你总是“累”？可能是你的神经系统失调了_公众号摘要.md",
+      "summary": "总是累，不等于神经系统出了故障；手表压力分数也不能替你诊断。把疲劳放回休息后的回落、活动后的变化和日常功能中比较，才能判断是可恢复波动，还是需要停止加码并就医排查。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20261105_第089篇_为什么你总是“累”？可能是你的神经系统失调了/20261105_第089篇_为什么你总是“累”？可能是你的神经系统失调了_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20261105_第089篇_为什么你总是“累”？可能是你的神经系统失调了/20261105_第089篇_为什么你总是“累”？可能是你的神经系统失调了_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20261105_第089篇_为什么你总是“累”？可能是你的神经系统失调了/20261105_第089篇_为什么你总是“累”？可能是你的神经系统失调了_插图01_机制·疲劳调节链.jpg",
+        "platforms/wechat/articles/20261105_第089篇_为什么你总是“累”？可能是你的神经系统失调了/20261105_第089篇_为什么你总是“累”？可能是你的神经系统失调了_插图02_对照·线索不是诊断.jpg",
+        "platforms/wechat/articles/20261105_第089篇_为什么你总是“累”？可能是你的神经系统失调了/20261105_第089篇_为什么你总是“累”？可能是你的神经系统失调了_插图03_行动·恢复轨迹观察.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "evidence-myths",
+        "dimensions": [
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "load",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "whole-body"
+        ],
+        "movement_tasks": [
+          "walking"
+        ],
+        "capacities": [
           "recovery-capacity"
         ]
       }
