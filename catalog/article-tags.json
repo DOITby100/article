@@ -1870,6 +1870,34 @@
       "capacities": [
         "recovery-capacity"
       ]
+    },
+    "090": {
+      "primary_category": "method-judgment",
+      "dimensions": [
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "breathing",
+        "movement",
+        "review"
+      ],
+      "body_regions": [
+        "whole-body"
+      ],
+      "movement_tasks": [
+        "standing",
+        "sit-to-stand",
+        "walking",
+        "rotation"
+      ],
+      "capacities": [
+        "stability",
+        "balance",
+        "coordination",
+        "proprioception"
+      ]
     }
   }
 }
