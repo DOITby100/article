@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 69,
-  "last_content_date": "2026-11-06",
-  "content_revision": "3cd083e44360265d3d2abaacc45198384e7ab131b3ac25b3ef430c670181fffb",
+  "article_count": 70,
+  "last_content_date": "2026-11-07",
+  "content_revision": "0b8f39993c75b2d93fb25d807075e2f806f8eaf769192198bc5d7155d2445ccc",
   "articles": [
     {
       "id": 22,
@@ -3341,7 +3341,7 @@
       "platform": "wechat",
       "article_path": "platforms/wechat/articles/20261106_第090篇_正念运动：为什么瑜伽、太极能让你“身心合一”？/20261106_第090篇_正念运动：为什么瑜伽、太极能让你“身心合一”？.md",
       "summary_path": "platforms/wechat/articles/20261106_第090篇_正念运动：为什么瑜伽、太极能让你“身心合一”？/20261106_第090篇_正念运动：为什么瑜伽、太极能让你“身心合一”？_公众号摘要.md",
-      "summary": "瑜伽、太极的价值不只在动作慢，更在把注意、呼吸和感觉反馈放回同一项任务。能否在动作中发现走神、调整用力，并把这份觉察带回起身、转身和走路，才是判断正念是否从当下状态变成能力的关键。",
+      "summary": "瑜伽、太极带来的“合一感”，不在于动作慢或环境安静，而在意图能否读取足底、呼吸与位置反馈，并及时修正重心。先看抬脚前身体是否真正交出承重，再回到起步和转身复测，才能判断课堂里的觉察是否正在变成能力。",
       "covers": {
         "16比9": "platforms/wechat/articles/20261106_第090篇_正念运动：为什么瑜伽、太极能让你“身心合一”？/20261106_第090篇_正念运动：为什么瑜伽、太极能让你“身心合一”？_封面_16比9.jpg",
         "235比100": "platforms/wechat/articles/20261106_第090篇_正念运动：为什么瑜伽、太极能让你“身心合一”？/20261106_第090篇_正念运动：为什么瑜伽、太极能让你“身心合一”？_封面_235比100.jpg"
@@ -3377,6 +3377,50 @@
           "balance",
           "coordination",
           "proprioception"
+        ]
+      }
+    },
+    {
+      "id": 91,
+      "stable_id": "beyond100-091",
+      "series": "超越百岁",
+      "title": "为什么你的“完美主义”让你越练越伤？",
+      "content_date": "2026-11-07",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20261107_第091篇_为什么你的“完美主义”让你越练越伤？/20261107_第091篇_为什么你的“完美主义”让你越练越伤？.md",
+      "summary_path": "platforms/wechat/articles/20261107_第091篇_为什么你的“完美主义”让你越练越伤？/20261107_第091篇_为什么你的“完美主义”让你越练越伤？_公众号摘要.md",
+      "summary": "高标准不会自动让人受伤，真正危险的是把“按计划做完”当作唯一成功标准，拒绝根据反馈调整负荷。把合格线改成动作质量能保持、身体能恢复、同一任务还能重复，计划才会服务于适应。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20261107_第091篇_为什么你的“完美主义”让你越练越伤？/20261107_第091篇_为什么你的“完美主义”让你越练越伤？_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20261107_第091篇_为什么你的“完美主义”让你越练越伤？/20261107_第091篇_为什么你的“完美主义”让你越练越伤？_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20261107_第091篇_为什么你的“完美主义”让你越练越伤？/20261107_第091篇_为什么你的“完美主义”让你越练越伤？_插图01_机制·计划—负荷—恢复闭环.jpg",
+        "platforms/wechat/articles/20261107_第091篇_为什么你的“完美主义”让你越练越伤？/20261107_第091篇_为什么你的“完美主义”让你越练越伤？_插图02_对照·高标准与僵化加码分叉.jpg",
+        "platforms/wechat/articles/20261107_第091篇_为什么你的“完美主义”让你越练越伤？/20261107_第091篇_为什么你的“完美主义”让你越练越伤？_插图03_行动·同任务恢复复测.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "load-recovery",
+        "dimensions": [
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "movement",
+          "load",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "whole-body"
+        ],
+        "movement_tasks": [],
+        "capacities": [
+          "stability",
+          "coordination",
+          "recovery-capacity"
         ]
       }
     }
