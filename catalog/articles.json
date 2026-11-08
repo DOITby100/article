@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 70,
-  "last_content_date": "2026-11-07",
-  "content_revision": "0b8f39993c75b2d93fb25d807075e2f806f8eaf769192198bc5d7155d2445ccc",
+  "article_count": 71,
+  "last_content_date": "2026-11-08",
+  "content_revision": "da17d9986a1df39c774f6f5c66068df361c0b08b45288fef858c656e5dd1204d",
   "articles": [
     {
       "id": 22,
@@ -3390,7 +3390,7 @@
       "platform": "wechat",
       "article_path": "platforms/wechat/articles/20261107_第091篇_为什么你的“完美主义”让你越练越伤？/20261107_第091篇_为什么你的“完美主义”让你越练越伤？.md",
       "summary_path": "platforms/wechat/articles/20261107_第091篇_为什么你的“完美主义”让你越练越伤？/20261107_第091篇_为什么你的“完美主义”让你越练越伤？_公众号摘要.md",
-      "summary": "高标准不会自动让人受伤，真正危险的是把“按计划做完”当作唯一成功标准，拒绝根据反馈调整负荷。把合格线改成动作质量能保持、身体能恢复、同一任务还能重复，计划才会服务于适应。",
+      "summary": "高标准不会自动让人受伤，真正危险的是把“按计划做完”当作唯一成功标准，把减量、换动作或停下都解释成退步。让身体反馈有权改写计划，而不是继续被完成清单绑架，训练才会服务于适应。",
       "covers": {
         "16比9": "platforms/wechat/articles/20261107_第091篇_为什么你的“完美主义”让你越练越伤？/20261107_第091篇_为什么你的“完美主义”让你越练越伤？_封面_16比9.jpg",
         "235比100": "platforms/wechat/articles/20261107_第091篇_为什么你的“完美主义”让你越练越伤？/20261107_第091篇_为什么你的“完美主义”让你越练越伤？_封面_235比100.jpg"
@@ -3420,6 +3420,51 @@
         "capacities": [
           "stability",
           "coordination",
+          "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 92,
+      "stable_id": "beyond100-092",
+      "series": "超越百岁",
+      "title": "呼吸、冥想、运动：科学抗压的“三板斧”",
+      "content_date": "2026-11-08",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20261108_第092篇_呼吸、冥想、运动：科学抗压的“三板斧”/20261108_第092篇_呼吸、冥想、运动：科学抗压的“三板斧”.md",
+      "summary_path": "platforms/wechat/articles/20261108_第092篇_呼吸、冥想、运动：科学抗压的“三板斧”/20261108_第092篇_呼吸、冥想、运动：科学抗压的“三板斧”_公众号摘要.md",
+      "summary": "抗压不是把呼吸、冥想和运动一次塞满，证据也未证明组合一定胜过选对的一项。先分清压力卡在身体唤醒、反复念头，还是长期活动与恢复节律，再选对应入口；若已持续影响生活或出现急性症状，应及时转专业评估。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20261108_第092篇_呼吸、冥想、运动：科学抗压的“三板斧”/20261108_第092篇_呼吸、冥想、运动：科学抗压的“三板斧”_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20261108_第092篇_呼吸、冥想、运动：科学抗压的“三板斧”/20261108_第092篇_呼吸、冥想、运动：科学抗压的“三板斧”_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20261108_第092篇_呼吸、冥想、运动：科学抗压的“三板斧”/20261108_第092篇_呼吸、冥想、运动：科学抗压的“三板斧”_插图01_机制·压力反应链.jpg",
+        "platforms/wechat/articles/20261108_第092篇_呼吸、冥想、运动：科学抗压的“三板斧”/20261108_第092篇_呼吸、冥想、运动：科学抗压的“三板斧”_插图02_对照·三种抗压入口.jpg",
+        "platforms/wechat/articles/20261108_第092篇_呼吸、冥想、运动：科学抗压的“三板斧”/20261108_第092篇_呼吸、冥想、运动：科学抗压的“三板斧”_插图03_行动·按卡点选择入口.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "method-judgment",
+        "dimensions": [
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "breathing",
+          "movement",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "whole-body"
+        ],
+        "movement_tasks": [
+          "walking"
+        ],
+        "capacities": [
+          "cardiorespiratory",
           "recovery-capacity"
         ]
       }

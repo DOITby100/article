@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "file_count": 518,
-  "content_revision": "0b8f39993c75b2d93fb25d807075e2f806f8eaf769192198bc5d7155d2445ccc",
+  "file_count": 525,
+  "content_revision": "da17d9986a1df39c774f6f5c66068df361c0b08b45288fef858c656e5dd1204d",
   "files": [
     {
       "relative_path": "platforms/wechat/articles/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的.md",
@@ -2560,13 +2560,13 @@
     },
     {
       "relative_path": "platforms/wechat/articles/20261107_第091篇_为什么你的“完美主义”让你越练越伤？/20261107_第091篇_为什么你的“完美主义”让你越练越伤？.md",
-      "size_bytes": 4563,
-      "sha256": "caae2e6e53ead4042e14ed1604c48d89bbaa3cd6058314db4d7632b1570a58e6"
+      "size_bytes": 4449,
+      "sha256": "5c397d95bb3560413bab07c868505f07e18f0b775c4c72e41066e7fea036c46f"
     },
     {
       "relative_path": "platforms/wechat/articles/20261107_第091篇_为什么你的“完美主义”让你越练越伤？/20261107_第091篇_为什么你的“完美主义”让你越练越伤？_公众号摘要.md",
-      "size_bytes": 256,
-      "sha256": "2828e01becdb60c29839bcc3e104405d338d26584f862cca7222f9d8776badd8"
+      "size_bytes": 262,
+      "sha256": "539b26a3d7c0b8d0608ee73ea828b7c6dee657545310d9efaa3e746bea252b0a"
     },
     {
       "relative_path": "platforms/wechat/articles/20261107_第091篇_为什么你的“完美主义”让你越练越伤？/20261107_第091篇_为什么你的“完美主义”让你越练越伤？_封面_16比9.jpg",
@@ -2590,8 +2590,43 @@
     },
     {
       "relative_path": "platforms/wechat/articles/20261107_第091篇_为什么你的“完美主义”让你越练越伤？/20261107_第091篇_为什么你的“完美主义”让你越练越伤？_插图03_行动·同任务恢复复测.jpg",
-      "size_bytes": 953047,
-      "sha256": "730613d0b71c12f388421e85af6f0b55e0db918553b12213f308c235965f474d"
+      "size_bytes": 895522,
+      "sha256": "52de57e414a609c8e7a6104a9d83f1d90e33f4369cca93d0e44585cf242f8eaf"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261108_第092篇_呼吸、冥想、运动：科学抗压的“三板斧”/20261108_第092篇_呼吸、冥想、运动：科学抗压的“三板斧”.md",
+      "size_bytes": 4215,
+      "sha256": "243fe1d7abcbdecd67d40db2c395e8c667216b92fc1ea570518b5dbd49c4791a"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261108_第092篇_呼吸、冥想、运动：科学抗压的“三板斧”/20261108_第092篇_呼吸、冥想、运动：科学抗压的“三板斧”_公众号摘要.md",
+      "size_bytes": 292,
+      "sha256": "ccdb0570a9b0a58ecfef8293a3e3d53aacfae0a0d0414aec106c84d166129e9c"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261108_第092篇_呼吸、冥想、运动：科学抗压的“三板斧”/20261108_第092篇_呼吸、冥想、运动：科学抗压的“三板斧”_封面_16比9.jpg",
+      "size_bytes": 2070834,
+      "sha256": "7099b53ffba74f18f132f51b77d2fd029205968e11aa412df385e5de26a9964a"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261108_第092篇_呼吸、冥想、运动：科学抗压的“三板斧”/20261108_第092篇_呼吸、冥想、运动：科学抗压的“三板斧”_封面_235比100.jpg",
+      "size_bytes": 2644232,
+      "sha256": "bb4586d548744182b334b5e2ad9dc68f5b36dc9047c9e7634d931a8456a1698a"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261108_第092篇_呼吸、冥想、运动：科学抗压的“三板斧”/20261108_第092篇_呼吸、冥想、运动：科学抗压的“三板斧”_插图01_机制·压力反应链.jpg",
+      "size_bytes": 911146,
+      "sha256": "07341a6f84c226bc9000c70affc087a7bfab49403a3bc38165e4e7251373ae2e"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261108_第092篇_呼吸、冥想、运动：科学抗压的“三板斧”/20261108_第092篇_呼吸、冥想、运动：科学抗压的“三板斧”_插图02_对照·三种抗压入口.jpg",
+      "size_bytes": 1278423,
+      "sha256": "c7bae6dfedbfd2b1977174036597a48c73214cb77d79f5992aa1960d2bb79d6c"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261108_第092篇_呼吸、冥想、运动：科学抗压的“三板斧”/20261108_第092篇_呼吸、冥想、运动：科学抗压的“三板斧”_插图03_行动·按卡点选择入口.jpg",
+      "size_bytes": 995176,
+      "sha256": "b29c772c87d16baf5b5486fea85bfe59c47df26822bf9843ecb2dc5a8fdfdb08"
     }
   ]
 }
