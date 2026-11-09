@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 71,
-  "last_content_date": "2026-11-08",
-  "content_revision": "da17d9986a1df39c774f6f5c66068df361c0b08b45288fef858c656e5dd1204d",
+  "article_count": 72,
+  "last_content_date": "2026-11-09",
+  "content_revision": "c2e5edd7266e696e93a31804360cbeaa1cb8875d7904c06c33ef505e9a5d1e3e",
   "articles": [
     {
       "id": 22,
@@ -3466,6 +3466,57 @@
         "capacities": [
           "cardiorespiratory",
           "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 93,
+      "stable_id": "beyond100-093",
+      "series": "超越百岁",
+      "title": "为什么专业运动员都在练“动物流”？",
+      "content_date": "2026-11-09",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20261109_第093篇_为什么专业运动员都在练“动物流”？/20261109_第093篇_为什么专业运动员都在练“动物流”？.md",
+      "summary_path": "platforms/wechat/articles/20261109_第093篇_为什么专业运动员都在练“动物流”？/20261109_第093篇_为什么专业运动员都在练“动物流”？_公众号摘要.md",
+      "summary": "动物流不是所有运动员的必修课，它把手脚承重、换支点和多方向移动放进同一任务，适合补充肩带承重、躯干控制与髋肩转向。先看训练目标是否匹配，并保留专项力量、冲刺与跳跃，才能把“流畅”变成真正有用的能力。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20261109_第093篇_为什么专业运动员都在练“动物流”？/20261109_第093篇_为什么专业运动员都在练“动物流”？_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20261109_第093篇_为什么专业运动员都在练“动物流”？/20261109_第093篇_为什么专业运动员都在练“动物流”？_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20261109_第093篇_为什么专业运动员都在练“动物流”？/20261109_第093篇_为什么专业运动员都在练“动物流”？_插图01_机制·四点到三点的支撑变化.jpg",
+        "platforms/wechat/articles/20261109_第093篇_为什么专业运动员都在练“动物流”？/20261109_第093篇_为什么专业运动员都在练“动物流”？_插图02_对照·动物流的补充价值与边界.jpg",
+        "platforms/wechat/articles/20261109_第093篇_为什么专业运动员都在练“动物流”？/20261109_第093篇_为什么专业运动员都在练“动物流”？_插图03_行动·训练目标匹配判断.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "method-judgment",
+        "dimensions": [
+          "structure",
+          "function"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "movement",
+          "load",
+          "review"
+        ],
+        "body_regions": [
+          "shoulder-upper-limb",
+          "core-trunk",
+          "pelvis-hip",
+          "whole-body"
+        ],
+        "movement_tasks": [
+          "push",
+          "rotation"
+        ],
+        "capacities": [
+          "strength",
+          "mobility",
+          "stability",
+          "coordination",
+          "proprioception"
         ]
       }
     }

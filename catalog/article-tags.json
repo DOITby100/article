@@ -1945,6 +1945,36 @@
         "cardiorespiratory",
         "recovery-capacity"
       ]
+    },
+    "093": {
+      "primary_category": "method-judgment",
+      "dimensions": [
+        "structure",
+        "function"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "movement",
+        "load",
+        "review"
+      ],
+      "body_regions": [
+        "shoulder-upper-limb",
+        "core-trunk",
+        "pelvis-hip",
+        "whole-body"
+      ],
+      "movement_tasks": [
+        "push",
+        "rotation"
+      ],
+      "capacities": [
+        "strength",
+        "mobility",
+        "stability",
+        "coordination",
+        "proprioception"
+      ]
     }
   }
 }
