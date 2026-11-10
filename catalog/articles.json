@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 72,
-  "last_content_date": "2026-11-09",
-  "content_revision": "c2e5edd7266e696e93a31804360cbeaa1cb8875d7904c06c33ef505e9a5d1e3e",
+  "article_count": 73,
+  "last_content_date": "2026-11-10",
+  "content_revision": "228b09910dd030f833cc1e8b28d00c9afaf348572837e7393ff0df8324f5696f",
   "articles": [
     {
       "id": 22,
@@ -3517,6 +3517,53 @@
           "stability",
           "coordination",
           "proprioception"
+        ]
+      }
+    },
+    {
+      "id": 94,
+      "stable_id": "beyond100-094",
+      "series": "超越百岁",
+      "title": "爆发力不是天生的，是可以“练”出来的",
+      "content_date": "2026-11-10",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20261110_第094篇_爆发力不是天生的，是可以“练”出来的/20261110_第094篇_爆发力不是天生的，是可以“练”出来的.md",
+      "summary_path": "platforms/wechat/articles/20261110_第094篇_爆发力不是天生的，是可以“练”出来的/20261110_第094篇_爆发力不是天生的，是可以“练”出来的_公众号摘要.md",
+      "summary": "爆发力不是天生定额，也不是多跳几次就能补上。真正的瓶颈可能在力量底盘、快速用力或专项方向；先分清哪一环拖慢动作，才能选对力量、轻负重加速或专项训练。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20261110_第094篇_爆发力不是天生的，是可以“练”出来的/20261110_第094篇_爆发力不是天生的，是可以“练”出来的_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20261110_第094篇_爆发力不是天生的，是可以“练”出来的/20261110_第094篇_爆发力不是天生的，是可以“练”出来的_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20261110_第094篇_爆发力不是天生的，是可以“练”出来的/20261110_第094篇_爆发力不是天生的，是可以“练”出来的_插图01_机制·力量赶上动作时间.jpg",
+        "platforms/wechat/articles/20261110_第094篇_爆发力不是天生的，是可以“练”出来的/20261110_第094篇_爆发力不是天生的，是可以“练”出来的_插图02_对照·三种慢的线索.jpg",
+        "platforms/wechat/articles/20261110_第094篇_爆发力不是天生的，是可以“练”出来的/20261110_第094篇_爆发力不是天生的，是可以“练”出来的_插图03_行动·瓶颈到训练入口.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "method-judgment",
+        "dimensions": [
+          "function"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "movement",
+          "load",
+          "review"
+        ],
+        "body_regions": [
+          "whole-body"
+        ],
+        "movement_tasks": [
+          "running",
+          "stairs",
+          "push"
+        ],
+        "capacities": [
+          "strength",
+          "speed",
+          "power",
+          "coordination"
         ]
       }
     }

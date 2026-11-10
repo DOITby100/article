@@ -1975,6 +1975,32 @@
         "coordination",
         "proprioception"
       ]
+    },
+    "094": {
+      "primary_category": "method-judgment",
+      "dimensions": [
+        "function"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "movement",
+        "load",
+        "review"
+      ],
+      "body_regions": [
+        "whole-body"
+      ],
+      "movement_tasks": [
+        "running",
+        "stairs",
+        "push"
+      ],
+      "capacities": [
+        "strength",
+        "speed",
+        "power",
+        "coordination"
+      ]
     }
   }
 }
