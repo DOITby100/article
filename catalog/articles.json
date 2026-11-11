@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 73,
-  "last_content_date": "2026-11-10",
-  "content_revision": "228b09910dd030f833cc1e8b28d00c9afaf348572837e7393ff0df8324f5696f",
+  "article_count": 74,
+  "last_content_date": "2026-11-11",
+  "content_revision": "5ff9b97d49a63ec4fd067afa0d1e5f4a8009bbf4960c9f8ecdcce56399f7f7cc",
   "articles": [
     {
       "id": 22,
@@ -3564,6 +3564,55 @@
           "speed",
           "power",
           "coordination"
+        ]
+      }
+    },
+    {
+      "id": 95,
+      "stable_id": "beyond100-095",
+      "series": "超越百岁",
+      "title": "为什么运动员都在做“本体感觉训练”？",
+      "content_date": "2026-11-11",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20261111_第095篇_为什么运动员都在做“本体感觉训练”？/20261111_第095篇_为什么运动员都在做“本体感觉训练”？.md",
+      "summary_path": "platforms/wechat/articles/20261111_第095篇_为什么运动员都在做“本体感觉训练”？/20261111_第095篇_为什么运动员都在做“本体感觉训练”？_公众号摘要.md",
+      "summary": "平衡垫上站得更稳，不等于本体感觉全面提升。先明确目标动作错在位置、用力方向还是时机，再让相应感觉线索参与及时纠偏，才能避免把“更晃、更累”误当成训练已经有效。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20261111_第095篇_为什么运动员都在做“本体感觉训练”？/20261111_第095篇_为什么运动员都在做“本体感觉训练”？_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20261111_第095篇_为什么运动员都在做“本体感觉训练”？/20261111_第095篇_为什么运动员都在做“本体感觉训练”？_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20261111_第095篇_为什么运动员都在做“本体感觉训练”？/20261111_第095篇_为什么运动员都在做“本体感觉训练”？_插图01_概念·身体如何知道自己在哪里.jpg",
+        "platforms/wechat/articles/20261111_第095篇_为什么运动员都在做“本体感觉训练”？/20261111_第095篇_为什么运动员都在做“本体感觉训练”？_插图02_对照·站稳不等于感觉更准.jpg",
+        "platforms/wechat/articles/20261111_第095篇_为什么运动员都在做“本体感觉训练”？/20261111_第095篇_为什么运动员都在做“本体感觉训练”？_插图03_行动·从专项误差选择训练.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "method-judgment",
+        "dimensions": [
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "movement",
+          "load",
+          "review"
+        ],
+        "body_regions": [
+          "foot-ankle",
+          "whole-body"
+        ],
+        "movement_tasks": [
+          "single-leg",
+          "running",
+          "rotation"
+        ],
+        "capacities": [
+          "stability",
+          "balance",
+          "coordination",
+          "proprioception"
         ]
       }
     }

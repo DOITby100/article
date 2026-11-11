@@ -2001,6 +2001,34 @@
         "power",
         "coordination"
       ]
+    },
+    "095": {
+      "primary_category": "method-judgment",
+      "dimensions": [
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "movement",
+        "load",
+        "review"
+      ],
+      "body_regions": [
+        "foot-ankle",
+        "whole-body"
+      ],
+      "movement_tasks": [
+        "single-leg",
+        "running",
+        "rotation"
+      ],
+      "capacities": [
+        "stability",
+        "balance",
+        "coordination",
+        "proprioception"
+      ]
     }
   }
 }
