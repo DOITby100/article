@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "file_count": 546,
-  "content_revision": "5ff9b97d49a63ec4fd067afa0d1e5f4a8009bbf4960c9f8ecdcce56399f7f7cc",
+  "file_count": 553,
+  "content_revision": "2e6c6e311c29096ee53f4bb88ac87f579e76a2ea0929c0e50d3e7d30e7b7b004",
   "files": [
     {
       "relative_path": "platforms/wechat/articles/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的.md",
@@ -2665,13 +2665,13 @@
     },
     {
       "relative_path": "platforms/wechat/articles/20261110_第094篇_爆发力不是天生的，是可以“练”出来的/20261110_第094篇_爆发力不是天生的，是可以“练”出来的.md",
-      "size_bytes": 4610,
-      "sha256": "a808443a68de607d03a9bfbe9fabc06767e5d79511e52d1e47692b87b19456d7"
+      "size_bytes": 5268,
+      "sha256": "fcd8e664912b5fd43f5c052518c185168186898af4d46c6a6ccc733baae183a5"
     },
     {
       "relative_path": "platforms/wechat/articles/20261110_第094篇_爆发力不是天生的，是可以“练”出来的/20261110_第094篇_爆发力不是天生的，是可以“练”出来的_公众号摘要.md",
-      "size_bytes": 223,
-      "sha256": "8f8183c107625292a418d7ac09c0590bd893946b267f89dd38721c26da33eb34"
+      "size_bytes": 247,
+      "sha256": "68516c01f990bf66ef88d529bfef4dfcb46a7766e463621230ec382ba0ea7405"
     },
     {
       "relative_path": "platforms/wechat/articles/20261110_第094篇_爆发力不是天生的，是可以“练”出来的/20261110_第094篇_爆发力不是天生的，是可以“练”出来的_封面_16比9.jpg",
@@ -2732,6 +2732,41 @@
       "relative_path": "platforms/wechat/articles/20261111_第095篇_为什么运动员都在做“本体感觉训练”？/20261111_第095篇_为什么运动员都在做“本体感觉训练”？_插图03_行动·从专项误差选择训练.jpg",
       "size_bytes": 1404011,
       "sha256": "8ba0f704a6cf3a8085b1a59d4612c039473773dee87068c587c000b7b9555830"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261112_第096篇_柔韧性 vs 灵活性：你真正需要的是哪个？/20261112_第096篇_柔韧性 vs 灵活性：你真正需要的是哪个？.md",
+      "size_bytes": 4479,
+      "sha256": "4f0a4493ca5b68af8a3297950f64945585c3c47bcc4ed7ea98dd486e6874b8b7"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261112_第096篇_柔韧性 vs 灵活性：你真正需要的是哪个？/20261112_第096篇_柔韧性 vs 灵活性：你真正需要的是哪个？_公众号摘要.md",
+      "size_bytes": 247,
+      "sha256": "162e53be4a39c4aed0072534285f61e0e8d5e96aaca070a083494a5a88f252b7"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261112_第096篇_柔韧性 vs 灵活性：你真正需要的是哪个？/20261112_第096篇_柔韧性 vs 灵活性：你真正需要的是哪个？_封面_16比9.jpg",
+      "size_bytes": 1802254,
+      "sha256": "aa5a05029dafc322ab8c4650548223aec5065d400545f5af833f5c644b1073b9"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261112_第096篇_柔韧性 vs 灵活性：你真正需要的是哪个？/20261112_第096篇_柔韧性 vs 灵活性：你真正需要的是哪个？_封面_235比100.jpg",
+      "size_bytes": 2518143,
+      "sha256": "150ed4556b1569685696f51cdc6c27996f2c98640fa226d06d6bb2c874e398c1"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261112_第096篇_柔韧性 vs 灵活性：你真正需要的是哪个？/20261112_第096篇_柔韧性 vs 灵活性：你真正需要的是哪个？_插图01_对照·被动能到与主动能用.jpg",
+      "size_bytes": 962437,
+      "sha256": "a57caf45abe4ce3c40aac2c456e11873bf48abb0b6fc4945a324a8a11f962ee0"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261112_第096篇_柔韧性 vs 灵活性：你真正需要的是哪个？/20261112_第096篇_柔韧性 vs 灵活性：你真正需要的是哪个？_插图02_机制·活动范围怎样变成可用范围.jpg",
+      "size_bytes": 1504856,
+      "sha256": "abd588bddcf99777f4e6f7dd8dbbdb91b56816330e73112d4dfcab65cc4422a3"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261112_第096篇_柔韧性 vs 灵活性：你真正需要的是哪个？/20261112_第096篇_柔韧性 vs 灵活性：你真正需要的是哪个？_插图03_路径·从第一个失效点选择训练.jpg",
+      "size_bytes": 1038514,
+      "sha256": "6b4d3fda1319e2230297b9a616ed5b6f9a828e59f6f0e9c8d39897d628a630bb"
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 74,
-  "last_content_date": "2026-11-11",
-  "content_revision": "5ff9b97d49a63ec4fd067afa0d1e5f4a8009bbf4960c9f8ecdcce56399f7f7cc",
+  "article_count": 75,
+  "last_content_date": "2026-11-12",
+  "content_revision": "2e6c6e311c29096ee53f4bb88ac87f579e76a2ea0929c0e50d3e7d30e7b7b004",
   "articles": [
     {
       "id": 22,
@@ -3530,7 +3530,7 @@
       "platform": "wechat",
       "article_path": "platforms/wechat/articles/20261110_第094篇_爆发力不是天生的，是可以“练”出来的/20261110_第094篇_爆发力不是天生的，是可以“练”出来的.md",
       "summary_path": "platforms/wechat/articles/20261110_第094篇_爆发力不是天生的，是可以“练”出来的/20261110_第094篇_爆发力不是天生的，是可以“练”出来的_公众号摘要.md",
-      "summary": "爆发力不是天生定额，也不是多跳几次就能补上。真正的瓶颈可能在力量底盘、快速用力或专项方向；先分清哪一环拖慢动作，才能选对力量、轻负重加速或专项训练。",
+      "summary": "衰老未必先表现为举不动，更可能先表现为力量来得不够快。爆发力常比肌肉量和最大力量更早显出下降；分清力量底盘、快速用力和任务方向，才能把训练真正带回起身、上楼与迈步。",
       "covers": {
         "16比9": "platforms/wechat/articles/20261110_第094篇_爆发力不是天生的，是可以“练”出来的/20261110_第094篇_爆发力不是天生的，是可以“练”出来的_封面_16比9.jpg",
         "235比100": "platforms/wechat/articles/20261110_第094篇_爆发力不是天生的，是可以“练”出来的/20261110_第094篇_爆发力不是天生的，是可以“练”出来的_封面_235比100.jpg"
@@ -3611,6 +3611,55 @@
         "capacities": [
           "stability",
           "balance",
+          "coordination",
+          "proprioception"
+        ]
+      }
+    },
+    {
+      "id": 96,
+      "stable_id": "beyond100-096",
+      "series": "超越百岁",
+      "title": "柔韧性 vs 灵活性：你真正需要的是哪个？",
+      "content_date": "2026-11-12",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20261112_第096篇_柔韧性 vs 灵活性：你真正需要的是哪个？/20261112_第096篇_柔韧性 vs 灵活性：你真正需要的是哪个？.md",
+      "summary_path": "platforms/wechat/articles/20261112_第096篇_柔韧性 vs 灵活性：你真正需要的是哪个？/20261112_第096篇_柔韧性 vs 灵活性：你真正需要的是哪个？_公众号摘要.md",
+      "summary": "拉得更远，不等于动作里用得更好。先比较被动范围与主动控制的差距，再决定补活动范围、末端力量，还是任务中的速度与协调，避免把所有卡顿都归因于“太紧”，并选对训练方向。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20261112_第096篇_柔韧性 vs 灵活性：你真正需要的是哪个？/20261112_第096篇_柔韧性 vs 灵活性：你真正需要的是哪个？_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20261112_第096篇_柔韧性 vs 灵活性：你真正需要的是哪个？/20261112_第096篇_柔韧性 vs 灵活性：你真正需要的是哪个？_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20261112_第096篇_柔韧性 vs 灵活性：你真正需要的是哪个？/20261112_第096篇_柔韧性 vs 灵活性：你真正需要的是哪个？_插图01_对照·被动能到与主动能用.jpg",
+        "platforms/wechat/articles/20261112_第096篇_柔韧性 vs 灵活性：你真正需要的是哪个？/20261112_第096篇_柔韧性 vs 灵活性：你真正需要的是哪个？_插图02_机制·活动范围怎样变成可用范围.jpg",
+        "platforms/wechat/articles/20261112_第096篇_柔韧性 vs 灵活性：你真正需要的是哪个？/20261112_第096篇_柔韧性 vs 灵活性：你真正需要的是哪个？_插图03_路径·从第一个失效点选择训练.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "method-judgment",
+        "dimensions": [
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "movement",
+          "load",
+          "review"
+        ],
+        "body_regions": [
+          "pelvis-hip",
+          "whole-body"
+        ],
+        "movement_tasks": [
+          "standing",
+          "single-leg"
+        ],
+        "capacities": [
+          "strength",
+          "mobility",
+          "stability",
           "coordination",
           "proprioception"
         ]
