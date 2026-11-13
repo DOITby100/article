@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 75,
-  "last_content_date": "2026-11-12",
-  "content_revision": "2e6c6e311c29096ee53f4bb88ac87f579e76a2ea0929c0e50d3e7d30e7b7b004",
+  "article_count": 76,
+  "last_content_date": "2026-11-13",
+  "content_revision": "9bbe5079aadcfd28d79b58af2a4d545d8712b4d55a099b98cca1593049fc70e2",
   "articles": [
     {
       "id": 22,
@@ -3662,6 +3662,58 @@
           "stability",
           "coordination",
           "proprioception"
+        ]
+      }
+    },
+    {
+      "id": 97,
+      "stable_id": "beyond100-097",
+      "series": "超越百岁",
+      "title": "为什么你的深蹲重量上不去？可能是踝关节的问题",
+      "content_date": "2026-11-13",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20261113_第097篇_为什么你的深蹲重量上不去？可能是踝关节的问题/20261113_第097篇_为什么你的深蹲重量上不去？可能是踝关节的问题.md",
+      "summary_path": "platforms/wechat/articles/20261113_第097篇_为什么你的深蹲重量上不去？可能是踝关节的问题/20261113_第097篇_为什么你的深蹲重量上不去？可能是踝关节的问题_公众号摘要.md",
+      "summary": "深蹲重量上不去，不一定是腿不够强，也不能只凭抬脚跟就判断踝太紧。固定杠位、站距和深度，比较减少踝背屈需求前后的脚底稳定、躯干角度与卡点变化，才能决定先处理踝关节，还是转向力量、技术与疲劳管理。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20261113_第097篇_为什么你的深蹲重量上不去？可能是踝关节的问题/20261113_第097篇_为什么你的深蹲重量上不去？可能是踝关节的问题_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20261113_第097篇_为什么你的深蹲重量上不去？可能是踝关节的问题/20261113_第097篇_为什么你的深蹲重量上不去？可能是踝关节的问题_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20261113_第097篇_为什么你的深蹲重量上不去？可能是踝关节的问题/20261113_第097篇_为什么你的深蹲重量上不去？可能是踝关节的问题_插图01_机制·踝背屈如何改变深蹲策略.jpg",
+        "platforms/wechat/articles/20261113_第097篇_为什么你的深蹲重量上不去？可能是踝关节的问题/20261113_第097篇_为什么你的深蹲重量上不去？可能是踝关节的问题_插图02_对照·垫高脚跟改变的是任务条件.jpg",
+        "platforms/wechat/articles/20261113_第097篇_为什么你的深蹲重量上不去？可能是踝关节的问题/20261113_第097篇_为什么你的深蹲重量上不去？可能是踝关节的问题_插图03_路径·深蹲平台期的变量分流.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "method-judgment",
+        "dimensions": [
+          "structure",
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "foundation",
+          "movement",
+          "load",
+          "review"
+        ],
+        "body_regions": [
+          "foot-ankle",
+          "knee",
+          "pelvis-hip",
+          "core-trunk",
+          "whole-body"
+        ],
+        "movement_tasks": [
+          "squat"
+        ],
+        "capacities": [
+          "strength",
+          "mobility",
+          "stability",
+          "coordination"
         ]
       }
     }

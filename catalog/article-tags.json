@@ -2057,6 +2057,37 @@
         "coordination",
         "proprioception"
       ]
+    },
+    "097": {
+      "primary_category": "method-judgment",
+      "dimensions": [
+        "structure",
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "foundation",
+        "movement",
+        "load",
+        "review"
+      ],
+      "body_regions": [
+        "foot-ankle",
+        "knee",
+        "pelvis-hip",
+        "core-trunk",
+        "whole-body"
+      ],
+      "movement_tasks": [
+        "squat"
+      ],
+      "capacities": [
+        "strength",
+        "mobility",
+        "stability",
+        "coordination"
+      ]
     }
   }
 }
