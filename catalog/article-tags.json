@@ -186,7 +186,7 @@
       ]
     },
     "028": {
-      "primary_category": "load-recovery",
+      "primary_category": "physical-capacities",
       "dimensions": [
         "structure",
         "function",
@@ -695,8 +695,9 @@
         "rhythm"
       ],
       "decision_stages": [
+        "foundation",
+        "movement",
         "load",
-        "recovery",
         "review"
       ],
       "body_regions": [
@@ -2090,13 +2091,15 @@
       ]
     },
     "098": {
-      "primary_category": "load-recovery",
+      "primary_category": "physical-capacities",
       "dimensions": [
         "function",
         "rhythm"
       ],
       "decision_stages": [
         "load",
+        "foundation",
+        "movement",
         "recovery",
         "review"
       ],
@@ -2105,15 +2108,40 @@
       ],
       "movement_tasks": [
         "running",
-        "single-leg",
-        "rotation"
+        "stairs",
+        "squat",
+        "rotation",
+        "carry"
       ],
       "capacities": [
         "strength",
         "speed",
         "power",
         "coordination",
+        "balance",
+        "cardiorespiratory",
         "recovery-capacity"
+      ]
+    },
+    "099": {
+      "primary_category": "method-judgment",
+      "dimensions": [
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "foundation",
+        "movement",
+        "recovery",
+        "review"
+      ],
+      "body_regions": [
+        "whole-body"
+      ],
+      "movement_tasks": [],
+      "capacities": [
+        "coordination",
+        "proprioception"
       ]
     }
   }

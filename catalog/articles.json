@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 77,
-  "last_content_date": "2026-11-14",
-  "content_revision": "bae408d7501136c41b9b45d82383d8d4ec77f819c3631cf06a227814b0dfe2a4",
+  "article_count": 78,
+  "last_content_date": "2026-11-15",
+  "content_revision": "6920328a69bb2b723c17f794d44e0bb3ff6fca124617dce1c363bf5aefd199da",
   "articles": [
     {
       "id": 22,
@@ -341,7 +341,7 @@
         "platforms/wechat/articles/20260823_第028篇_跑步膝不是“跑”出来的，是“跑错”出来的/20260823_第028篇_跑步膝不是“跑”出来的，是“跑错”出来的_插图04_行动路径·髋铰链三步进阶.jpg"
       ],
       "taxonomy": {
-        "primary_category": "load-recovery",
+        "primary_category": "physical-capacities",
         "dimensions": [
           "structure",
           "function",
@@ -1224,8 +1224,9 @@
           "rhythm"
         ],
         "decision_stages": [
+          "foundation",
+          "movement",
           "load",
-          "recovery",
           "review"
         ],
         "body_regions": [
@@ -3727,7 +3728,7 @@
       "platform": "wechat",
       "article_path": "platforms/wechat/articles/20261114_第098篇_运动专项化：为什么过早专项训练反而限制发展？/20261114_第098篇_运动专项化：为什么过早专项训练反而限制发展？.md",
       "summary_path": "platforms/wechat/articles/20261114_第098篇_运动专项化：为什么过早专项训练反而限制发展？/20261114_第098篇_运动专项化：为什么过早专项训练反而限制发展？_公众号摘要.md",
-      "summary": "练得早不等于该早早只练一项。过早专项化会让重复负荷增加、能力输入和恢复空间缩小；判断时应看全年课表里的负荷叠加、运动宽度与孩子真实意愿，而不能只看眼前成绩和奖牌。",
+      "summary": "增肌能提供身体的“材料”，却不会自动补齐力量表达、爆发、心肺和动作协同。真正需要调整的，是目标不只外形，却让肌肥大训练挤掉了目标任务所需能力的人；判断时应从真实任务倒推缺口。",
       "covers": {
         "16比9": "platforms/wechat/articles/20261114_第098篇_运动专项化：为什么过早专项训练反而限制发展？/20261114_第098篇_运动专项化：为什么过早专项训练反而限制发展？_封面_16比9.jpg",
         "235比100": "platforms/wechat/articles/20261114_第098篇_运动专项化：为什么过早专项训练反而限制发展？/20261114_第098篇_运动专项化：为什么过早专项训练反而限制发展？_封面_235比100.jpg"
@@ -3738,13 +3739,15 @@
         "platforms/wechat/articles/20261114_第098篇_运动专项化：为什么过早专项训练反而限制发展？/20261114_第098篇_运动专项化：为什么过早专项训练反而限制发展？_插图03_路径·从全年课表看专项时机.jpg"
       ],
       "taxonomy": {
-        "primary_category": "load-recovery",
+        "primary_category": "physical-capacities",
         "dimensions": [
           "function",
           "rhythm"
         ],
         "decision_stages": [
           "load",
+          "foundation",
+          "movement",
           "recovery",
           "review"
         ],
@@ -3753,15 +3756,61 @@
         ],
         "movement_tasks": [
           "running",
-          "single-leg",
-          "rotation"
+          "stairs",
+          "squat",
+          "rotation",
+          "carry"
         ],
         "capacities": [
           "strength",
           "speed",
           "power",
           "coordination",
+          "balance",
+          "cardiorespiratory",
           "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 99,
+      "stable_id": "beyond100-099",
+      "series": "超越百岁",
+      "title": "为什么精英运动员都有“心理教练”？",
+      "content_date": "2026-11-15",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20261115_第099篇_为什么精英运动员都有“心理教练”？/20261115_第099篇_为什么精英运动员都有“心理教练”？.md",
+      "summary_path": "platforms/wechat/articles/20261115_第099篇_为什么精英运动员都有“心理教练”？/20261115_第099篇_为什么精英运动员都有“心理教练”？_公众号摘要.md",
+      "summary": "精英运动员需要的通常不是赛前鼓励，而是让注意、唤醒和比赛程序在压力下仍可调用。先分清失常发生在哪一环，再选择心理表现训练；持续影响生活的焦虑或低落，应交给持证心理或精神卫生专业人员。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20261115_第099篇_为什么精英运动员都有“心理教练”？/20261115_第099篇_为什么精英运动员都有“心理教练”？_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20261115_第099篇_为什么精英运动员都有“心理教练”？/20261115_第099篇_为什么精英运动员都有“心理教练”？_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20261115_第099篇_为什么精英运动员都有“心理教练”？/20261115_第099篇_为什么精英运动员都有“心理教练”？_插图01_机制·压力如何改变表现链.jpg",
+        "platforms/wechat/articles/20261115_第099篇_为什么精英运动员都有“心理教练”？/20261115_第099篇_为什么精英运动员都有“心理教练”？_插图02_对照·心理表现与心理健康分工.jpg",
+        "platforms/wechat/articles/20261115_第099篇_为什么精英运动员都有“心理教练”？/20261115_第099篇_为什么精英运动员都有“心理教练”？_插图03_路径·从失常环节选择训练变量.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "method-judgment",
+        "dimensions": [
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "foundation",
+          "movement",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "whole-body"
+        ],
+        "movement_tasks": [],
+        "capacities": [
+          "coordination",
+          "proprioception"
         ]
       }
     }
