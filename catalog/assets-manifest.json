@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "file_count": 574,
-  "content_revision": "6920328a69bb2b723c17f794d44e0bb3ff6fca124617dce1c363bf5aefd199da",
+  "file_count": 581,
+  "content_revision": "7b2ec52c3d804480b218a14321aad8d43bf4510649458639a4ab004844d2b162",
   "files": [
     {
       "relative_path": "platforms/wechat/articles/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的.md",
@@ -2840,38 +2840,73 @@
     },
     {
       "relative_path": "platforms/wechat/articles/20261115_第099篇_为什么精英运动员都有“心理教练”？/20261115_第099篇_为什么精英运动员都有“心理教练”？.md",
-      "size_bytes": 4969,
-      "sha256": "abaebb4ec50d621e89766eb012f8e032faa09297c0880cb9a7e4f4c8563875e7"
+      "size_bytes": 5534,
+      "sha256": "cc7f8a2ba6d499cc38166b74020876e9334fb6efc76730e384b256c73fa52326"
     },
     {
       "relative_path": "platforms/wechat/articles/20261115_第099篇_为什么精英运动员都有“心理教练”？/20261115_第099篇_为什么精英运动员都有“心理教练”？_公众号摘要.md",
-      "size_bytes": 274,
-      "sha256": "d9e44b881a7320cb983147f59b009dae9e2e16c5ab6bfca3c1d7098466219750"
+      "size_bytes": 256,
+      "sha256": "69b22edee9169c0b37de7873e32e60d7998c5e2a04ccde397d2fe7359deb9a35"
     },
     {
       "relative_path": "platforms/wechat/articles/20261115_第099篇_为什么精英运动员都有“心理教练”？/20261115_第099篇_为什么精英运动员都有“心理教练”？_封面_16比9.jpg",
-      "size_bytes": 1662252,
-      "sha256": "fd2dad2dc3e2ee059d0f766b33d298b29ce33aa568d95d8bc2c625a8be6bba23"
+      "size_bytes": 789172,
+      "sha256": "c9022c73995f554c5c9fede32eda9da0dae4dab129edfcfd21a533706222f33f"
     },
     {
       "relative_path": "platforms/wechat/articles/20261115_第099篇_为什么精英运动员都有“心理教练”？/20261115_第099篇_为什么精英运动员都有“心理教练”？_封面_235比100.jpg",
-      "size_bytes": 2481592,
-      "sha256": "24d70ec1a03fe9c9c1c652d5a9135d57a74ec9d5bd286091b1041a485a4c257f"
+      "size_bytes": 2153473,
+      "sha256": "45f2fb05a3cf3a1f15f30245689eca881eb18b7723947286c043758c6c46a1ba"
     },
     {
       "relative_path": "platforms/wechat/articles/20261115_第099篇_为什么精英运动员都有“心理教练”？/20261115_第099篇_为什么精英运动员都有“心理教练”？_插图01_机制·压力如何改变表现链.jpg",
-      "size_bytes": 990271,
-      "sha256": "c1478b95dcaa1f75437581cbeb674b5739f64fb2dac29f617c95b6656161f4bb"
+      "size_bytes": 1170307,
+      "sha256": "01ce1c1a6f610ccae357d591cda7fe16b3594e9d064f39225a323d2a9cf89c3d"
     },
     {
       "relative_path": "platforms/wechat/articles/20261115_第099篇_为什么精英运动员都有“心理教练”？/20261115_第099篇_为什么精英运动员都有“心理教练”？_插图02_对照·心理表现与心理健康分工.jpg",
-      "size_bytes": 1008117,
-      "sha256": "4eb4eca7ee307cebbb01a1656fe9d2921441c46ac94f4863600e2cdf803b9c7f"
+      "size_bytes": 1597488,
+      "sha256": "e124206470a88f19c2fe2de9510e2e74f5fd36c2619907adcc219b519d19913f"
     },
     {
       "relative_path": "platforms/wechat/articles/20261115_第099篇_为什么精英运动员都有“心理教练”？/20261115_第099篇_为什么精英运动员都有“心理教练”？_插图03_路径·从失常环节选择训练变量.jpg",
-      "size_bytes": 1660179,
-      "sha256": "36eb078def9cb53984501ee3b4bfa4d07ea41e28260495de4606c068d6a2c9ed"
+      "size_bytes": 1681086,
+      "sha256": "28f1874829a12525d13c0e1b8c1a31f9f9a4c21d27d0f13f5244897b44ff3465"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261116_第100篇_从“能动”到“动得好”：功能性训练的终极目标/20261116_第100篇_从“能动”到“动得好”：功能性训练的终极目标.md",
+      "size_bytes": 5435,
+      "sha256": "b02fac4b7d6b1714a556c7345a02f632977cd30d4b195da7cd59ecff12e102d9"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261116_第100篇_从“能动”到“动得好”：功能性训练的终极目标/20261116_第100篇_从“能动”到“动得好”：功能性训练的终极目标_公众号摘要.md",
+      "size_bytes": 250,
+      "sha256": "35d42496246c6f95569aaa0431b94983691f8d340f64011114bcf828e9d0e8d1"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261116_第100篇_从“能动”到“动得好”：功能性训练的终极目标/20261116_第100篇_从“能动”到“动得好”：功能性训练的终极目标_封面_16比9.jpg",
+      "size_bytes": 1370319,
+      "sha256": "bba039ae0e22d58c996b4c7aea116406fcb16feb5ac36a28535b771605ebd75d"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261116_第100篇_从“能动”到“动得好”：功能性训练的终极目标/20261116_第100篇_从“能动”到“动得好”：功能性训练的终极目标_封面_235比100.jpg",
+      "size_bytes": 1487215,
+      "sha256": "d130976bda042234333c9f27acca2d9c79fd1b9d489b0a14f64428b8d7de8236"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261116_第100篇_从“能动”到“动得好”：功能性训练的终极目标/20261116_第100篇_从“能动”到“动得好”：功能性训练的终极目标_插图01_对照·动作外形与真实任务.jpg",
+      "size_bytes": 958898,
+      "sha256": "1262b98d5738ded615e44b3761c7c652a98460ba30ad9495ee0a7fb45976d635"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261116_第100篇_从“能动”到“动得好”：功能性训练的终极目标/20261116_第100篇_从“能动”到“动得好”：功能性训练的终极目标_插图02_机制·目标信息如何变成动作策略.jpg",
+      "size_bytes": 1037779,
+      "sha256": "6d0a6aa9b92dc79348230bdfec0f70d4d63c1e4761dfc56e8878265fb732a8aa"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261116_第100篇_从“能动”到“动得好”：功能性训练的终极目标/20261116_第100篇_从“能动”到“动得好”：功能性训练的终极目标_插图03_路径·从失效条件倒推训练变量.jpg",
+      "size_bytes": 1256143,
+      "sha256": "1628c228b97e75c013d7ccf500ee5d435c48c5d92dc2b808738000883563a4d2"
     }
   ]
 }

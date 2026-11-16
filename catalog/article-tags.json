@@ -2124,14 +2124,14 @@
       ]
     },
     "099": {
-      "primary_category": "method-judgment",
+      "primary_category": "load-recovery",
       "dimensions": [
         "function",
         "rhythm"
       ],
       "decision_stages": [
+        "red-flags",
         "foundation",
-        "movement",
         "recovery",
         "review"
       ],
@@ -2140,8 +2140,33 @@
       ],
       "movement_tasks": [],
       "capacities": [
-        "coordination",
-        "proprioception"
+        "recovery-capacity"
+      ]
+    },
+    "100": {
+      "primary_category": "long-term-health",
+      "dimensions": [
+        "function"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "foundation",
+        "movement",
+        "load",
+        "review"
+      ],
+      "body_regions": [
+        "whole-body"
+      ],
+      "movement_tasks": [
+        "sit-to-stand",
+        "stairs",
+        "carry"
+      ],
+      "capacities": [
+        "strength",
+        "balance",
+        "coordination"
       ]
     }
   }

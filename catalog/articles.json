@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 78,
-  "last_content_date": "2026-11-15",
-  "content_revision": "6920328a69bb2b723c17f794d44e0bb3ff6fca124617dce1c363bf5aefd199da",
+  "article_count": 79,
+  "last_content_date": "2026-11-16",
+  "content_revision": "7b2ec52c3d804480b218a14321aad8d43bf4510649458639a4ab004844d2b162",
   "articles": [
     {
       "id": 22,
@@ -3782,7 +3782,7 @@
       "platform": "wechat",
       "article_path": "platforms/wechat/articles/20261115_第099篇_为什么精英运动员都有“心理教练”？/20261115_第099篇_为什么精英运动员都有“心理教练”？.md",
       "summary_path": "platforms/wechat/articles/20261115_第099篇_为什么精英运动员都有“心理教练”？/20261115_第099篇_为什么精英运动员都有“心理教练”？_公众号摘要.md",
-      "summary": "精英运动员需要的通常不是赛前鼓励，而是让注意、唤醒和比赛程序在压力下仍可调用。先分清失常发生在哪一环，再选择心理表现训练；持续影响生活的焦虑或低落，应交给持证心理或精神卫生专业人员。",
+      "summary": "老板长期透支时，先受影响的常是精力、情绪调节和判断状态。运动不会自动带来领导力，却能通过可辨认的行动反馈积累掌控感；关键是把更稳定的状态带回真实管理任务，而不是盲目加码。",
       "covers": {
         "16比9": "platforms/wechat/articles/20261115_第099篇_为什么精英运动员都有“心理教练”？/20261115_第099篇_为什么精英运动员都有“心理教练”？_封面_16比9.jpg",
         "235比100": "platforms/wechat/articles/20261115_第099篇_为什么精英运动员都有“心理教练”？/20261115_第099篇_为什么精英运动员都有“心理教练”？_封面_235比100.jpg"
@@ -3793,14 +3793,14 @@
         "platforms/wechat/articles/20261115_第099篇_为什么精英运动员都有“心理教练”？/20261115_第099篇_为什么精英运动员都有“心理教练”？_插图03_路径·从失常环节选择训练变量.jpg"
       ],
       "taxonomy": {
-        "primary_category": "method-judgment",
+        "primary_category": "load-recovery",
         "dimensions": [
           "function",
           "rhythm"
         ],
         "decision_stages": [
+          "red-flags",
           "foundation",
-          "movement",
           "recovery",
           "review"
         ],
@@ -3809,8 +3809,54 @@
         ],
         "movement_tasks": [],
         "capacities": [
-          "coordination",
-          "proprioception"
+          "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 100,
+      "stable_id": "beyond100-100",
+      "series": "超越百岁",
+      "title": "从“能动”到“动得好”：功能性训练的终极目标",
+      "content_date": "2026-11-16",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20261116_第100篇_从“能动”到“动得好”：功能性训练的终极目标/20261116_第100篇_从“能动”到“动得好”：功能性训练的终极目标.md",
+      "summary_path": "platforms/wechat/articles/20261116_第100篇_从“能动”到“动得好”：功能性训练的终极目标/20261116_第100篇_从“能动”到“动得好”：功能性训练的终极目标_公众号摘要.md",
+      "summary": "功能性训练不由动作是否复杂、是否像生活来定义，而要看基础能力能否迁移到目标任务。先找力量、方向时机或环境变化中的失效条件，才能决定该补底盘，还是加入与任务对应的变化。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20261116_第100篇_从“能动”到“动得好”：功能性训练的终极目标/20261116_第100篇_从“能动”到“动得好”：功能性训练的终极目标_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20261116_第100篇_从“能动”到“动得好”：功能性训练的终极目标/20261116_第100篇_从“能动”到“动得好”：功能性训练的终极目标_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20261116_第100篇_从“能动”到“动得好”：功能性训练的终极目标/20261116_第100篇_从“能动”到“动得好”：功能性训练的终极目标_插图01_对照·动作外形与真实任务.jpg",
+        "platforms/wechat/articles/20261116_第100篇_从“能动”到“动得好”：功能性训练的终极目标/20261116_第100篇_从“能动”到“动得好”：功能性训练的终极目标_插图02_机制·目标信息如何变成动作策略.jpg",
+        "platforms/wechat/articles/20261116_第100篇_从“能动”到“动得好”：功能性训练的终极目标/20261116_第100篇_从“能动”到“动得好”：功能性训练的终极目标_插图03_路径·从失效条件倒推训练变量.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "long-term-health",
+        "dimensions": [
+          "function"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "foundation",
+          "movement",
+          "load",
+          "review"
+        ],
+        "body_regions": [
+          "whole-body"
+        ],
+        "movement_tasks": [
+          "sit-to-stand",
+          "stairs",
+          "carry"
+        ],
+        "capacities": [
+          "strength",
+          "balance",
+          "coordination"
         ]
       }
     }
