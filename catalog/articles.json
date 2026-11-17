@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 79,
-  "last_content_date": "2026-11-16",
-  "content_revision": "7b2ec52c3d804480b218a14321aad8d43bf4510649458639a4ab004844d2b162",
+  "article_count": 80,
+  "last_content_date": "2026-11-17",
+  "content_revision": "ba6ebed0dc8fd16f24a7686f854909294a105501192889743398543cdcafdcf1",
   "articles": [
     {
       "id": 22,
@@ -3823,7 +3823,7 @@
       "platform": "wechat",
       "article_path": "platforms/wechat/articles/20261116_第100篇_从“能动”到“动得好”：功能性训练的终极目标/20261116_第100篇_从“能动”到“动得好”：功能性训练的终极目标.md",
       "summary_path": "platforms/wechat/articles/20261116_第100篇_从“能动”到“动得好”：功能性训练的终极目标/20261116_第100篇_从“能动”到“动得好”：功能性训练的终极目标_公众号摘要.md",
-      "summary": "功能性训练不由动作是否复杂、是否像生活来定义，而要看基础能力能否迁移到目标任务。先找力量、方向时机或环境变化中的失效条件，才能决定该补底盘，还是加入与任务对应的变化。",
+      "summary": "能把臀桥顶起来，不等于分得清顶髋和顶腰。功能性训练先看同一动作由什么策略完成，再看策略能否在负荷、速度和环境变化中保留；只有目标任务真的改善，能力才算从“能动”走向“动得好”。",
       "covers": {
         "16比9": "platforms/wechat/articles/20261116_第100篇_从“能动”到“动得好”：功能性训练的终极目标/20261116_第100篇_从“能动”到“动得好”：功能性训练的终极目标_封面_16比9.jpg",
         "235比100": "platforms/wechat/articles/20261116_第100篇_从“能动”到“动得好”：功能性训练的终极目标/20261116_第100篇_从“能动”到“动得好”：功能性训练的终极目标_封面_235比100.jpg"
@@ -3857,6 +3857,50 @@
           "strength",
           "balance",
           "coordination"
+        ]
+      }
+    },
+    {
+      "id": 101,
+      "stable_id": "beyond100-101",
+      "series": "超越百岁",
+      "title": "春节后的“报复性健身”，为什么让你更容易受伤？",
+      "content_date": "2026-11-17",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20261117_第101篇_春节后的“报复性健身”，为什么让你更容易受伤？/20261117_第101篇_春节后的“报复性健身”，为什么让你更容易受伤？.md",
+      "summary_path": "platforms/wechat/articles/20261117_第101篇_春节后的“报复性健身”，为什么让你更容易受伤？/20261117_第101篇_春节后的“报复性健身”，为什么让你更容易受伤？_公众号摘要.md",
+      "summary": "春节后更容易受伤，往往不是因为休息了几天，而是旧课表一次跨过了今天的承受力。先看单次重量、总量、速度和新动作是否同时跳升，再用训练中与次日反应决定继续、减量或转专业评估。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20261117_第101篇_春节后的“报复性健身”，为什么让你更容易受伤？/20261117_第101篇_春节后的“报复性健身”，为什么让你更容易受伤？_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20261117_第101篇_春节后的“报复性健身”，为什么让你更容易受伤？/20261117_第101篇_春节后的“报复性健身”，为什么让你更容易受伤？_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20261117_第101篇_春节后的“报复性健身”，为什么让你更容易受伤？/20261117_第101篇_春节后的“报复性健身”，为什么让你更容易受伤？_插图01_机制·旧课表遇上当前承受力.jpg",
+        "platforms/wechat/articles/20261117_第101篇_春节后的“报复性健身”，为什么让你更容易受伤？/20261117_第101篇_春节后的“报复性健身”，为什么让你更容易受伤？_插图02_对照·单次跳升不是周平均.jpg",
+        "platforms/wechat/articles/20261117_第101篇_春节后的“报复性健身”，为什么让你更容易受伤？/20261117_第101篇_春节后的“报复性健身”，为什么让你更容易受伤？_插图03_行动·酸胀、疼痛与异常信号.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "load-recovery",
+        "dimensions": [
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "load",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "whole-body"
+        ],
+        "movement_tasks": [],
+        "capacities": [
+          "strength",
+          "speed",
+          "cardiorespiratory",
+          "recovery-capacity"
         ]
       }
     }

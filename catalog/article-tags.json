@@ -2168,6 +2168,29 @@
         "balance",
         "coordination"
       ]
+    },
+    "101": {
+      "primary_category": "load-recovery",
+      "dimensions": [
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "load",
+        "recovery",
+        "review"
+      ],
+      "body_regions": [
+        "whole-body"
+      ],
+      "movement_tasks": [],
+      "capacities": [
+        "strength",
+        "speed",
+        "cardiorespiratory",
+        "recovery-capacity"
+      ]
     }
   }
 }
