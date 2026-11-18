@@ -2191,6 +2191,26 @@
         "cardiorespiratory",
         "recovery-capacity"
       ]
+    },
+    "102": {
+      "primary_category": "evidence-myths",
+      "dimensions": [
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "breathing",
+        "review"
+      ],
+      "body_regions": [
+        "head-neck",
+        "ribcage-spine"
+      ],
+      "movement_tasks": [],
+      "capacities": [
+        "cardiorespiratory"
+      ]
     }
   }
 }

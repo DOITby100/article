@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 80,
-  "last_content_date": "2026-11-17",
-  "content_revision": "ba6ebed0dc8fd16f24a7686f854909294a105501192889743398543cdcafdcf1",
+  "article_count": 81,
+  "last_content_date": "2026-11-18",
+  "content_revision": "84e7be8b63768865a2296c3a89baefaf0a95549933fbc6bca81f21b0b0932ab1",
   "articles": [
     {
       "id": 22,
@@ -3870,7 +3870,7 @@
       "platform": "wechat",
       "article_path": "platforms/wechat/articles/20261117_第101篇_春节后的“报复性健身”，为什么让你更容易受伤？/20261117_第101篇_春节后的“报复性健身”，为什么让你更容易受伤？.md",
       "summary_path": "platforms/wechat/articles/20261117_第101篇_春节后的“报复性健身”，为什么让你更容易受伤？/20261117_第101篇_春节后的“报复性健身”，为什么让你更容易受伤？_公众号摘要.md",
-      "summary": "春节后更容易受伤，往往不是因为休息了几天，而是旧课表一次跨过了今天的承受力。先看单次重量、总量、速度和新动作是否同时跳升，再用训练中与次日反应决定继续、减量或转专业评估。",
+      "summary": "休息十几天后，身体并不会整齐地一起退步：原重量可能还举得动，连续输出、心肺反应和次日恢复却未必同步。先用第一练重新标定，再根据后半程表现与次日反应一次只加一个变量，才能把旧课表变成今天能承受的课表。",
       "covers": {
         "16比9": "platforms/wechat/articles/20261117_第101篇_春节后的“报复性健身”，为什么让你更容易受伤？/20261117_第101篇_春节后的“报复性健身”，为什么让你更容易受伤？_封面_16比9.jpg",
         "235比100": "platforms/wechat/articles/20261117_第101篇_春节后的“报复性健身”，为什么让你更容易受伤？/20261117_第101篇_春节后的“报复性健身”，为什么让你更容易受伤？_封面_235比100.jpg"
@@ -3901,6 +3901,47 @@
           "speed",
           "cardiorespiratory",
           "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 102,
+      "stable_id": "beyond100-102",
+      "series": "超越百岁",
+      "title": "春季过敏、鼻炎发作？呼吸训练帮你缓解症状",
+      "content_date": "2026-11-18",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20261118_第102篇_春季过敏、鼻炎发作？呼吸训练帮你缓解症状/20261118_第102篇_春季过敏、鼻炎发作？呼吸训练帮你缓解症状.md",
+      "summary_path": "platforms/wechat/articles/20261118_第102篇_春季过敏、鼻炎发作？呼吸训练帮你缓解症状/20261118_第102篇_春季过敏、鼻炎发作？呼吸训练帮你缓解症状_公众号摘要.md",
+      "summary": "鼻炎发作的核心是鼻黏膜过敏性炎症，不是“不会呼吸”。呼吸训练只可能辅助鼻塞后留下的口呼吸、急促或紧张感；先分清鼻部炎症、下气道问题与呼吸模式，才能避免误把训练当治疗。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20261118_第102篇_春季过敏、鼻炎发作？呼吸训练帮你缓解症状/20261118_第102篇_春季过敏、鼻炎发作？呼吸训练帮你缓解症状_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20261118_第102篇_春季过敏、鼻炎发作？呼吸训练帮你缓解症状/20261118_第102篇_春季过敏、鼻炎发作？呼吸训练帮你缓解症状_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20261118_第102篇_春季过敏、鼻炎发作？呼吸训练帮你缓解症状/20261118_第102篇_春季过敏、鼻炎发作？呼吸训练帮你缓解症状_插图01_机制·过敏原到鼻塞.jpg",
+        "platforms/wechat/articles/20261118_第102篇_春季过敏、鼻炎发作？呼吸训练帮你缓解症状/20261118_第102篇_春季过敏、鼻炎发作？呼吸训练帮你缓解症状_插图02_对照·炎症路径与呼吸模式.jpg",
+        "platforms/wechat/articles/20261118_第102篇_春季过敏、鼻炎发作？呼吸训练帮你缓解症状/20261118_第102篇_春季过敏、鼻炎发作？呼吸训练帮你缓解症状_插图03_判断·三条症状路径.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "evidence-myths",
+        "dimensions": [
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "breathing",
+          "review"
+        ],
+        "body_regions": [
+          "head-neck",
+          "ribcage-spine"
+        ],
+        "movement_tasks": [],
+        "capacities": [
+          "cardiorespiratory"
         ]
       }
     }
