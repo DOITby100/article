@@ -2211,6 +2211,36 @@
       "capacities": [
         "cardiorespiratory"
       ]
+    },
+    "104": {
+      "primary_category": "evidence-myths",
+      "dimensions": [
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "foundation",
+        "movement",
+        "load",
+        "recovery",
+        "review"
+      ],
+      "body_regions": [
+        "pelvis-hip",
+        "knee",
+        "whole-body"
+      ],
+      "movement_tasks": [
+        "walking",
+        "sit-to-stand",
+        "hinge"
+      ],
+      "capacities": [
+        "strength",
+        "cardiorespiratory",
+        "recovery-capacity"
+      ]
     }
   }
 }

@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 81,
-  "last_content_date": "2026-11-18",
-  "content_revision": "84e7be8b63768865a2296c3a89baefaf0a95549933fbc6bca81f21b0b0932ab1",
+  "article_count": 82,
+  "last_content_date": "2026-11-19",
+  "content_revision": "1676e5c275869602a5b93555e4f554245632ccb485291410b8bbe8f977b13a55",
   "articles": [
     {
       "id": 22,
@@ -3942,6 +3942,57 @@
         "movement_tasks": [],
         "capacities": [
           "cardiorespiratory"
+        ]
+      }
+    },
+    {
+      "id": 104,
+      "stable_id": "beyond100-104",
+      "series": "超越百岁",
+      "title": "夏天到了想露腿？这套方案帮你科学瘦腿不伤膝",
+      "content_date": "2026-11-19",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20261119_第104篇_夏天到了想露腿？这套方案帮你科学瘦腿不伤膝/20261119_第104篇_夏天到了想露腿？这套方案帮你科学瘦腿不伤膝.md",
+      "summary_path": "platforms/wechat/articles/20261119_第104篇_夏天到了想露腿？这套方案帮你科学瘦腿不伤膝/20261119_第104篇_夏天到了想露腿？这套方案帮你科学瘦腿不伤膝_公众号摘要.md",
+      "summary": "局部练腿不等于局部减脂，少用膝也不等于护膝。先分清脂肪、肌肉与水分变化，再让心肺和力量训练匹配膝盖当下能力，才能改善线条而不被“燃烧感”带偏。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20261119_第104篇_夏天到了想露腿？这套方案帮你科学瘦腿不伤膝/20261119_第104篇_夏天到了想露腿？这套方案帮你科学瘦腿不伤膝_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20261119_第104篇_夏天到了想露腿？这套方案帮你科学瘦腿不伤膝/20261119_第104篇_夏天到了想露腿？这套方案帮你科学瘦腿不伤膝_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20261119_第104篇_夏天到了想露腿？这套方案帮你科学瘦腿不伤膝/20261119_第104篇_夏天到了想露腿？这套方案帮你科学瘦腿不伤膝_插图01_对照·腿围来源分流.jpg",
+        "platforms/wechat/articles/20261119_第104篇_夏天到了想露腿？这套方案帮你科学瘦腿不伤膝/20261119_第104篇_夏天到了想露腿？这套方案帮你科学瘦腿不伤膝_插图02_机制·负荷与能力关系.jpg",
+        "platforms/wechat/articles/20261119_第104篇_夏天到了想露腿？这套方案帮你科学瘦腿不伤膝/20261119_第104篇_夏天到了想露腿？这套方案帮你科学瘦腿不伤膝_插图03_行动·三线训练方案.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "evidence-myths",
+        "dimensions": [
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "foundation",
+          "movement",
+          "load",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "pelvis-hip",
+          "knee",
+          "whole-body"
+        ],
+        "movement_tasks": [
+          "walking",
+          "sit-to-stand",
+          "hinge"
+        ],
+        "capacities": [
+          "strength",
+          "cardiorespiratory",
+          "recovery-capacity"
         ]
       }
     }
