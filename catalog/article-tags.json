@@ -2241,6 +2241,30 @@
         "cardiorespiratory",
         "recovery-capacity"
       ]
+    },
+    "106": {
+      "primary_category": "method-judgment",
+      "dimensions": [
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "load",
+        "recovery",
+        "review"
+      ],
+      "body_regions": [
+        "head-neck",
+        "shoulder-upper-limb"
+      ],
+      "movement_tasks": [
+        "standing",
+        "walking"
+      ],
+      "capacities": [
+        "recovery-capacity"
+      ]
     }
   }
 }

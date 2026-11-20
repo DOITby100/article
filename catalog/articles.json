@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 82,
-  "last_content_date": "2026-11-19",
-  "content_revision": "1676e5c275869602a5b93555e4f554245632ccb485291410b8bbe8f977b13a55",
+  "article_count": 83,
+  "last_content_date": "2026-11-20",
+  "content_revision": "d80201b4037f55cb2d2bc77aeb9feadf378d14d9ff2f7db265eaf4e28f77dd77",
   "articles": [
     {
       "id": 22,
@@ -3955,7 +3955,7 @@
       "platform": "wechat",
       "article_path": "platforms/wechat/articles/20261119_第104篇_夏天到了想露腿？这套方案帮你科学瘦腿不伤膝/20261119_第104篇_夏天到了想露腿？这套方案帮你科学瘦腿不伤膝.md",
       "summary_path": "platforms/wechat/articles/20261119_第104篇_夏天到了想露腿？这套方案帮你科学瘦腿不伤膝/20261119_第104篇_夏天到了想露腿？这套方案帮你科学瘦腿不伤膝_公众号摘要.md",
-      "summary": "局部练腿不等于局部减脂，少用膝也不等于护膝。先分清脂肪、肌肉与水分变化，再让心肺和力量训练匹配膝盖当下能力，才能改善线条而不被“燃烧感”带偏。",
+      "summary": "小腿围从 38 厘米到 34 厘米，是我的个人结果，不是一个动作的承诺。真正值得复盘的是：先看偏移在站立、单腿支撑还是走路中出现，再用脚趾、髋旋转和单腿髋铰链逐步把能力接回步态。",
       "covers": {
         "16比9": "platforms/wechat/articles/20261119_第104篇_夏天到了想露腿？这套方案帮你科学瘦腿不伤膝/20261119_第104篇_夏天到了想露腿？这套方案帮你科学瘦腿不伤膝_封面_16比9.jpg",
         "235比100": "platforms/wechat/articles/20261119_第104篇_夏天到了想露腿？这套方案帮你科学瘦腿不伤膝/20261119_第104篇_夏天到了想露腿？这套方案帮你科学瘦腿不伤膝_封面_235比100.jpg"
@@ -3992,6 +3992,51 @@
         "capacities": [
           "strength",
           "cardiorespiratory",
+          "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 106,
+      "stable_id": "beyond100-106",
+      "series": "超越百岁",
+      "title": "久坐办公室开空调，为什么你的肩颈更僵硬了？",
+      "content_date": "2026-11-20",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20261120_第106篇_久坐办公室开空调，为什么你的肩颈更僵硬了？/20261120_第106篇_久坐办公室开空调，为什么你的肩颈更僵硬了？.md",
+      "summary_path": "platforms/wechat/articles/20261120_第106篇_久坐办公室开空调，为什么你的肩颈更僵硬了？/20261120_第106篇_久坐办公室开空调，为什么你的肩颈更僵硬了？_公众号摘要.md",
+      "summary": "空调直吹首先改变局部冷热感，久坐电脑任务则让头颈和手臂持续低水平用力。把冷风与任务节奏一次只改一个，观察僵硬出现时间、范围和恢复速度，才能判断该先调整送风，还是先减少静态负荷。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20261120_第106篇_久坐办公室开空调，为什么你的肩颈更僵硬了？/20261120_第106篇_久坐办公室开空调，为什么你的肩颈更僵硬了？_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20261120_第106篇_久坐办公室开空调，为什么你的肩颈更僵硬了？/20261120_第106篇_久坐办公室开空调，为什么你的肩颈更僵硬了？_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20261120_第106篇_久坐办公室开空调，为什么你的肩颈更僵硬了？/20261120_第106篇_久坐办公室开空调，为什么你的肩颈更僵硬了？_插图01_机制·冷风与静态负荷叠加.jpg",
+        "platforms/wechat/articles/20261120_第106篇_久坐办公室开空调，为什么你的肩颈更僵硬了？/20261120_第106篇_久坐办公室开空调，为什么你的肩颈更僵硬了？_插图02_对照·冷风线与久坐线.jpg",
+        "platforms/wechat/articles/20261120_第106篇_久坐办公室开空调，为什么你的肩颈更僵硬了？/20261120_第106篇_久坐办公室开空调，为什么你的肩颈更僵硬了？_插图03_行动·一次只改一个变量.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "method-judgment",
+        "dimensions": [
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "load",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "head-neck",
+          "shoulder-upper-limb"
+        ],
+        "movement_tasks": [
+          "standing",
+          "walking"
+        ],
+        "capacities": [
           "recovery-capacity"
         ]
       }
