@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 83,
-  "last_content_date": "2026-11-20",
-  "content_revision": "d80201b4037f55cb2d2bc77aeb9feadf378d14d9ff2f7db265eaf4e28f77dd77",
+  "article_count": 84,
+  "last_content_date": "2026-11-21",
+  "content_revision": "2d24bdad1959edd130072df790b6d3373738b0280e42ec1bbf5ed1cb52973a82",
   "articles": [
     {
       "id": 22,
@@ -4037,6 +4037,58 @@
           "walking"
         ],
         "capacities": [
+          "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 108,
+      "stable_id": "beyond100-108",
+      "series": "超越百岁",
+      "title": "中秋国庆长假：如何在旅行中保持身体状态？",
+      "content_date": "2026-11-21",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20261121_第108篇_中秋国庆长假：如何在旅行中保持身体状态？/20261121_第108篇_中秋国庆长假：如何在旅行中保持身体状态？.md",
+      "summary_path": "platforms/wechat/articles/20261121_第108篇_中秋国庆长假：如何在旅行中保持身体状态？/20261121_第108篇_中秋国庆长假：如何在旅行中保持身体状态？_公众号摘要.md",
+      "summary": "旅行中没去健身房，不等于身体没有负荷。先分清交通久坐、游览步行和宽松日，再决定是打断不动、减少叠加，还是补一个力量信号，才能把状态留在行程里。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20261121_第108篇_中秋国庆长假：如何在旅行中保持身体状态？/20261121_第108篇_中秋国庆长假：如何在旅行中保持身体状态？_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20261121_第108篇_中秋国庆长假：如何在旅行中保持身体状态？/20261121_第108篇_中秋国庆长假：如何在旅行中保持身体状态？_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20261121_第108篇_中秋国庆长假：如何在旅行中保持身体状态？/20261121_第108篇_中秋国庆长假：如何在旅行中保持身体状态？_插图01_机制·旅行如何重排负荷.jpg",
+        "platforms/wechat/articles/20261121_第108篇_中秋国庆长假：如何在旅行中保持身体状态？/20261121_第108篇_中秋国庆长假：如何在旅行中保持身体状态？_插图02_路径·按行程选择身体任务.jpg",
+        "platforms/wechat/articles/20261121_第108篇_中秋国庆长假：如何在旅行中保持身体状态？/20261121_第108篇_中秋国庆长假：如何在旅行中保持身体状态？_插图03_行动·保留力量与活动信号.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "load-recovery",
+        "dimensions": [
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "movement",
+          "load",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "foot-ankle",
+          "whole-body"
+        ],
+        "movement_tasks": [
+          "sit-to-stand",
+          "walking",
+          "stairs",
+          "squat",
+          "pull",
+          "carry"
+        ],
+        "capacities": [
+          "strength",
+          "cardiorespiratory",
           "recovery-capacity"
         ]
       }
