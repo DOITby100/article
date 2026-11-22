@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 84,
-  "last_content_date": "2026-11-21",
-  "content_revision": "2d24bdad1959edd130072df790b6d3373738b0280e42ec1bbf5ed1cb52973a82",
+  "article_count": 85,
+  "last_content_date": "2026-11-22",
+  "content_revision": "3fa63e697dac544bbe40432fc3961bfafe494095632e5b442a98c7d57c44a6fe",
   "articles": [
     {
       "id": 22,
@@ -3955,7 +3955,7 @@
       "platform": "wechat",
       "article_path": "platforms/wechat/articles/20261119_第104篇_夏天到了想露腿？这套方案帮你科学瘦腿不伤膝/20261119_第104篇_夏天到了想露腿？这套方案帮你科学瘦腿不伤膝.md",
       "summary_path": "platforms/wechat/articles/20261119_第104篇_夏天到了想露腿？这套方案帮你科学瘦腿不伤膝/20261119_第104篇_夏天到了想露腿？这套方案帮你科学瘦腿不伤膝_公众号摘要.md",
-      "summary": "小腿围从 38 厘米到 34 厘米，是我的个人结果，不是一个动作的承诺。真正值得复盘的是：先看偏移在站立、单腿支撑还是走路中出现，再用脚趾、髋旋转和单腿髋铰链逐步把能力接回步态。",
+      "summary": "小腿围从 38 到 34，并不是一个动作的结果。我的三次变化分别出现在后侧张力、骨盆—髋周围形态与控制、足踝和跟骨转换改善之后；腿型要分层排查，不能只盯着最显眼的小腿。",
       "covers": {
         "16比9": "platforms/wechat/articles/20261119_第104篇_夏天到了想露腿？这套方案帮你科学瘦腿不伤膝/20261119_第104篇_夏天到了想露腿？这套方案帮你科学瘦腿不伤膝_封面_16比9.jpg",
         "235比100": "platforms/wechat/articles/20261119_第104篇_夏天到了想露腿？这套方案帮你科学瘦腿不伤膝/20261119_第104篇_夏天到了想露腿？这套方案帮你科学瘦腿不伤膝_封面_235比100.jpg"
@@ -4089,6 +4089,54 @@
         "capacities": [
           "strength",
           "cardiorespiratory",
+          "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 109,
+      "stable_id": "beyond100-109",
+      "series": "超越百岁",
+      "title": "秋冬换季膝盖疼？关节需要“保养”而非“保护”",
+      "content_date": "2026-11-22",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20261122_第109篇_秋冬换季膝盖疼？关节需要“保养”而非“保护”/20261122_第109篇_秋冬换季膝盖疼？关节需要“保养”而非“保护”.md",
+      "summary_path": "platforms/wechat/articles/20261122_第109篇_秋冬换季膝盖疼？关节需要“保养”而非“保护”/20261122_第109篇_秋冬换季膝盖疼？关节需要“保养”而非“保护”_公众号摘要.md",
+      "summary": "换季时膝盖疼，不等于关节又被冷坏了；天气只是时间线索，活动后的功能走向才决定下一步。读完你会知道何时保留负荷、何时减量，以及哪些危险信号不能继续当作“怕冷”。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20261122_第109篇_秋冬换季膝盖疼？关节需要“保养”而非“保护”/20261122_第109篇_秋冬换季膝盖疼？关节需要“保养”而非“保护”_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20261122_第109篇_秋冬换季膝盖疼？关节需要“保养”而非“保护”/20261122_第109篇_秋冬换季膝盖疼？关节需要“保养”而非“保护”_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20261122_第109篇_秋冬换季膝盖疼？关节需要“保养”而非“保护”/20261122_第109篇_秋冬换季膝盖疼？关节需要“保养”而非“保护”_插图01_机制·天气线索与功能反应.jpg",
+        "platforms/wechat/articles/20261122_第109篇_秋冬换季膝盖疼？关节需要“保养”而非“保护”/20261122_第109篇_秋冬换季膝盖疼？关节需要“保养”而非“保护”_插图02_对照·保养与过度保护.jpg",
+        "platforms/wechat/articles/20261122_第109篇_秋冬换季膝盖疼？关节需要“保养”而非“保护”/20261122_第109篇_秋冬换季膝盖疼？关节需要“保养”而非“保护”_插图03_路径·按功能反应决定下一步.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "evidence-myths",
+        "dimensions": [
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "movement",
+          "load",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "knee"
+        ],
+        "movement_tasks": [
+          "sit-to-stand",
+          "walking",
+          "stairs",
+          "squat"
+        ],
+        "capacities": [
+          "strength",
           "recovery-capacity"
         ]
       }
