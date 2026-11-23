@@ -2323,6 +2323,28 @@
         "strength",
         "recovery-capacity"
       ]
+    },
+    "112": {
+      "primary_category": "method-judgment",
+      "dimensions": [
+        "rhythm"
+      ],
+      "decision_stages": [
+        "foundation",
+        "load",
+        "recovery",
+        "review"
+      ],
+      "body_regions": [
+        "whole-body"
+      ],
+      "movement_tasks": [
+        "walking"
+      ],
+      "capacities": [
+        "cardiorespiratory",
+        "recovery-capacity"
+      ]
     }
   }
 }

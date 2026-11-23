@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 85,
-  "last_content_date": "2026-11-22",
-  "content_revision": "3fa63e697dac544bbe40432fc3961bfafe494095632e5b442a98c7d57c44a6fe",
+  "article_count": 86,
+  "last_content_date": "2026-11-23",
+  "content_revision": "abcf161efa054f4663a9cd7253e9fc3f9d24735b14f2c68a73ec8b8269ce5d71",
   "articles": [
     {
       "id": 22,
@@ -4103,7 +4103,7 @@
       "platform": "wechat",
       "article_path": "platforms/wechat/articles/20261122_第109篇_秋冬换季膝盖疼？关节需要“保养”而非“保护”/20261122_第109篇_秋冬换季膝盖疼？关节需要“保养”而非“保护”.md",
       "summary_path": "platforms/wechat/articles/20261122_第109篇_秋冬换季膝盖疼？关节需要“保养”而非“保护”/20261122_第109篇_秋冬换季膝盖疼？关节需要“保养”而非“保护”_公众号摘要.md",
-      "summary": "换季时膝盖疼，不等于关节又被冷坏了；天气只是时间线索，活动后的功能走向才决定下一步。读完你会知道何时保留负荷、何时减量，以及哪些危险信号不能继续当作“怕冷”。",
+      "summary": "天冷可能让痛觉和僵硬感短时上升，却不等于软骨被冷坏；温度影响的是感觉输入、软组织状态和活动方式。判断下一步仍要看活动后功能是否回升、负荷后是否持续变差，以及有无危险信号。",
       "covers": {
         "16比9": "platforms/wechat/articles/20261122_第109篇_秋冬换季膝盖疼？关节需要“保养”而非“保护”/20261122_第109篇_秋冬换季膝盖疼？关节需要“保养”而非“保护”_封面_16比9.jpg",
         "235比100": "platforms/wechat/articles/20261122_第109篇_秋冬换季膝盖疼？关节需要“保养”而非“保护”/20261122_第109篇_秋冬换季膝盖疼？关节需要“保养”而非“保护”_封面_235比100.jpg"
@@ -4137,6 +4137,49 @@
         ],
         "capacities": [
           "strength",
+          "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 112,
+      "stable_id": "beyond100-112",
+      "series": "超越百岁",
+      "title": "新年健身计划总是坚持不了？因为你没做好这 3 件事",
+      "content_date": "2026-11-23",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20261123_第112篇_新年健身计划总是坚持不了？因为你没做好这 3 件事/20261123_第112篇_新年健身计划总是坚持不了？因为你没做好这 3 件事.md",
+      "summary_path": "platforms/wechat/articles/20261123_第112篇_新年健身计划总是坚持不了？因为你没做好这 3 件事/20261123_第112篇_新年健身计划总是坚持不了？因为你没做好这 3 件事_公众号摘要.md",
+      "summary": "新年计划总在忙碌时失效，未必是意志差，而是缺少清楚入口、稳定触发点和调整规则。把最低版本、开始信号与每周反馈写进计划，训练才有机会在真实生活里重复，而不是反复责怪意志力。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20261123_第112篇_新年健身计划总是坚持不了？因为你没做好这 3 件事/20261123_第112篇_新年健身计划总是坚持不了？因为你没做好这 3 件事_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20261123_第112篇_新年健身计划总是坚持不了？因为你没做好这 3 件事/20261123_第112篇_新年健身计划总是坚持不了？因为你没做好这 3 件事_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20261123_第112篇_新年健身计划总是坚持不了？因为你没做好这 3 件事/20261123_第112篇_新年健身计划总是坚持不了？因为你没做好这 3 件事_插图01_机制·愿望清单与执行系统.jpg",
+        "platforms/wechat/articles/20261123_第112篇_新年健身计划总是坚持不了？因为你没做好这 3 件事/20261123_第112篇_新年健身计划总是坚持不了？因为你没做好这 3 件事_插图02_路径·把开始绑定固定触发点.jpg",
+        "platforms/wechat/articles/20261123_第112篇_新年健身计划总是坚持不了？因为你没做好这 3 件事/20261123_第112篇_新年健身计划总是坚持不了？因为你没做好这 3 件事_插图03_行动·用反馈重写下一周计划.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "method-judgment",
+        "dimensions": [
+          "rhythm"
+        ],
+        "decision_stages": [
+          "foundation",
+          "load",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "whole-body"
+        ],
+        "movement_tasks": [
+          "walking"
+        ],
+        "capacities": [
+          "cardiorespiratory",
           "recovery-capacity"
         ]
       }
