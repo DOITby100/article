@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "file_count": 630,
-  "content_revision": "abcf161efa054f4663a9cd7253e9fc3f9d24735b14f2c68a73ec8b8269ce5d71",
+  "file_count": 637,
+  "content_revision": "997975f3646e99d57a84819f510c3047dd1147b59539099be6d90d8bb197b224",
   "files": [
     {
       "relative_path": "platforms/wechat/articles/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的.md",
@@ -3152,6 +3152,41 @@
       "relative_path": "platforms/wechat/articles/20261123_第112篇_新年健身计划总是坚持不了？因为你没做好这 3 件事/20261123_第112篇_新年健身计划总是坚持不了？因为你没做好这 3 件事_插图03_行动·用反馈重写下一周计划.jpg",
       "size_bytes": 1214485,
       "sha256": "a0ee07facf6f402b4929c2717ef1f125ed4ef60dbf709e99d8cdd81886b32604"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261124_第113篇_有高血压就该少练力量？真正要管理的是压力反应，不是哑铃本身/20261124_第113篇_有高血压就该少练力量？真正要管理的是压力反应，不是哑铃本身.md",
+      "size_bytes": 4142,
+      "sha256": "3f9f9662a6aa6acfcb018254fdcb54d0b5d1986379d3be8dcfc9439be526c01e"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261124_第113篇_有高血压就该少练力量？真正要管理的是压力反应，不是哑铃本身/20261124_第113篇_有高血压就该少练力量？真正要管理的是压力反应，不是哑铃本身_公众号摘要.md",
+      "size_bytes": 292,
+      "sha256": "bb797ffa0b2db97eb2baa92775ac37aae31d541fc5ae2bb79bd48672065c5fb6"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261124_第113篇_有高血压就该少练力量？真正要管理的是压力反应，不是哑铃本身/20261124_第113篇_有高血压就该少练力量？真正要管理的是压力反应，不是哑铃本身_封面_16比9.jpg",
+      "size_bytes": 6651805,
+      "sha256": "ce437c59ecf3ec3156bef81f60d46f454f924aae1e5671b7014f8abb9c8250ba"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261124_第113篇_有高血压就该少练力量？真正要管理的是压力反应，不是哑铃本身/20261124_第113篇_有高血压就该少练力量？真正要管理的是压力反应，不是哑铃本身_封面_235比100.jpg",
+      "size_bytes": 8544736,
+      "sha256": "12f6849bf67140ede04f86ae2dcd6d7e2c9c613040be549e51c60fbc1103cb94"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261124_第113篇_有高血压就该少练力量？真正要管理的是压力反应，不是哑铃本身/20261124_第113篇_有高血压就该少练力量？真正要管理的是压力反应，不是哑铃本身_插图01_短时升压与长期趋势机制.jpg",
+      "size_bytes": 4103813,
+      "sha256": "11fd885f9714fdd76985483837cfa6ecfe2984824981e5ea9793c8b7a1e81963"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261124_第113篇_有高血压就该少练力量？真正要管理的是压力反应，不是哑铃本身/20261124_第113篇_有高血压就该少练力量？真正要管理的是压力反应，不是哑铃本身_插图02_同一重量的两种用力方式对照.jpg",
+      "size_bytes": 4189476,
+      "sha256": "d17f9be955984db42501a3d4689e565a5bec629b2f2e64f274755cea78c65ed9"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261124_第113篇_有高血压就该少练力量？真正要管理的是压力反应，不是哑铃本身/20261124_第113篇_有高血压就该少练力量？真正要管理的是压力反应，不是哑铃本身_插图03_先调压力条件再谈加量建议.jpg",
+      "size_bytes": 1940391,
+      "sha256": "46258de183645af27cdb4ea3cea631117b64152abe47aecdf3cb582d0e00cbfe"
     }
   ]
 }

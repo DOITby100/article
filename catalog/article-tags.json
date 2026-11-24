@@ -1749,7 +1749,7 @@
         "recovery-capacity"
       ]
     },
-      "085": {
+    "085": {
       "primary_category": "method-judgment",
       "dimensions": [
         "function",
@@ -1774,31 +1774,31 @@
       "capacities": [
         "stability",
         "recovery-capacity"
-        ]
-      },
+      ]
+    },
     "086": {
-        "primary_category": "evidence-myths",
-        "dimensions": [
-          "function",
-          "rhythm"
-        ],
-        "decision_stages": [
-          "red-flags",
-          "movement",
-          "load",
-          "recovery",
-          "review"
-        ],
-        "body_regions": [
-          "whole-body"
-        ],
-        "movement_tasks": [
-          "walking",
-          "stairs"
-        ],
-        "capacities": [
-          "recovery-capacity"
-        ]
+      "primary_category": "evidence-myths",
+      "dimensions": [
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "movement",
+        "load",
+        "recovery",
+        "review"
+      ],
+      "body_regions": [
+        "whole-body"
+      ],
+      "movement_tasks": [
+        "walking",
+        "stairs"
+      ],
+      "capacities": [
+        "recovery-capacity"
+      ]
     },
     "087": {
       "primary_category": "evidence-myths",
@@ -2344,6 +2344,26 @@
       "capacities": [
         "cardiorespiratory",
         "recovery-capacity"
+      ]
+    },
+    "113": {
+      "primary_category": "long-term-health",
+      "dimensions": [
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "breathing",
+        "load",
+        "review"
+      ],
+      "body_regions": [
+        "whole-body"
+      ],
+      "movement_tasks": [],
+      "capacities": [
+        "strength"
       ]
     }
   }

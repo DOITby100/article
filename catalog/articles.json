@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 86,
-  "last_content_date": "2026-11-23",
-  "content_revision": "abcf161efa054f4663a9cd7253e9fc3f9d24735b14f2c68a73ec8b8269ce5d71",
+  "article_count": 87,
+  "last_content_date": "2026-11-24",
+  "content_revision": "997975f3646e99d57a84819f510c3047dd1147b59539099be6d90d8bb197b224",
   "articles": [
     {
       "id": 22,
@@ -4181,6 +4181,47 @@
         "capacities": [
           "cardiorespiratory",
           "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 113,
+      "stable_id": "beyond100-113",
+      "series": "超越百岁",
+      "title": "有高血压就该少练力量？真正要管理的是压力反应，不是哑铃本身",
+      "content_date": "2026-11-24",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20261124_第113篇_有高血压就该少练力量？真正要管理的是压力反应，不是哑铃本身/20261124_第113篇_有高血压就该少练力量？真正要管理的是压力反应，不是哑铃本身.md",
+      "summary_path": "platforms/wechat/articles/20261124_第113篇_有高血压就该少练力量？真正要管理的是压力反应，不是哑铃本身/20261124_第113篇_有高血压就该少练力量？真正要管理的是压力反应，不是哑铃本身_公众号摘要.md",
+      "summary": "高血压不等于必须放弃力量训练，一次举起时的血压上升也不能代表长期结果。更值得管理的是憋气硬撑、冲极限和负荷骤增；在医疗评估与用药管理下，把呼吸、吃力程度和规范测得的血压趋势一起用于调整长期计划。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20261124_第113篇_有高血压就该少练力量？真正要管理的是压力反应，不是哑铃本身/20261124_第113篇_有高血压就该少练力量？真正要管理的是压力反应，不是哑铃本身_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20261124_第113篇_有高血压就该少练力量？真正要管理的是压力反应，不是哑铃本身/20261124_第113篇_有高血压就该少练力量？真正要管理的是压力反应，不是哑铃本身_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20261124_第113篇_有高血压就该少练力量？真正要管理的是压力反应，不是哑铃本身/20261124_第113篇_有高血压就该少练力量？真正要管理的是压力反应，不是哑铃本身_插图01_短时升压与长期趋势机制.jpg",
+        "platforms/wechat/articles/20261124_第113篇_有高血压就该少练力量？真正要管理的是压力反应，不是哑铃本身/20261124_第113篇_有高血压就该少练力量？真正要管理的是压力反应，不是哑铃本身_插图02_同一重量的两种用力方式对照.jpg",
+        "platforms/wechat/articles/20261124_第113篇_有高血压就该少练力量？真正要管理的是压力反应，不是哑铃本身/20261124_第113篇_有高血压就该少练力量？真正要管理的是压力反应，不是哑铃本身_插图03_先调压力条件再谈加量建议.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "long-term-health",
+        "dimensions": [
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "breathing",
+          "load",
+          "review"
+        ],
+        "body_regions": [
+          "whole-body"
+        ],
+        "movement_tasks": [],
+        "capacities": [
+          "strength"
         ]
       }
     }
