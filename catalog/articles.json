@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 87,
-  "last_content_date": "2026-11-24",
-  "content_revision": "997975f3646e99d57a84819f510c3047dd1147b59539099be6d90d8bb197b224",
+  "article_count": 88,
+  "last_content_date": "2026-11-25",
+  "content_revision": "a8d14bb20a027307880e63f0974d03fcb82549683bdb165458b5c4a8dcd86f65",
   "articles": [
     {
       "id": 22,
@@ -4222,6 +4222,47 @@
         "movement_tasks": [],
         "capacities": [
           "strength"
+        ]
+      }
+    },
+    {
+      "id": 114,
+      "stable_id": "beyond100-114",
+      "series": "超越百岁",
+      "title": "智能手表里的心率和“血压”，慢病训练能信到哪一步？",
+      "content_date": "2026-11-25",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20261125_第114篇_智能手表里的心率和“血压”，慢病训练能信到哪一步？/20261125_第114篇_智能手表里的心率和“血压”，慢病训练能信到哪一步？.md",
+      "summary_path": "platforms/wechat/articles/20261125_第114篇_智能手表里的心率和“血压”，慢病训练能信到哪一步？/20261125_第114篇_智能手表里的心率和“血压”，慢病训练能信到哪一步？_公众号摘要.md",
+      "summary": "智能手表显示得再精确，也不等于每个指标都能直接用于慢病训练决策。腕上心率更适合看相近条件下的个人趋势；无袖带“血压”需先确认授权与校准，重要调整仍以规范测量、症状和医疗评估为准。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20261125_第114篇_智能手表里的心率和“血压”，慢病训练能信到哪一步？/20261125_第114篇_智能手表里的心率和“血压”，慢病训练能信到哪一步？_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20261125_第114篇_智能手表里的心率和“血压”，慢病训练能信到哪一步？/20261125_第114篇_智能手表里的心率和“血压”，慢病训练能信到哪一步？_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20261125_第114篇_智能手表里的心率和“血压”，慢病训练能信到哪一步？/20261125_第114篇_智能手表里的心率和“血压”，慢病训练能信到哪一步？_插图01_光学心率的测量链.jpg",
+        "platforms/wechat/articles/20261125_第114篇_智能手表里的心率和“血压”，慢病训练能信到哪一步？/20261125_第114篇_智能手表里的心率和“血压”，慢病训练能信到哪一步？_插图02_心率与血压的证据对照.jpg",
+        "platforms/wechat/articles/20261125_第114篇_智能手表里的心率和“血压”，慢病训练能信到哪一步？/20261125_第114篇_智能手表里的心率和“血压”，慢病训练能信到哪一步？_插图03_慢病训练的数据复核路径.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "evidence-myths",
+        "dimensions": [
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "load",
+          "review"
+        ],
+        "body_regions": [
+          "whole-body"
+        ],
+        "movement_tasks": [],
+        "capacities": [
+          "cardiorespiratory",
+          "recovery-capacity"
         ]
       }
     }

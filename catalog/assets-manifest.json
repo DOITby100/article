@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "file_count": 637,
-  "content_revision": "997975f3646e99d57a84819f510c3047dd1147b59539099be6d90d8bb197b224",
+  "file_count": 644,
+  "content_revision": "a8d14bb20a027307880e63f0974d03fcb82549683bdb165458b5c4a8dcd86f65",
   "files": [
     {
       "relative_path": "platforms/wechat/articles/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的.md",
@@ -3187,6 +3187,41 @@
       "relative_path": "platforms/wechat/articles/20261124_第113篇_有高血压就该少练力量？真正要管理的是压力反应，不是哑铃本身/20261124_第113篇_有高血压就该少练力量？真正要管理的是压力反应，不是哑铃本身_插图03_先调压力条件再谈加量建议.jpg",
       "size_bytes": 1940391,
       "sha256": "46258de183645af27cdb4ea3cea631117b64152abe47aecdf3cb582d0e00cbfe"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261125_第114篇_智能手表里的心率和“血压”，慢病训练能信到哪一步？/20261125_第114篇_智能手表里的心率和“血压”，慢病训练能信到哪一步？.md",
+      "size_bytes": 4592,
+      "sha256": "a5dde189901e7ad96b719626067a8de9a4fc2070f0b91563d932cc0758cdd02e"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261125_第114篇_智能手表里的心率和“血压”，慢病训练能信到哪一步？/20261125_第114篇_智能手表里的心率和“血压”，慢病训练能信到哪一步？_公众号摘要.md",
+      "size_bytes": 268,
+      "sha256": "ff8936631f531ae4e4e4d40a9bf09315191e45025b599c73fde8e348ec5876e7"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261125_第114篇_智能手表里的心率和“血压”，慢病训练能信到哪一步？/20261125_第114篇_智能手表里的心率和“血压”，慢病训练能信到哪一步？_封面_16比9.jpg",
+      "size_bytes": 1743086,
+      "sha256": "8da2e830a6641444dddde4241b22b4e858ec5118559274218b28e11b19fb33f7"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261125_第114篇_智能手表里的心率和“血压”，慢病训练能信到哪一步？/20261125_第114篇_智能手表里的心率和“血压”，慢病训练能信到哪一步？_封面_235比100.jpg",
+      "size_bytes": 1589164,
+      "sha256": "44d89b2a919c70496b1e9263ba8003680a466f2f1831ce44e412000f465caa69"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261125_第114篇_智能手表里的心率和“血压”，慢病训练能信到哪一步？/20261125_第114篇_智能手表里的心率和“血压”，慢病训练能信到哪一步？_插图01_光学心率的测量链.jpg",
+      "size_bytes": 1177223,
+      "sha256": "f202fa9e2c63a7e6b869126563c9534f47d1fb223eafecb40ab84947c49957c1"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261125_第114篇_智能手表里的心率和“血压”，慢病训练能信到哪一步？/20261125_第114篇_智能手表里的心率和“血压”，慢病训练能信到哪一步？_插图02_心率与血压的证据对照.jpg",
+      "size_bytes": 1363186,
+      "sha256": "85dd22e580aa3859e7c49787e5cc842840298a7676019df7e3bd59d8973f403d"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261125_第114篇_智能手表里的心率和“血压”，慢病训练能信到哪一步？/20261125_第114篇_智能手表里的心率和“血压”，慢病训练能信到哪一步？_插图03_慢病训练的数据复核路径.jpg",
+      "size_bytes": 1010625,
+      "sha256": "c7044f141199c9ec8f2414eb82079ff954e0b300595cee9b403b98d37eadbdec"
     }
   ]
 }

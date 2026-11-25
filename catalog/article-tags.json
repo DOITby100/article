@@ -2365,6 +2365,26 @@
       "capacities": [
         "strength"
       ]
+    },
+    "114": {
+      "primary_category": "evidence-myths",
+      "dimensions": [
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "load",
+        "review"
+      ],
+      "body_regions": [
+        "whole-body"
+      ],
+      "movement_tasks": [],
+      "capacities": [
+        "cardiorespiratory",
+        "recovery-capacity"
+      ]
     }
   }
 }
