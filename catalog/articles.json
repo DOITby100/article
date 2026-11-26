@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 88,
-  "last_content_date": "2026-11-25",
-  "content_revision": "a8d14bb20a027307880e63f0974d03fcb82549683bdb165458b5c4a8dcd86f65",
+  "article_count": 89,
+  "last_content_date": "2026-11-26",
+  "content_revision": "4e8263206c1c45456edc14757e8c9c18c5db116471031c35cec2ff378dce9919",
   "articles": [
     {
       "id": 22,
@@ -4194,7 +4194,7 @@
       "platform": "wechat",
       "article_path": "platforms/wechat/articles/20261124_第113篇_有高血压就该少练力量？真正要管理的是压力反应，不是哑铃本身/20261124_第113篇_有高血压就该少练力量？真正要管理的是压力反应，不是哑铃本身.md",
       "summary_path": "platforms/wechat/articles/20261124_第113篇_有高血压就该少练力量？真正要管理的是压力反应，不是哑铃本身/20261124_第113篇_有高血压就该少练力量？真正要管理的是压力反应，不是哑铃本身_公众号摘要.md",
-      "summary": "高血压不等于必须放弃力量训练，一次举起时的血压上升也不能代表长期结果。更值得管理的是憋气硬撑、冲极限和负荷骤增；在医疗评估与用药管理下，把呼吸、吃力程度和规范测得的血压趋势一起用于调整长期计划。",
+      "summary": "高血压不等于必须放弃哑铃，动作中的短时升压也不等于长期血压变高。医生确认运动边界后，训练人员可在哑铃弯举和椅子坐站中观察呼吸、代偿与用力反应，再决定如何调整负荷。",
       "covers": {
         "16比9": "platforms/wechat/articles/20261124_第113篇_有高血压就该少练力量？真正要管理的是压力反应，不是哑铃本身/20261124_第113篇_有高血压就该少练力量？真正要管理的是压力反应，不是哑铃本身_封面_16比9.jpg",
         "235比100": "platforms/wechat/articles/20261124_第113篇_有高血压就该少练力量？真正要管理的是压力反应，不是哑铃本身/20261124_第113篇_有高血压就该少练力量？真正要管理的是压力反应，不是哑铃本身_封面_235比100.jpg"
@@ -4262,6 +4262,56 @@
         "movement_tasks": [],
         "capacities": [
           "cardiorespiratory",
+          "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 115,
+      "stable_id": "beyond100-115",
+      "series": "超越百岁",
+      "title": "提踵练强了，为什么一跑步跟腱还是吃不消？",
+      "content_date": "2026-11-26",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20261126_第115篇_提踵练强了，为什么一跑步跟腱还是吃不消？/20261126_第115篇_提踵练强了，为什么一跑步跟腱还是吃不消？.md",
+      "summary_path": "platforms/wechat/articles/20261126_第115篇_提踵练强了，为什么一跑步跟腱还是吃不消？/20261126_第115篇_提踵练强了，为什么一跑步跟腱还是吃不消？_公众号摘要.md",
+      "summary": "提踵重量上升，只说明慢速产力在进步，并不能替跟腱完成跑步中的快速储能、回弹和连续受力。判断回跑缺口时，应把慢速力量、快速受力与连续暴露分开，并结合当次和次日反应逐层推进。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20261126_第115篇_提踵练强了，为什么一跑步跟腱还是吃不消？/20261126_第115篇_提踵练强了，为什么一跑步跟腱还是吃不消？_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20261126_第115篇_提踵练强了，为什么一跑步跟腱还是吃不消？/20261126_第115篇_提踵练强了，为什么一跑步跟腱还是吃不消？_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20261126_第115篇_提踵练强了，为什么一跑步跟腱还是吃不消？/20261126_第115篇_提踵练强了，为什么一跑步跟腱还是吃不消？_插图01_慢速提踵与跑步时间对照.jpg",
+        "platforms/wechat/articles/20261126_第115篇_提踵练强了，为什么一跑步跟腱还是吃不消？/20261126_第115篇_提踵练强了，为什么一跑步跟腱还是吃不消？_插图02_跑步中的储能回弹机制.jpg",
+        "platforms/wechat/articles/20261126_第115篇_提踵练强了，为什么一跑步跟腱还是吃不消？/20261126_第115篇_提踵练强了，为什么一跑步跟腱还是吃不消？_插图03_回跑前的三层能力路径.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "load-recovery",
+        "dimensions": [
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "foundation",
+          "movement",
+          "load",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "foot-ankle"
+        ],
+        "movement_tasks": [
+          "running",
+          "single-leg"
+        ],
+        "capacities": [
+          "strength",
+          "speed",
+          "power",
+          "coordination",
           "recovery-capacity"
         ]
       }
