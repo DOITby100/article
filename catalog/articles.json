@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "series": "超越百岁",
-  "article_count": 89,
-  "last_content_date": "2026-11-26",
-  "content_revision": "4e8263206c1c45456edc14757e8c9c18c5db116471031c35cec2ff378dce9919",
+  "article_count": 90,
+  "last_content_date": "2026-11-27",
+  "content_revision": "de0bdfa24d9bd4f1b87e05fb9e835116d42d0b8809f8dc5b805c9e0e979c3bf4",
   "articles": [
     {
       "id": 22,
@@ -4311,6 +4311,54 @@
           "strength",
           "speed",
           "power",
+          "coordination",
+          "recovery-capacity"
+        ]
+      }
+    },
+    {
+      "id": 116,
+      "stable_id": "beyond100-116",
+      "series": "超越百岁",
+      "title": "腿举后膝痛有改善，过一段时间又反复是为什么",
+      "content_date": "2026-11-27",
+      "status": "final",
+      "platform": "wechat",
+      "article_path": "platforms/wechat/articles/20261127_第116篇_腿举后膝痛有改善，过一段时间又反复是为什么/20261127_第116篇_腿举后膝痛有改善，过一段时间又反复是为什么.md",
+      "summary_path": "platforms/wechat/articles/20261127_第116篇_腿举后膝痛有改善，过一段时间又反复是为什么/20261127_第116篇_腿举后膝痛有改善，过一段时间又反复是为什么_公众号摘要.md",
+      "summary": "腿举后膝痛变轻，可能只是当下症状被调低，不能直接证明负荷耐受已经恢复。把训练当下、次日反应和走路上楼的变化分开，才能判断该保留腿举、撤回加量，还是转专业评估更稳妥。",
+      "covers": {
+        "16比9": "platforms/wechat/articles/20261127_第116篇_腿举后膝痛有改善，过一段时间又反复是为什么/20261127_第116篇_腿举后膝痛有改善，过一段时间又反复是为什么_封面_16比9.jpg",
+        "235比100": "platforms/wechat/articles/20261127_第116篇_腿举后膝痛有改善，过一段时间又反复是为什么/20261127_第116篇_腿举后膝痛有改善，过一段时间又反复是为什么_封面_235比100.jpg"
+      },
+      "illustrations": [
+        "platforms/wechat/articles/20261127_第116篇_腿举后膝痛有改善，过一段时间又反复是为什么/20261127_第116篇_腿举后膝痛有改善，过一段时间又反复是为什么_插图01_一次轻松与长期恢复的核心区别.jpg",
+        "platforms/wechat/articles/20261127_第116篇_腿举后膝痛有改善，过一段时间又反复是为什么/20261127_第116篇_腿举后膝痛有改善，过一段时间又反复是为什么_插图02_腿举与楼梯的任务对照.jpg",
+        "platforms/wechat/articles/20261127_第116篇_腿举后膝痛有改善，过一段时间又反复是为什么/20261127_第116篇_腿举后膝痛有改善，过一段时间又反复是为什么_插图03_膝痛反复的三条时间线路径.jpg"
+      ],
+      "taxonomy": {
+        "primary_category": "load-recovery",
+        "dimensions": [
+          "function",
+          "rhythm"
+        ],
+        "decision_stages": [
+          "red-flags",
+          "movement",
+          "load",
+          "recovery",
+          "review"
+        ],
+        "body_regions": [
+          "knee"
+        ],
+        "movement_tasks": [
+          "walking",
+          "stairs",
+          "single-leg"
+        ],
+        "capacities": [
+          "strength",
           "coordination",
           "recovery-capacity"
         ]
