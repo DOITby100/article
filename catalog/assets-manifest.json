@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "file_count": 658,
-  "content_revision": "de0bdfa24d9bd4f1b87e05fb9e835116d42d0b8809f8dc5b805c9e0e979c3bf4",
+  "file_count": 665,
+  "content_revision": "fb7ce46c97e26d37b1027a804a04246573a831735f1aed86c17bc3c1f118fa98",
   "files": [
     {
       "relative_path": "platforms/wechat/articles/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的/20260817_第022篇_盆底肌松弛不是“生育税”，是可以逆转的.md",
@@ -3292,6 +3292,41 @@
       "relative_path": "platforms/wechat/articles/20261127_第116篇_腿举后膝痛有改善，过一段时间又反复是为什么/20261127_第116篇_腿举后膝痛有改善，过一段时间又反复是为什么_插图03_膝痛反复的三条时间线路径.jpg",
       "size_bytes": 1206648,
       "sha256": "fdb305710ab81546f358a643f278d9ae60c0ebe9d0a31cd2ce1d26c91e55fa56"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261128_第117篇_补了益生元，肠道菌群变了，腿力跟上了吗？/20261128_第117篇_补了益生元，肠道菌群变了，腿力跟上了吗？.md",
+      "size_bytes": 4750,
+      "sha256": "b293f41410b54771e1ec9aaf21453eee73ff20de03f77bd665f519e8ba09e36c"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261128_第117篇_补了益生元，肠道菌群变了，腿力跟上了吗？/20261128_第117篇_补了益生元，肠道菌群变了，腿力跟上了吗？_公众号摘要.md",
+      "size_bytes": 271,
+      "sha256": "8608cebbfa19b70d77c55678f8587442b7f78315a8d920f0ff119e93f1489959"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261128_第117篇_补了益生元，肠道菌群变了，腿力跟上了吗？/20261128_第117篇_补了益生元，肠道菌群变了，腿力跟上了吗？_封面_16比9.jpg",
+      "size_bytes": 1675263,
+      "sha256": "6431a355b5c13a9e979233494c44ee572bfbbf626e98f844ae2129201e877d25"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261128_第117篇_补了益生元，肠道菌群变了，腿力跟上了吗？/20261128_第117篇_补了益生元，肠道菌群变了，腿力跟上了吗？_封面_235比100.jpg",
+      "size_bytes": 1476154,
+      "sha256": "211590af6a2ac1111bdf0b946d747d1bd4c0ad223d9de3dc153cb34531d28c19"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261128_第117篇_补了益生元，肠道菌群变了，腿力跟上了吗？/20261128_第117篇_补了益生元，肠道菌群变了，腿力跟上了吗？_插图01_菌群变化与功能改善的核心概念.jpg",
+      "size_bytes": 933764,
+      "sha256": "ae6c38de359793949b955a9d0ef809e94d5cdac7cb18a323916d1123eb81f626"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261128_第117篇_补了益生元，肠道菌群变了，腿力跟上了吗？/20261128_第117篇_补了益生元，肠道菌群变了，腿力跟上了吗？_插图02_从肠道响应到起身表现的机制间隔.jpg",
+      "size_bytes": 1505481,
+      "sha256": "5764e60b88f0161f46cc6199a4343c5f4ea16ec25167eeabb68318a14e030ce7"
+    },
+    {
+      "relative_path": "platforms/wechat/articles/20261128_第117篇_补了益生元，肠道菌群变了，腿力跟上了吗？/20261128_第117篇_补了益生元，肠道菌群变了，腿力跟上了吗？_插图03_按目标选择观察结果的决策路径.jpg",
+      "size_bytes": 1110345,
+      "sha256": "a7dc2d9832137b21db1547dfe4574b7ffd677426a85b1cdd3f78338f2459ca34"
     }
   ]
 }

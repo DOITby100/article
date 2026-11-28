@@ -2441,6 +2441,33 @@
         "coordination",
         "recovery-capacity"
       ]
+    },
+    "117": {
+      "primary_category": "evidence-myths",
+      "dimensions": [
+        "function",
+        "rhythm"
+      ],
+      "decision_stages": [
+        "red-flags",
+        "foundation",
+        "movement",
+        "load",
+        "review"
+      ],
+      "body_regions": [
+        "whole-body"
+      ],
+      "movement_tasks": [
+        "standing",
+        "sit-to-stand"
+      ],
+      "capacities": [
+        "strength",
+        "balance",
+        "coordination",
+        "recovery-capacity"
+      ]
     }
   }
 }
